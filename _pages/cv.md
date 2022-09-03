@@ -14,9 +14,7 @@ Education
 * 2019.09-2023.06: B.S., School of Computer Science and Technology, Soochow University, Suzhou, China.
 * 2022.01-2022.02: Visit Student, Harvard University, Cambridge, Massachusetts, USA.
 * 2023.09-2028.06: Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China.
-<!-- * B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+
 
 Work experience
 ======
