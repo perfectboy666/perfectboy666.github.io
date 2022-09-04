@@ -12,11 +12,9 @@ redirect_from:
 Education
 ======
 * 2019.09-2023.06: B.S., School of Computer Science and Technology, Soochow University, Suzhou, China.
-* 2022.01-2022.02: Visit Student, Harvard University, Cambridge, Massachusetts, USA.
+* 2022.01-2022.02: Visit Student, Harvard University, Cambridge, USA, advised by Prof. Peter Vaughan Henstock.
 * 2023.09-2028.06: Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China.
-* 2019.09-2023.06: 苏州大学，计算机科学与技术学院，计算机科学与技术，工学学士
-* 2022.01-2022.02: 哈佛大学，人工智能与大数据，访问学生
-* 2023.09-2028.06: 中国人民大学，高瓴人工智能学院，人工智能，工学博士
+
 
 Work experience
 ======
@@ -31,34 +29,133 @@ Work experience
   * Undergraduate Research Intern
   * Supervisor: Prof. Zhongqin Wang
   * Research direction: Natural Language Processing
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+
+
+Scholarships 🏆
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* National Scholarship
+ * 2021, Ministry of Education
+
+* Special Scholarship for Innovation and Entrepreneurship
+  * 2021, Soochow University
+
+* First-class Scholarship for Study Excellence
+  * 2021, Soochow University
+
+* Special Scholarship for Social Work
+  * 2021, Soochow University
+
+* Comprehensive Scholarship
+  * 2021, Soochow University
+
+* Yuhan Scholarship
+  * 2020, Soochow University
+
+* First-class Scholarship for Study Excellence
+  * 2020, Soochow University
+
+* Comprehensive Scholarship
+  * 2020, Soochow University
+
+* Special Scholarship for Spiritual Civilization
+  * 2020, Soochow University
+
+Competition awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+Sort by time.
+
+* "Zhengda Cup" National College Student Market Research and Analysis Competition Soochow University Competition, First Prize
+  * 2022, School-level Competition
+
+* Youth Volunteer Service Charity Entrepreneurship Competition of Soochow University, Third Prize
+  * 2021, School-level Competition
+
+* "SUDA Tiangong Cup" "Challenge Cup" College Student Entrepreneurship Planning Competition of Soochow University, First Prize
+  * 2021, School-level Competition
+
+* Contemporary Undergraduate Mathematical Contest in Modeling, Second Prize
+  * 2021, National Competition
+
+* China International "Internet +" University Student Innovation and Entrepreneurship Competition in Jiangsu Division, Third Prize
+  * 2021, Provincial Competition
+
+* National University Student E-Commerce "Innovation, Creativity and Entrepreneurship" Challenge in Jiangsu Division, First Prize
+  * 2021, Provincial Competition
+
+* National Finals of Blue Bridge Cup National Software and Information Technology Professional Talent Competition, Third Prize
+  * 2021, National Competition
+
+* the 18th Higher Mathematics Competition of Jiangsu Provincial Colleges and Universities, Third Prize
+  * 2021, Provincial Competition
+
+* "Foreign Education Club·Word Master Cup" National College Students' English Vocabulary Ability Competition Jiangsu Division Provincial Competition and Jiangsu Provincial College Students English Vocabulary Competition, First Prize
+  * 2021, Provincial Competition
+
+* University Student Knowledge Contest (Science and Engineering Group) in Jiangsu, Excellent Prize
+  * 2021, Provincial Competition
+
+* "Internet +" Undergraduate Innovation and Entrepreneurship Competition of Soochow University, Second Prize
+  * 2021, School-level Competition
+
+* National University Student E-commerce "Innovation, Creativity and Entrepreneurship" Challenge Soochow University Competition, Special Prize
+  * 2021, School-level Competition
+
+* Blue Bridge Cup National Software and Information Technology Professional Talent Competition in Jiangsu Division, First Prize
+  * 2021, Provincial Competition
+
+* Mathematical Contest In Modeling (MCM/ICM), Successful Participant
+  * 2021, World-class Competition
+
+* "Challenge Cup" college students extracurricular academic science and technology works competition of Soochow University, Second Prize
+  * 2021, School-level Competition
+
+* "Zhengda Cup" National College Student Market Research and Analysis Competition Soochow University Competition, Second Prize
+  * 2021, School-level Competition
+
+* Advanced Mathematics Competition of Soochow University, Third Prize
+  * 2021, School-level Competition
+
+* "My Hometown Social Practice Story Collection" Contest of Soochow University, Second Prize
+  * 2020, School-level Competition
+
+* National College Student Mathematics Competition (non-mathematics), Third Prize
+  * 2020, Provincial Competition
+
+* National Colleges and Universities Mathematics Ability Challenge Finals, Excellence Award
+  * 2020, National Competition
+
+* the Preliminary Competition of the National College Mathematics Ability Challenge, Excellence Award
+  * 2020, Provincial Competition
+
+Honorary titles
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Merit Student in Jiangsu Province
+  * 2022
+
+* Advanced Individual in Summer Social Practice Activities of Jiangsu Province
+  * 2021
+
+* Advanced Individual in Summer Social Practice Activities of Soochow University
+  * 2021
+
+* Top Ten Young Volunteers of Soochow University in 2020
+  * 2021
+
+* "Outstanding Communist Youth League Cadre" of School of Computer Science and Technology
+  * 2021
+
+* "Outstanding Student Leader" of Soochow University
+  * 2020, 2021
+
+* Nominated for "Jiangsu University Student's Most Beautiful Anti-epidemic Volunteer"
+  * 2020
+
+* "Star of Anti-epidemic" of Soochow University
+  * 2020
+
+* "Excellent Communist Youth League Member" of Soochow University
+  * 2020
+
+* "Advanced Individuals in Epidemic Prevention and Control" of Soochow University
+  * 2020
