@@ -16,7 +16,9 @@ I'm also a contributor of Zhihu and CSDN, and I usually pay attention to some cu
 Contact
 ======
 Policital Status: Party Member of CPC
+
 Email Address: shitongyue@me.com
+
 Office: Science & Engineering Building, Room 412, Soochow University, Suzhou, China
 
 
