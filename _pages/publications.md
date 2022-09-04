@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Works: papers, patents and software copyrights"
 permalink: /publications/
 author_profile: true
 ---
