@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tongyue Shi"
+title: "Tongyue Shi（史童月）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
