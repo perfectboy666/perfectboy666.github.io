@@ -12,6 +12,14 @@ I'm currently an undergraduate student in the artificial intelligence experiment
 
 I'm also a contributor of Zhihu and CSDN, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact with your personal introduction.
 
+
+Contact
+======
+Policital Status: Party Member of CPC
+Email Address: shitongyue@me.com
+Office: Science & Engineering Building, Room 412, Soochow University, Suzhou, China
+
+
 News
 ======
 * [06/2022] It is a great honor for me to be awarded the "Merit Student in Jiangsu Province" (江苏省普通高等学校省级三好学生), which is also the only honor of the college. I will continue to work hard and learn from outstanding students in the future!
