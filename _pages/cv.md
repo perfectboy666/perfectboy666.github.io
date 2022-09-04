@@ -27,7 +27,7 @@ Work experience
 * NLP Lab of Soochow University 
   * 2021.07 - now
   * Undergraduate Research Intern
-  * Supervisor: Prof. Zhongqin Wang
+  * Supervisor: Prof. Zhongqing Wang
   * Research direction: Natural Language Processing
 
 
