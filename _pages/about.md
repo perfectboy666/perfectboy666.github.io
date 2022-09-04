@@ -10,41 +10,20 @@ redirect_from:
 
 I'm currently an undergraduate student in the artificial intelligence experimental class of the School of Computer Science and Technology, Soochow University, and will be studying for a doctorate at the Gaoling School of Artificial Intelligence, Renmin University of China.
 
-A data-driven personal website
+Biography
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I'm an undergraduate student majoring in Computer Science and Technology (Artificial Intelligence) in Soochow University. My research interest lies on AI for Natural Language Processing (NLP), Computer Vision (CV), Business Big Data Analysis, etc.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Master language programming and algorithms such as Python, C, C++, Java, Matlab, JavaScript, and pass computer CCF-CSP certification; familiar with deep learning natural language processing, computer vision related models, and use of deep learning frameworks such as PyTorch and TensorFlow; master web development Work with the production of WeChat mini programs and the editing and operation of WeChat official accounts; master the use of advanced office, picture, and video processing software; have English listening, speaking, reading and writing skills, pass the CET Band 4 and 6; master data processing and big data analysis skills , Familiar with market research, obtained the National Market Research and Analysis Professional Skills Certificate; participated in many academic research, innovation and entrepreneurship projects and competitions such as the National College Student Mathematical Modeling Contest, Internet+, Challenge Cup, etc. I obtained a number of patents and software copyrights; Multi-volunteer, student activity organization participation and management planning experience.
 
-Getting started
+I'm a contributor of Zhihu and CSDN, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact with your personal introduction.
+
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* [06/2022] It is a great honor for me to be awarded the "Merit Student in Jiangsu Province" (江苏省普通高等学校省级三好学生), which is also the only honor of the college. I will continue to work hard and learn from outstanding students in the future!
+* [01/2022] I'm very happy to participate in the exchange program at Harvard University.✊ Our co-tutor Professor Peter Vaughan Henstock and course assistant Jonathan Zhang are very dedicated and responsible. Through such a short time of communication, our basic knowledge of artificial intelligence and the level of English have been greatly improved.
+* [12/2021] As a contributor, I participated in the HUAWEI Ascend All-Wisdom Project (华为昇腾众智计划), and completed the infering work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded.💪
+* [10/2021] I was awarded the 2020-2021 National Scholarship (国家奖学金) for Undergraduatesbecause of my outstanding academic performance, social practice, innovation ability, and comprehensive quality. I am very happy that the previous efforts have been recognized, and I will continue to cheer in the future! 🎉
+* [05/2021] I joined the Natural Language Processing Lab of Soochow University (苏州大学自然语言处理实验室) to conduct undergraduate research! 😋
+* [07/2020] In the spring of 2020, a sudden outbreak of new coronavirus pneumonia swept the world. I performed outstandingly in the great fight against the epidemic, and was rated as an Outstanding Member of the Communist Youth League of Soochow University and the Star of Fighting Epidemic of Soochow University (苏州大学优秀共青团员、抗疫之星). These are the first time I have won school-level honors in university, and they are also a milestone inspiring me to continue to cheer in the future! ✊
+* [09/2019] I was admitted to the medical laboratory technology major of Soochow University Medical Department with excellent grades, but with the yearning for computers since childhood, I chose to join the Artificial Intelligence Experimental Class (AIEX) of Soochow University. This is a test product for the curriculum reform of Soochow University, which continues the glory of China's artificial intelligence by selecting outstanding students. 💪
