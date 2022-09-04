@@ -10,13 +10,7 @@ redirect_from:
 
 I'm currently an undergraduate student in the artificial intelligence experimental class of the School of Computer Science and Technology, Soochow University, and will be studying for a doctorate at the Gaoling School of Artificial Intelligence, Renmin University of China.
 
-Biography
-======
-I'm an undergraduate student majoring in Computer Science and Technology (Artificial Intelligence) in Soochow University. My research interest lies on AI for Natural Language Processing (NLP), Computer Vision (CV), Business Big Data Analysis, etc.
-
-Master language programming and algorithms such as Python, C, C++, Java, Matlab, JavaScript, and pass computer CCF-CSP certification; familiar with deep learning natural language processing, computer vision related models, and use of deep learning frameworks such as PyTorch and TensorFlow; master web development Work with the production of WeChat mini programs and the editing and operation of WeChat official accounts; master the use of advanced office, picture, and video processing software; have English listening, speaking, reading and writing skills, pass the CET Band 4 and 6; master data processing and big data analysis skills , Familiar with market research, obtained the National Market Research and Analysis Professional Skills Certificate; participated in many academic research, innovation and entrepreneurship projects and competitions such as the National College Student Mathematical Modeling Contest, Internet+, Challenge Cup, etc. I obtained a number of patents and software copyrights; Multi-volunteer, student activity organization participation and management planning experience.
-
-I'm a contributor of Zhihu and CSDN, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact with your personal introduction.
+I'm also a contributor of Zhihu and CSDN, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact with your personal introduction.
 
 News
 ======
