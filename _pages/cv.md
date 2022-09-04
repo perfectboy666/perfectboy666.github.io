@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Introduction"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,7 +14,9 @@ Education
 * 2019.09-2023.06: B.S., School of Computer Science and Technology, Soochow University, Suzhou, China.
 * 2022.01-2022.02: Visit Student, Harvard University, Cambridge, Massachusetts, USA.
 * 2023.09-2028.06: Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China.
-
+* 2019.09-2023.06: 苏州大学，计算机科学与技术学院，计算机科学与技术，工学学士
+* 2022.01-2022.02: 哈佛大学，人工智能与大数据，访问学生
+* 2023.09-2028.06: 中国人民大学，高瓴人工智能学院，人工智能，工学博士
 
 Work experience
 ======
