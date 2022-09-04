@@ -35,7 +35,7 @@ Work experience
 Scholarships 🏆
 ======
 * National Scholarship
- * 2021, Ministry of Education
+  * 2021, Ministry of Education
 
 * Special Scholarship for Innovation and Entrepreneurship
   * 2021, Soochow University
@@ -159,3 +159,45 @@ Honorary titles
 
 * "Advanced Individuals in Epidemic Prevention and Control" of Soochow University
   * 2020
+
+Social Activities
+======
+
+* Commissary in Charge of Publicity    2020.2 - now
+  * 2019 Artificial Intelligence Class 2
+
+* Class Assistant    2021.9 - now
+  * 2021 Software Engineering Class 2
+
+* Class Assistant    2022.8 - now
+  * 2022 Computer Science Class 1
+
+* Journalist    2021.7 - 2021.9
+  * "School Media Watching Practice" Student Press Team of Soochow University
+
+* Minister    2020.8 - 2021.8
+  * Publicity Center, Student Union of School of Computer Science and Technology
+
+* Minister    2020.7 - 2021.7
+  * Propaganda Department, Soochow University League School
+
+* Key Volunteers    2020.9 - 2020.11
+  * Celebration Organizing Committee, 120th Anniversary of Soochow University
+
+* Propaganda Specialist    2020.7 - 2020.11
+  * School of Computer Science and Technology, Soochow University
+
+* Clerk    2019.9 - 2020.7
+  * Graphic Center, Student Science and Technology Association of Soochow University
+
+* Clerk    2019.9 - 2020.7
+  * New Media Center, Youth Volunteers Association of Soochow University
+
+* Clerk    2019.9 - 2020.7
+  * Propaganda Department, Soochow University League School
+
+* Clerk    2019.9 - 2020.7
+  * Publicity Center, Student Union of School of Computer Science and Technology
+
+* Clerk    2019.9 - 2020.7
+  * Media Department, Youth Media Center of Soochow University Youth League Committee

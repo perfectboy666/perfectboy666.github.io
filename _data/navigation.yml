@@ -4,24 +4,24 @@ main:
   - title: "Introdction"
     url: /cv/
 
-  - title: "Publications"
+  - title: "Works"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
 
-  - title: "Honors & Rewards"
-    url: /hr/
+  # - title: "Honors & Rewards"
+  #   url: /hr/
 
   - title: "中文"
     url: /markdown/
