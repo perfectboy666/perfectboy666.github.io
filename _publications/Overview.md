@@ -2,7 +2,7 @@
 title: "基于Transformer的自然语言处理预训练语言模型概述"
 collection: publications
 permalink: /publication/Overview
-excerpt: '史童月,王中卿'
+excerpt: '史童月，王中卿'
 date: 2022-4-4
 venue: '信息与电脑'
 paperurl: ''

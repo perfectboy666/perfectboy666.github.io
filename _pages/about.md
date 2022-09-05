@@ -16,7 +16,7 @@ I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edg
 Contact
 ======
 * Email Address: shitongyue@me.com
-* Office: Science & Engineering Building, Room 412, Soochow University, Suzhou, China
+* Office: Room 412, Science & Engineering Building, Soochow University, Suzhou, China
 
 
 News
