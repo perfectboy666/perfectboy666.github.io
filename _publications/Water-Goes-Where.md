@@ -2,10 +2,10 @@
 title: "Water Goes Where? A Water Resource Allocation Method Based on Multi-Objective Decision-Making"
 collection: publications
 permalink: /publication/Water-Goes-Where
-excerpt: 'Test!'
+excerpt: 'Tongyue Shi, Siyu Tao, Haining Wang'
 date: 2022-8-8
 venue: 'arXiv'
-paperurl: 'https://arxiv.org/pdf/2208.04138.pdf'
+paperurl: ''
 citation: 'Shi T, Tao S, Wang H. Water Goes Where? A Water Resource Allocation Method Based on Multi-Objective Decision-Making[J]. arXiv preprint arXiv:2208.04138, 2022.'
 ---
 For a long time, water and hydroelectric power are relatively important resources. Their
