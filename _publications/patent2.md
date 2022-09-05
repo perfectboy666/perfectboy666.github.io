@@ -3,7 +3,8 @@ title: "一种包含嵌入式微型计算机的温控智能鞋"
 collection: publications
 permalink: /publication/patent2
 excerpt: '史童月，曹敏'
-date: 20中国专利'
+date: 2022-2-22
+venue: '中国专利'
 paperurl: ''
 citation: '史童月,曹敏. 一种包含嵌入式微型计算机的温控智能鞋[P]. 江苏省：CN215873629U,2022-02-22.'
 ---
