@@ -1,5 +1,5 @@
 ---
-title: "A TemperaturE-controlled Smart Shoe Containing an Embedded Microcomputer"
+title: "A Temperature Controlled Smart Shoe Containing an Embedded Microcomputer"
 collection: publications
 permalink: /publication/patent2
 excerpt: 'Tongyue Shi and Min Cao'
