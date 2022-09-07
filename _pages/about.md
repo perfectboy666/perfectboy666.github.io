@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently an undergraduate student in the Artificial Intelligence Experimental Class of the School of Computer Science and Technology, Soochow University, and will be studying at the Gaoling School of Artificial Intelligence, Renmin University of China.
 
-I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact with your personal introduction.
+I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact me.
 
 
 Contact
