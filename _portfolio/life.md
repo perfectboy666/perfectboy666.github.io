@@ -1,6 +1,6 @@
 ---
 title: "WHAT IS LIFE"
-excerpt: "It's good to be happy every day<br/><img src='/images/loveeee.jpeg'>"
+excerpt: "It's good to be happy every day<br/><img src='/images/loveeee.jpg'>"
 collection: portfolio
 ---
 That is to meet one who is suitable in all aspects
