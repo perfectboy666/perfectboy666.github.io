@@ -23,10 +23,10 @@ main:
   # - title: "Honors & Rewards"
   #   url: /hr/
 
-  - title: "Zhihu"
-    url: 'https://www.zhihu.com/people/outstandingboy'
+  # - title: "Zhihu"
+  #   url: 'https://www.zhihu.com/people/outstandingboy'
 
-  - title: "Zhihu2"
+  - title: "Blog"
     url: https://www.zhihu.com/people/outstandingboy
 
   - title: "中文"
