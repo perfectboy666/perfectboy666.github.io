@@ -26,8 +26,8 @@ main:
   # - title: "Zhihu"
   #   url: 'https://www.zhihu.com/people/outstandingboy'
 
-  - title: "Blog"
-    url: https://www.zhihu.com/people/outstandingboy
+  # - title: "Blog"
+  #   url: https://www.zhihu.com/people/outstandingboy
 
   - title: "中文"
     url: /markdown/
