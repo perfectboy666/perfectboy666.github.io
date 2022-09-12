@@ -1,7 +1,34 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/dog.jpeg'>"
+title: "WHAT IS LIFE"
+excerpt: "It's good to be happy every day<br/><img src='/images/loveeee.jpeg'>"
 collection: portfolio
 ---
+That is to meet one who is suitable in all aspects
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Brave enough to live in this world with TA
+
+To complete what you want to do and all unknown things
+
+Have your own little life with TA
+
+It's not the sun that wakes me up every morning
+
+But TA cooks with TA
+
+Cook for each other
+
+Life is both petty bourgeoisie and exquisite
+
+Work out with TA, run at night, ride at night and run a marathon
+
+I don't want to see anything in the world,
+
+I just want to live a good life with TA,
+
+A life of two points and one line and a family of three with one cat
+
+First make your life wonderful and then look forward to it,
+
+Waiting for the arrival of that person
+
+When TA and I have a stable job and income
