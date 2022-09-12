@@ -2,7 +2,7 @@
 title: "A Temperature-Controlled Smart Shoe Containing an Embedded Microcomputer"
 collection: publications
 permalink: /publication/patent2
-excerpt: 'Tongyue Shi and Min Cao'
+excerpt: '**Tongyue Shi** and Min Cao'
 date: 2022-2-22
 venue: 'Utility Model Patent'
 # paperurl: ''

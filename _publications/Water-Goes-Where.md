@@ -2,7 +2,7 @@
 title: "Water Goes Where? A Water Resource Allocation Method Based on Multi-Objective Decision-Making"
 collection: publications
 permalink: /publication/Water-Goes-Where
-excerpt: 'Tongyue Shi, Siyu Tao, Haining Wang'
+excerpt: '**Tongyue Shi**, Siyu Tao, Haining Wang'
 date: 2022-8-8
 venue: 'arXiv'
 paperurl: ''

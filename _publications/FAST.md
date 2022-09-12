@@ -2,7 +2,7 @@
 title: "Research on FAST Active Reflector Adjustment Algorithm Based on Computer Simulation"
 collection: publications
 permalink: /publication/FAST
-excerpt: '*Tongyue Shi*, Siyu Tao, Haining Wang'
+excerpt: '**Tongyue Shi**, Siyu Tao, Haining Wang'
 date: 2022-4-12
 venue: 'arXiv'
 paperurl: ''

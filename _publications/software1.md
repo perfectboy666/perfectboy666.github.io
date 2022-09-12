@@ -2,7 +2,7 @@
 title: "Deep Learning Information Collection Software V1.0"
 collection: publications
 permalink: /publication/software1
-excerpt: 'Tongyue Shi'
+excerpt: 'Soochow University (**Tongyue Shi** and Zhongqing Wang)'
 date: 2021-9-11
 venue: 'Software Copyright'
 # paperurl: ''

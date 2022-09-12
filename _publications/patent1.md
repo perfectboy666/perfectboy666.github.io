@@ -2,7 +2,7 @@
 title: "A Computer Host Chassis Cleaning Device"
 collection: publications
 permalink: /publication/patent1
-excerpt: 'Tongyue Shi and Zhongqing Wang'
+excerpt: '**Tongyue Shi** and Zhongqing Wang'
 date: 2022-2-11
 venue: 'Utility Model Patent'
 # paperurl: ''

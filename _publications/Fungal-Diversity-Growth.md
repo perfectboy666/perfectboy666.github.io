@@ -2,7 +2,7 @@
 title: "Mathematical Modeling Analysis and Optimization of Fungal Diversity Growth"
 collection: publications
 permalink: /publication/Fungal-Diversity-Growth
-excerpt: 'Tongyue Shi and Haining Wang'
+excerpt: '**Tongyue Shi** and Haining Wang'
 date: 2022-8-4
 venue: 'arXiv'
 paperurl: ''

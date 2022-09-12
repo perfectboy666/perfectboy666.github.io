@@ -3,7 +3,7 @@ title: "Overview of Transformer-based Pre-trained Language Models for Natural
 Language Processing"
 collection: publications
 permalink: /publication/Overview
-excerpt: 'Tongyue Shi and Zhongqing Wang'
+excerpt: '**Tongyue Shi** and Zhongqing Wang'
 date: 2022-4-4
 venue: 'China Computer & Communication'
 # paperurl: ''

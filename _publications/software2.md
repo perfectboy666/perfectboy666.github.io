@@ -2,7 +2,7 @@
 title: "Job-User Matching Recommendation System Based on Artificial Intelligence Algorithm"
 collection: publications
 permalink: /publication/software2
-excerpt: 'Tongyue Shi and Zhangjing Shi'
+excerpt: '**Tongyue Shi** and Zhangjing Shi'
 date: 2022-4-11
 venue: 'Software Copyright'
 # paperurl: ''
