@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tongyue Shi"
 title_separator          : "-"
-name                     : &name "Tongyue Shi"
+name                     : &name "Tongyue Shi 史童月"
 description              : &description "personal description"
 url                      : https://perfectboy666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tongyue Shi（史童月）"
+  name             : "Tongyue Shi"
   avatar           : "mee.jpg"
   bio              : "Want to be an AI scientist~😁"
   location         : "Suzhou, China"
