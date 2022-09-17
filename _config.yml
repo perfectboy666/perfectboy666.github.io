@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tongyue Shi"
+title                    : "Tongyue Shi 史童月"
 title_separator          : "-"
-name                     : &name "Tongyue Shi 史童月"
+name                     : &name "Tongyue Shi"
 description              : &description "personal description"
 url                      : https://perfectboy666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
