@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tongyue Shi 史童月"
+title                    : "Tongyue Shi"
 title_separator          : "-"
 name                     : &name "Tongyue Shi"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tongyue Shi"
+  name             : "Tongyue Shi（史童月）"
   avatar           : "mee.jpg"
   bio              : "Want to be an AI scientist~😁"
   location         : "Suzhou, China"
