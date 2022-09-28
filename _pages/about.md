@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an undergraduate student in the [Artificial Intelligence Experimental Class](http://aiclass.jwb.suda.edu.cn/) of the [School of Computer Science and Technology](http://scst.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/) (GPA: 3.9/4.0, rank 1st in the major), and will be studying at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/).
+I'm currently an undergraduate student in the [Artificial Intelligence Experimental Class](http://aiclass.jwb.suda.edu.cn/) of the [School of Computer Science and Technology](http://scst.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/) (GPA: 3.9/4.0, rank 1st in the major), and will be studying at the [National Institute of Health Data Science](http://www.nihds.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
 
-My primary research interest is Computer Science, Artificial Intelligence, Natural Language Processing, etc.
+My primary research interest is Computer Science, Artificial Intelligence and Medical Big Data Mining, etc.
 
 I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact me.
 

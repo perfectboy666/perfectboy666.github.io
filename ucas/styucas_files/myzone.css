@@ -1,0 +1,417 @@
+@media screen {
+    /* default global style */
+    body {
+        /*font-family: Simsun,Verdana, Arial, "sans-serif";*/
+        font-family: \5fae\8f6f\96c5\9ed1, Verdana, Arial, Helvetica, \5b8b\4f53, sans-serif;
+        overflow-y: scroll;
+    }
+
+    .ie7 body { overflow-y: visible; }
+    html.ie7 { overflow-y: scroll; }
+
+
+    /*------------------------------------------------------------
+    * base
+    */
+
+
+    /*------------------------------------------------------------
+    * header
+    */
+    #header {
+        
+    }
+
+    #header .container {
+        position: relative;
+        zoom: 1;
+        opacity: 1;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+
+    #logo {
+        display: block;
+        width: 486px;
+        height: 100px;
+        background: transparent;
+    }
+    #logo img{
+        width: 486px;
+        height:100px;
+    }
+
+    #logo span { display: none; }
+
+    .b-topbar {
+        position: absolute;
+        right: 0;
+        bottom: 20px;
+    }
+
+    .b-topbar a {
+        display: inline-block;
+        margin-left: 20px;
+        font-size: 12px;
+        color: #666;
+    }
+
+    .b-topbar a:hover { color: #ff3300; }
+
+    /*------------------------------------------------------------
+    * main-content
+    */
+    #myzone3 #main-content .container {
+        border: 1px solid #ccc;
+    }
+
+    /*------------------------------------------------------------
+    * menu
+    */
+    #myzone1 .b-menu {
+        margin-bottom: 60px;
+    }
+
+    #myzone1 .b-menu ul {
+        margin-left: 0;
+        margin-bottom: 0;
+        list-style-type: none;
+        background-color: #3b6ea5;
+    }
+
+    #myzone1 .b-menu ul li {
+        float: left;
+    }
+
+    #myzone1 .b-menu ul li a {
+        display: block;
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        color: #fff;
+    }
+
+    #myzone1 .b-menu ul li a:hover {
+        background-color: #ff6600;
+        text-decoration: none;
+    }
+
+    #myzone1 .b-menu ul li ul {
+        display: none;
+    }
+
+    #myzone1 .b-menu {
+        margin-bottom: 60px;
+    }
+    
+    /* myzone2 */
+    #myzone2 .b-menu ul {
+        margin-left: 0;
+        margin-bottom: 0;
+        list-style-type: none;
+    }
+
+    #myzone2 .b-menu ul li {
+        display: inline;
+    }
+
+    #myzone2 .b-menu ul li a {
+        float: left;
+        display: block;
+        margin-left: 3px;
+        margin-bottom: 3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        color: #0066cc;
+    }
+
+    #myzone2 .b-menu ul li a:hover {
+        color: #ff3300;
+        text-decoration: none;
+    }
+
+    #myzone2 .b-menu ul li ul {
+        display: none;
+    }
+
+    #myzone2 .b-menu {
+        margin-bottom: 10px;
+    }
+
+
+    /* myzone3 */
+    #myzone3 .b-menu {
+        float: right;
+        margin: 20px;
+        padding: 10px;
+        width: 200px;
+        border: 1px solid #ccc;
+    }
+
+    #myzone3 .b-menu ul {
+        margin-bottom: 0;
+        list-style-type: none;
+    }
+
+    #myzone3 .b-menu ul li {
+        color: #333;
+        font-size: 12px;
+    }
+
+    #myzone3 .b-menu ul li a {
+        color: #0066cc;
+    }
+
+    #myzone3 .b-menu ul li a:hover {
+        color: #ff3300;
+        text-decoration: none;
+    }
+
+    #myzone3 .b-menu ul ul {
+        list-style-type: none;
+    }
+
+    #myzone3 .b-menu {
+        margin-bottom: 10px;
+    }
+
+
+    /*------------------------------------------------------------
+    * b-pinfo
+    */
+    #myzone1 .b-pinfo {
+        overflow: hidden;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #eee;
+    }
+
+    #myzone1 .b-pinfo .bp-photo {
+        float: left;
+        width: 150px;
+        height: 190px;
+    }
+
+    #myzone1 .b-pinfo .bp-nc {
+        margin-top: 10px;
+        margin-left: 200px;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
+    #myzone1 .b-pinfo .bp-enty {
+        margin-left: 200px;
+        margin-bottom: 10px;
+        font-size: 12px;
+        color: #666;
+    }
+
+    #myzone1 .b-pinfo .bp-inf {
+        margin-left: 200px;
+        font-size: 12px;
+        color: #666;
+    }
+
+    /* myzone2 */
+    #myzone2 .b-pinfo {
+        float: left;
+        padding-bottom: 20px;
+        width: 240px;
+        border: 1px solid #ccc;
+        text-align: center;
+    }
+
+    #myzone2 .bp-title {
+        margin-bottom: 20px;
+        padding: 5px 10px;
+        background-color: #eee;
+        border-bottom: 1px solid #ccc;
+        text-align: left;
+    }
+
+    #myzone2 .b-pinfo .bp-photo {
+        width: 150px;
+        height: 190px;
+    }
+
+    #myzone2 .b-pinfo .bp-nc {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        padding: 15px 10px 10px 10px;
+        border-top: 1px solid #eee;
+        font-weight: bold;
+        text-align: left;
+    }
+
+    #myzone2 .b-pinfo .bp-nc span {
+        display: block;
+    }
+
+    #myzone2 .b-pinfo .bp-enty {
+        margin-bottom: 20px;
+        padding: 0 10px;
+        font-size: 12px;
+        color: #666;
+        text-align: left;
+    }
+
+    #myzone2 .b-pinfo .bp-inf {
+        padding: 0 10px;
+        font-size: 12px;
+        color: #666;
+        text-align: left;
+    }
+
+
+    /* myzone3 */
+    #myzone3 .b-pinfo {
+        overflow: hidden;
+        margin-bottom: 20px;
+        padding: 20px;
+        border-bottom: 1px solid #eee;
+    }
+
+    #myzone3 .b-pinfo .bp-title { display: none; }
+
+    #myzone3 .b-pinfo .bp-photo {
+        float: left;
+        width: 200px;
+        height: 230px;
+    }
+
+    #myzone3 .b-pinfo .bp-nc {
+        margin-top: 10px;
+        margin-left: 180px;
+        margin-bottom: 10px;
+        font-weight: bold;
+    }
+
+    #myzone3 .b-pinfo .bp-enty {
+        margin-left: 220px;
+        margin-bottom: 10px;
+        font-size: 12px;
+        color: #666;
+    }
+
+    #myzone3 .b-pinfo .bp-inf {
+        margin-left: 180px;
+        font-size: 12px;
+        color: #666;
+    }
+
+
+
+
+    /*------------------------------------------------------------
+    * m-itme
+    */
+    #myzone1 .m-itme {
+        margin-bottom: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    #myzone1 .m-itme .mi-t {
+        overflow: hidden;
+        height: 30px;
+        line-height: normal;
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+    #myzone1 .m-itme .mi-t span {
+        display: block;
+        float: left;
+        padding: 5px 20px;
+        background-color: #3b6ea5;
+        color: #fff;
+    }
+
+    #myzone1 .m-itme .mi-box {
+        padding-top: 10px;
+    }
+
+    #myzone1 .m-itme .mi-box .mib-c {
+        font-size: 12px;
+        color: #666;
+    }
+
+    /* myzone2 */
+    #myzone2 .m-itme {
+        margin-left: 260px;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+        border: 1px solid #ccc;
+    }
+
+    #myzone2 .m-itme .mi-t {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 5px 10px;
+        height: 20px;
+        background-color: #eee;
+        border-bottom: 1px solid #ccc;
+        line-height: normal;
+        font-size: 14px;
+        font-weight: normal;
+    }
+
+
+    #myzone2 .m-itme .mi-box {
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    #myzone2 .m-itme .mi-box .mib-c {
+        font-size: 12px;
+        color: #666;
+    }
+
+
+
+    /* myzone3 */
+    #myzone3 .m-itme {
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+
+    #myzone3 .m-itme .mi-t {
+        margin-top: 0;
+        color: #0066cc;
+        line-height: normal;
+        font-weight: normal;
+    }
+
+    #myzone3 .m-itme .mi-t span {
+        
+    }
+
+    #myzone3 .m-itme .mi-box {
+        padding-top: 10px;
+    }
+
+    #myzone3 .m-itme .mi-box .mib-c {
+        font-size: 12px;
+        color: #666;
+    }
+
+
+
+    /*------------------------------------------------------------
+    * footer
+    */
+    #footer .container {
+        padding: 10px 0;
+        border-top: 1px solid #ccc;
+        font-size: 12px;
+        text-align: center;
+        color: #666;
+    }
+
+}
