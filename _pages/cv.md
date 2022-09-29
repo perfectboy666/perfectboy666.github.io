@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2019.08-2023.09: Before changing major, Suzhou Medical College, Soochow University, Suzhou, China.
+* 2019.08-2019.09: Before changing major, Suzhou Medical College, Soochow University, Suzhou, China.
 * 2019.09-2023.06(expected): B.S., School of Computer Science and Technology, Soochow University, Suzhou, China.
 * 2022.01-2022.02: Visit Student, Harvard University, Cambridge, USA, advised by Prof. Peter Vaughan Henstock.
 * 2023.09-2028.06(expected): M.S., National Institute of Health Data Science, Peking University, Beijing, China.
