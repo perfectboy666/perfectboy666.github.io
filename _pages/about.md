@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an undergraduate student in the [Artificial Intelligence Experimental Class](http://aiclass.jwb.suda.edu.cn/) of the [School of Computer Science and Technology](http://scst.suda.edu.cn/), [Soochow University](https://www.suda.edu.cn/) , and will be studying at the [Institute for Artificial Intelligence](http://www.ai.pku.edu.cn/) and [National Institute of Health Data Science](http://www.nihds.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
+I'm currently an undergraduate student in the [Artificial Intelligence Experimental Class](http://aiclass.jwb.suda.edu.cn/) of the [School of Computer Science and Technology](http://scst.suda.edu.cn/), [**Soochow University**](https://www.suda.edu.cn/) , and will be studying at the [Institute for Artificial Intelligence](http://www.ai.pku.edu.cn/) and [National Institute of Health Data Science](http://www.nihds.pku.edu.cn/), [**Peking University**](https://www.pku.edu.cn/)**.
 
 My primary research interest is Artificial Intelligence, Big Data Mining and Intelligent Decision-making, etc.
 
@@ -23,7 +23,8 @@ Contact
 
 News
 ======
-* [06/2022] It is a great honor for me to be awarded the "Merit Student in Jiangsu Province", which is also the only honor of the college. I will continue to work hard and learn from outstanding students in the future!
+* [09/2022] I'm very lucky to pursue the master's degree in Peking University. I have been interested in life science since childhood. After graduating from the college entrance examination, I dreamed of becoming a clinical medical student. Later, I happened to study computer science and artificial intelligence. Now I will research data science especially health and medical data, in the hope that IT can benefit the human life and health.💪ヾ(◍°∇°◍)ﾉﾞ
+* [06/2022] It is a great honor for me to be awarded the "Merit Student in Jiangsu Province", which is also the only this honor of the college. I will continue to work hard and learn from outstanding students in the future!
 * [01/2022] I'm very happy to participate in the exchange program at Harvard University.✊ Our co-tutor Professor Peter Vaughan Henstock and course assistant Jonathan Zhang are very dedicated and responsible. Through such a short time of communication, our basic knowledge of artificial intelligence and the level of English have been greatly improved.
 * [12/2021] As a contributor, I participated in the HUAWEI Ascend All-Wisdom Project, and completed the infering work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded.💪
 * [10/2021] I was awarded the 2020-2021 National Scholarship for Undergraduatesbecause of my outstanding academic performance, social practice, innovation ability, and comprehensive quality. I am very happy that the previous efforts have been recognized, and I will continue to cheer in the future! 🎉
