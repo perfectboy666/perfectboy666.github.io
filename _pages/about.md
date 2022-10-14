@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an undergraduate student in the Artificial Intelligence Experimental Class of the School of Computer Science and Technology, **<font color="#660000">Soochow University</font>** , and will be studying at the Institute for Artificial Intelligence and National Institute of Health Data Science, **<font color="#660000">Peking University</font>**.
+I'm currently an undergraduate student in the Artificial Intelligence Experimental Class of the School of Computer Science and Technology at **<font color="#DC143C">Soochow University</font>** , and will be studying at the Institute for Artificial Intelligence and National Institute of Health Data Science at **<font color="#8B0012">Peking University</font>**.
 
-My primary research interest is Artificial Intelligence, Big Data Mining and Intelligent Decision-making, etc.
+My primary research interest are <font color="#1E90FF">Artificial Intelligence, Big Data Mining and Intelligent Decision-making</font>, etc.
 
 I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact me.
 
