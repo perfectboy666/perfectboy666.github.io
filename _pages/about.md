@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an undergraduate student in the Artificial Intelligence Experimental Class of the School of Computer Science and Technology at **<font color="#DC143C">Soochow University</font>** , and will be studying at the Institute for Artificial Intelligence and National Institute of Health Data Science at **<font color="#8B0012">Peking University</font>**.
+I'm currently an undergraduate student in the **Artificial Intelligence Experimental Class** of the **School of Computer Science and Technology** at **<font color="#DC143C">Soochow University</font>** , and will be studying at the **Institute for Artificial Intelligence** and **National Institute of Health Data Science** at **<font color="#8B0012">Peking University</font>**.
 
-My primary research interest are <font color="#1E90FF">Artificial Intelligence, Big Data Mining and Intelligent Decision-making</font>, etc.
+My primary research interest are <font color="#483D8B">**Artificial Intelligence**</font>, <font color="#483D8B">**Big Data Mining**</font> and <font color="#483D8B">**Intelligent Decision-making**</font>, etc.
 
 I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact me.
 
 
 Contact
 ======
-* Email Address: shitongyue@me.com
-* Office: Room 412, Science & Engineering Building, Soochow University, Suzhou, China
+* Email Address: **shitongyue@me.com**
+* Office: **Room 412**, **Science & Engineering Building**, Soochow University, Suzhou, China
 
 
 News
 ======
-* [09/2022] I'm very lucky to pursue the master's degree in Peking University. I have been interested in life science since childhood. After graduating from the college entrance examination, I dreamed of becoming a clinical medical student. Later, I happened to study computer science and artificial intelligence. Now I will research data science especially health and medical data, in the hope that IT can benefit the human life and health.💪ヾ(◍°∇°◍)ﾉﾞ
+* [09/2022] I'm very lucky to pursue the master's degree in Peking University. I have been interested in life science since childhood. After graduating from the college entrance examination, I dreamed of becoming a clinical medical student. Later, I happened to study computer science and AI. Now I will research data science especially health and medical data, in the hope that IT can benefit the human life and health.ヾ(◍°∇°◍)ﾉﾞ
 * [06/2022] It is a great honor for me to be awarded the "Merit Student in Jiangsu Province", which is also the only this honor of the college. I will continue to work hard and learn from outstanding students in the future!
 * [01/2022] I'm very happy to participate in the exchange program at Harvard University.✊ Our co-tutor Professor Peter Vaughan Henstock and course assistant Jonathan Zhang are very dedicated and responsible. Through such a short time of communication, our basic knowledge of artificial intelligence and the level of English have been greatly improved.
 * [12/2021] As a contributor, I participated in the HUAWEI Ascend All-Wisdom Project, and completed the infering work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded.💪
