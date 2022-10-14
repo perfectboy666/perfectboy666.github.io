@@ -18,7 +18,7 @@ I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edg
 Contact
 ======
 * Email Address: **shitongyue@me.com**
-* Office: **Room 412**, **Science & Engineering Building**,**No.1 Shizi Street**, **Suzhou**, **China**
+* Office: **Room 412**, **Science & Engineering Building**, **No.1 Shizi Street**, **Suzhou**, **China**
 
 
 News
