@@ -16,7 +16,7 @@ Education
 * 2022.01-2022.02: Visit Student, advised by Prof. Peter Vaughan Henstock, **Harvard University**, Cambridge, USA.
 * 2023.09-2028.06: M.S., National Institute of Health Data Science, **Peking University**, Beijing, China.
  
- ![avatar](https://www.perfectboy.site/images/3logo2.png)
+ ![avatar](https://www.perfectboy.site/images/3logo3.png)
 
 
 Work experience
