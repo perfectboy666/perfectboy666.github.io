@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an undergraduate student in the **Artificial Intelligence Experimental Class** of the **School of Computer Science and Technology** at **<font color="#DC143C">Soochow University</font>** , and will be studying at the **Institute for Artificial Intelligence** and **National Institute of Health Data Science** at **<font color="#8B0012">Peking University</font>**.
+I'm currently an undergraduate student in the **Artificial Intelligence Experimental Class** of the **School of Computer Science and Technology** at **<font color="#FF7F50">Soochow University</font>** , and will be studying at the **Institute for Artificial Intelligence** and **National Institute of Health Data Science** at **<font color="#8B0012">Peking University</font>**.
 
-My primary research interest are <font color="#483D8B">**Artificial Intelligence**</font>, <font color="#483D8B">**Big Data Mining**</font> and <font color="#483D8B">**Intelligent Decision-making**</font>, etc.
+My primary research interest are **<font color="#483D8B">Artificial Intelligence</font>**, **<font color="#483D8B">Big Data Mining</font>** and **<font color="#483D8B">Intelligent Decision-making</font>**, etc.
 
 I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact me.
 
@@ -18,7 +18,7 @@ I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edg
 Contact
 ======
 * Email Address: **shitongyue@me.com**
-* Office: **Room 412**, **Science & Engineering Building**, Soochow University, Suzhou, China
+* Office: **Room 412**, **Science & Engineering Building**,**No.1 Shizi Street**, **Suzhou**, **China**
 
 
 News
