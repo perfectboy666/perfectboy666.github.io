@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an undergraduate student in the [Artificial Intelligence Experimental Class](http://aiclass.jwb.suda.edu.cn/) of the [School of Computer Science and Technology](http://scst.suda.edu.cn/), [**Soochow University**](https://www.suda.edu.cn/) , and will be studying at the [Institute for Artificial Intelligence](http://www.ai.pku.edu.cn/) and [National Institute of Health Data Science](http://www.nihds.pku.edu.cn/), [**Peking University**](https://www.pku.edu.cn/)**.
+I'm currently an undergraduate student in the [Artificial Intelligence Experimental Class](http://aiclass.jwb.suda.edu.cn/) of the [School of Computer Science and Technology](http://scst.suda.edu.cn/), [**<font color="#660000">Soochow University</font>**](https://www.suda.edu.cn/) , and will be studying at the [Institute for Artificial Intelligence](http://www.ai.pku.edu.cn/) and [National Institute of Health Data Science](http://www.nihds.pku.edu.cn/), [**<font color="#660000">Peking University</font>**](https://www.pku.edu.cn/)**.
 
 My primary research interest is Artificial Intelligence, Big Data Mining and Intelligent Decision-making, etc.
 
