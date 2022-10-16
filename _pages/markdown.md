@@ -17,8 +17,7 @@ redirect_from:
 #### 2023年9月 - 2026年6月 
 北京大学，人工智能研究院，智慧公众健康研究中心，数据科学硕士
 
-![avatar](https://www.perfectboy.site/images/pkuai.png)
-![avatar](https://www.perfectboy.site/images/pkunihds.png)
+![avatar](https://www.perfectboy.site/images/2logo2.png)
 
 
 ## 奖学金
