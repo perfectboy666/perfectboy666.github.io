@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently an undergraduate student in the **Artificial Intelligence Experimental Class** of the **School of Computer Science and Technology** at **<font color="#FF6347">Soochow University</font>** , and will study at the **Institute for Artificial Intelligence** and **National Institute of Health Data Science** at **<font color="#8B0012">Peking University</font>**. During my undergraduate study, I had the honor to visit at **Harvard University** and learn the knowledge of artificial intelligence and machine learning , which benefited me a lot.
 
-My research interest are **<font color="#483D8B">Artificial Intelligence + Medical Science</font>**, **<font color="#483D8B">Big Data Mining</font>** and **<font color="#483D8B">Intelligent Decision-making</font>**, etc.
+My research interest are **<font color="#483D8B">Artificial Intelligence + Medical Science</font>**, **<font color="#483D8B">Big Data Mining</font>**, **<font color="#483D8B">Intelligent Decision Making</font>**, **<font color="#483D8B">Natural Language Processing</font>**, etc.
 
 I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact me.
 

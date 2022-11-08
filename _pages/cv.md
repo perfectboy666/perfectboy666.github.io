@@ -28,7 +28,7 @@ Work experience
   * Research direction: Deep learning and Computer Vision
 
 * NLP Lab of Soochow University 
-  * 2021.07 - now
+  * 2021.08 - now
   * Undergraduate Research Intern
   * Supervisor: Prof. Zhongqing Wang
   * Research direction: Natural Language Processing
