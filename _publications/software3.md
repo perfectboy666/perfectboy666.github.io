@@ -2,7 +2,7 @@
 title: "Automatic Data Selection and Screening System Based on Particle Swarm Optimization"
 collection: publications
 permalink: /publication/software3
-excerpt: 'Zhangjing Shi, **Tongyue Shi** and Yatong Zhao'
+excerpt: 'Zhangjing Shi(Tsinghua University), **Tongyue Shi** and Yatong Zhao(USTC)'
 date: 2022-9-12
 venue: 'Software Copyright'
 # paperurl: ''
