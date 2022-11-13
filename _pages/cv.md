@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* 2019.07-2019.08: (before changing major) Suzhou Medical College, **Soochow University**, Suzhou, China.
 * 2019.09-2023.06: B.S., School of Computer Science and Technology, **Soochow University**, Suzhou, China.
 * 2022.01-2022.02: Visit Student, Artificial Intelligence and Big Data, **Harvard University**, Cambridge, USA.
 * 2023.09-2026.06: M.S., National Institute of Health Data Science, **Peking University**, Beijing, China.
@@ -22,7 +21,7 @@ Education
 Work experience
 ======
 * HUAWEI TECHNOLOGIES 
-  * 2021.09 - 2021.12
+  * 2021.10 - 2021.12
   * Ascend All-Wisdom Project
   * Supervisor: Prof. Juntao Li
   * Research direction: Deep learning and Computer Vision
