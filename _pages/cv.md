@@ -24,7 +24,7 @@ Work experience
   * 2021.10 - 2021.12
   * Ascend All-Wisdom Project
   * Supervisor: Prof. Juntao Li
-  * Research direction: Deep learning and Computer Vision
+  * Research direction: Deep Learning and Computer Vision
 
 * NLP Lab of Soochow University 
   * 2021.05 - now

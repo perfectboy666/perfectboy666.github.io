@@ -29,6 +29,11 @@ main:
   # - title: "Blog"
   #   url: https://www.zhihu.com/people/outstandingboy
 
+  - title: "NIHDS-PKU"
+    url: '../NIHDS/Tongyue Shi-NIHDS.html'
+    
   - title: "Chinese"
     url: /markdown/
+
+
     
