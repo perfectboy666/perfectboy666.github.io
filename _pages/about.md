@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently an undergraduate student in the **Artificial Intelligence Experimental Class** of the **School of Computer Science and Technology** at **<font color="#FF6347">Soochow University</font>** , and will study at the **Institute for Artificial Intelligence** and **National Institute of Health Data Science** at **<font color="#8B0012">Peking University</font>**. During my undergraduate study, I had the honor to visit at **Harvard University** and learn the knowledge of artificial intelligence and machine learning , which benefited me a lot.
+I'm currently an undergraduate student in the **Artificial Intelligence Experimental Class** of the **School of Computer Science and Technology** at **<font color="#FF6347">Soochow University</font>**, and will study at the **Institute for Artificial Intelligence** and **National Institute of Health Data Science** at **<font color="#8B0012">Peking University</font>**. During my undergraduate study, I had the honor to visit at **Harvard University** and learn the knowledge of artificial intelligence and machine learning , which benefited me a lot.
 
 My research interest are **<font color="#483D8B">Artificial Intelligence + Medical Science</font>**, **<font color="#483D8B">Big Data Mining</font>**, **<font color="#483D8B">Intelligent Decision Making</font>**, **<font color="#483D8B">Natural Language Processing</font>**, etc.
 
