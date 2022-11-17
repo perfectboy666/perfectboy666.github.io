@@ -1,0 +1,19 @@
+.gp-f16 a {
+    border-bottom: 1px dashed #a72227;}
+.item-img8 {
+    width: 150px;}
+.item-txt8{
+    margin-left: 158px;}
+
+@media screen and (max-width: 800px){
+.item-txt8 {
+    margin-left: 150px;
+    padding:15px 15px 0 15px;}
+.gp-f16 a {
+
+    padding: 0px !important;
+    display: initial !important;
+    overflow: inherit !important;}
+
+
+}
