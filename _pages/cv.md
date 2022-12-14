@@ -26,13 +26,17 @@ Work experience
   * Supervisor: Prof. Juntao Li
   * Research direction: Deep Learning and Computer Vision
 
-* NLP Lab of Soochow University 
-  * 2021.05 - now
+* Natural Language Processing Laboratory, Soochow University
+  * 2021.05 - 2022.12
   * Undergraduate Research Intern
   * Supervisor: Prof. Zhongqing Wang
   * Research direction: Natural Language Processing
 
-
+* Advanced Data Analytics Laboratory, Soochow University
+  * 2022.12 - now
+  * Undergraduate Thesis (Design)
+  * Supervisor: Prof. Junhua Fang
+  * Research direction: Trajectory Data Mining
 
 Scholarships 🏆
 ======
@@ -201,5 +205,5 @@ Social Activities
 * Clerk    2019.9 - 2020.7
   * Publicity Center, Student Union of School of Computer Science and Technology
 
-* Clerk    2019.9 - 2020.7
-  * Media Department, Youth Media Center of Soochow University Youth League Committee
+<!-- * Clerk    2019.9 - 2020.7
+  * Media Department, Youth Media Center of Soochow University Youth League Committee -->
