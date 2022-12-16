@@ -38,6 +38,21 @@ Work experience
   * Supervisor: Prof. Junhua Fang
   * Research direction: Trajectory Data Mining
 
+Academic Position
+======
+* member of Chinese Association of Automation (CAA)
+* student member of China Computer Federation (CCF)
+  
+Research projects
+======
+* Research on the Generation of Dialogue Responses Based on Constraint Information 
+  * College Students Extracurricular Academic Research Fund Project at SUDA, Host, 2022
+* Research and implementation of Question Answering System based on Question Generation Data Enhancement
+  * College Student Innovation and Entrepreneurship Program at SUDA, Principal accomplice, 2021-2022
+* Cluster Analysis of Critically Ill Patients based on Time-series Vital Signs Trajectory Big Data
+  * Undergraduate graduation design thesis at SUDA, Host, 2022-2023
+
+
 Scholarships 🏆
 ======
 * National Scholarship, Ministry of Education, People's Republic of China, 2021
