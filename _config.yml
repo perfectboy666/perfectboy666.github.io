@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tongyue Shi 史童月"
+title                    : "Tom Tongyue Shi"
 title_separator          : "-"
 name                     : &name "Tongyue Shi"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=W91nE1gAAAAJ&hl=zh-CN"
+  googlescholar    : #"https://scholar.google.com/citations?user=W91nE1gAAAAJ&hl=zh-CN"
   email            : "shitongyue@me.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "perfectboy666"
+  github           : #"perfectboy666"
   google_plus      :
   keybase          :
   instagram        :
