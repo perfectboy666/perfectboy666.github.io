@@ -1,14 +1,14 @@
 ---
-permalink: /markdown/
-title: "关于我"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+# permalink: /markdown/
+# title: "关于我"
+# author_profile: true
+# redirect_from: 
+#   - /md/
+#   - /markdown.html
 ---
 我目前在**苏州大学**计算机科学与技术学院人工智能实验班读本科，将于2023年秋季赴**北京大学**人工智能研究院智慧公众健康研究中心和健康医疗大数据国家研究院学习，目前感兴趣的研究方向为：**医学人工智能、数据挖掘、智能决策**等。
 
-![avatar](https://www.perfectboy.site/images/2logo2.png)
+
 
 ## 教育经历
 #### 2023年9月 - 2026年6月（预计）

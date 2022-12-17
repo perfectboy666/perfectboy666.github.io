@@ -10,6 +10,7 @@ redirect_from:
 ## 关于我
 史童月，现中国人民大学高瓴人工智能学院博士生，主要研究领域为自然语言处理。
 
+<!-- ![avatar](https://www.perfectboy.site/images/2logo2.png) -->
 
 ## 教育经历
 
