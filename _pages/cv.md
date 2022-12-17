@@ -24,17 +24,15 @@ Work experience
   * 2021.10 - 2021.12
   * Ascend All-Wisdom Project
   * Supervisor: Prof. Juntao Li
-  * Research direction: Deep Learning and Computer Vision
+  * Research direction: Deep Learning
 
 * Natural Language Processing Laboratory, Soochow University
   * 2021.05 - 2022.12
-  * Undergraduate Research Intern
   * Supervisor: Prof. Zhongqing Wang
   * Research direction: Natural Language Processing
 
 * Advanced Data Analytics Laboratory, Soochow University
   * 2022.12 - now
-  * Undergraduate Thesis (Design)
   * Supervisor: Prof. Junhua Fang
   * Research direction: Trajectory Data Mining
 
@@ -50,7 +48,7 @@ Research projects
 * Research and implementation of Question Answering System based on Question Generation Data Enhancement
   * College Student Innovation and Entrepreneurship Program at SUDA, Principal accomplice, 2021-2022
 * Cluster Analysis of Critically Ill Patients based on Time-series Vital Signs Trajectory Big Data
-  * Undergraduate graduation design thesis at SUDA, Host, 2022-2023
+  * Undergraduate Graduation Design Thesis at SUDA, Host, 2022-2023
 
 
 Scholarships 🏆
@@ -150,5 +148,5 @@ Social Activities
 * Clerk    2019.9 - 2020.7
   * Publicity Center, Student Union of School of Computer Science and Technology
 
-<!-- * Clerk    2019.9 - 2020.7
-  * Media Department, Youth Media Center of Soochow University Youth League Committee -->
+* Clerk    2019.9 - 2020.7
+  * Media Department, Youth Media Center of Soochow University Youth League Committee
