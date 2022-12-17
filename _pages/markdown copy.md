@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "中文介绍"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+# permalink: /markdown/
+# title: "中文介绍"
+# author_profile: true
+# redirect_from: 
+#   - /md/
+#   - /markdown.html
 ---
 
 ## 关于我
