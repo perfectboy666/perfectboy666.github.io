@@ -12,7 +12,7 @@ I'm currently an undergraduate student in the **Artificial Intelligence Experime
 
 My research interest are **<font color="#483D8B">Artificial Intelligence for Medical Science</font>**, **<font color="#483D8B">Big Data Mining</font>**, **<font color="#483D8B">Intelligent Decision Making</font>**, **<font color="#483D8B">Natural Language Processing</font>**, etc.
 
-I'm now the member of **Chinese Association of Automation** (CAA) and student member of **China Computer Federation** (CCF). I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact me.
+I'm now the member of **Chinese Association of Automation** (CAA), student member of **China Computer Federation** (CCF) and **Chinese Association for Artificial Intelligence** (CAAI). I'm also a contributor of Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my personal web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact me.
 
 
 Contact
