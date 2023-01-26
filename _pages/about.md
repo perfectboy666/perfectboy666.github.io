@@ -16,7 +16,7 @@ I’m now a member of the **Chinese Association of Automation** (CAA), a student
 
 Contact
 ======
-* Email Address: **shitongyue@me.com**
+* Email Address: **shitongyue@me.com**, **tyshi@perfectboy.site**
 * Office: **Room 412**, **Science & Engineering Building**, **No.1 Shizi Street**, **Suzhou**, **China**
 
 News
