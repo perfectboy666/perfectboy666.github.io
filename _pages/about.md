@@ -10,9 +10,9 @@ redirect_from:
 
 I’m currently an undergraduate student in the **Artificial Intelligence Experimental Class** of the **School of Computer Science and Technology** at **<font color="#FF6347">Soochow University</font>**, expected to graduate in 2023. After graduation, I will study at the **Institute for Artificial Intelligence** and the **National Institute of Health Data Science** at **<font color="#8B0012">Peking University</font>**. During my undergraduate study, I had the honor to visit Harvard University and learn the knowledge of artificial intelligence and machine learning, which benefited me a lot.
 
-My current research interests are **<font color="#483D8B">Data Mining and Artificial Intelligence</font>**, **<font color="#483D8B">Intelligent Clinical Decision-making</font>**, **<font color="#483D8B">Natural Language Processing</font>**, etc.
+My current research interests lie in **<font color="#483D8B">Data Mining and Artificial Intelligence</font>**, **<font color="#483D8B">Intelligent Clinical Decision-making</font>**, **<font color="#483D8B">Natural Language Processing</font>**, etc.
 
-I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Welcome to follow my Zhihu account and communicate with me. Besides, I am happy to make new friends, you may contact me.
+I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Besides, I am happy to make new friends, you may contact me.
 
 Contact
 ======
