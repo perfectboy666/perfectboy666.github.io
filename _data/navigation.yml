@@ -18,17 +18,17 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-
-  # - title: "Honors & Rewards"
-  #   url: /hr/
-
+  
   # - title: "Chinese"
   #   url: /markdown/
 
   # - title: "PKU-NIHDS"
-  #   url: 'http://www.perfectboy.site/NIHDS/TongyueShi-NIHDS.html'
+  #   url: 'http://www.perfectboy.site/pku/TongyueShi-NIHDS.html'
+
+  - title: "Experience"
+    url: /experience/
 
 
-
+  - title: "Awards & Honors"
+    url: /awards/
     
