@@ -1,12 +1,12 @@
 ---
-permalink: /
-title: "Awards and Honors"
-excerpt: "Awards and Honors"
+permalink: /awards/
+title: "Awards & Honors"
 author_profile: true
 redirect_from: 
   - /awards/
   - /awards.html
 ---
+
 
 Awards and Honors
 ======
