@@ -15,8 +15,9 @@ I’m now a member of the **Chinese Association of Automation** (CAA), a student
 Research Interests
 ======
 * Big Data Analytics and Data Mining
-* Application of AI for Medical Health
+* Causal Inference and Machine Learning
 * Natural Language Processing
+* Application of AI for Medical Science
 
 
 Contact
@@ -27,7 +28,7 @@ Contact
 
 News
 ======
-* [09/2022] I’m very lucky to pursue a master’s degree at Peking University. I have been interested in life science since childhood. After graduating from the college entrance examination, I dreamed of becoming a clinical medical student. Later, I’m lucky to study computer science and AI. Now I will research data science, especially health and medical data, in the hope that IT & AI can benefit human life and health.ヾ(◍°∇°◍)ﾉﾞ
+* [09/2022] I’m very lucky to pursue a master’s degree at Peking University. I have been interested in life science since childhood. After graduating from the college entrance examination, I dreamed of becoming a clinical medical student. Later, I’m lucky to study computer science and AI. Now I will research data science, especially healthcare data, in the hope that IT & AI can benefit human life and health.ヾ(◍°∇°◍)ﾉﾞ
 * [06/2022] It is a great honor for me to be awarded the “Merit Student in Jiangsu Province”, which is also the only student who got the honor of our college. I will continue to work hard and learn from outstanding students in the future! ✊
 * [01/2022] I’m very happy to participate in the exchange program at Harvard University. ✊ Our co-tutors Professor Peter and Jonathan are very dedicated and responsible. Through such a short time of communication, our basic knowledge of artificial intelligence and our level of English have been greatly improved. 🎉
 * [12/2021] As a contributor, I participated in the HUAWEI Ascend All-Wisdom Project, and completed the inferring work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded. 💪

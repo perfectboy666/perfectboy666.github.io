@@ -25,10 +25,10 @@ main:
   # - title: "PKU-NIHDS"
   #   url: 'http://www.perfectboy.site/pku/TongyueShi-NIHDS.html'
 
-  - title: "Experience"
-    url: /experience/
+  # - title: "Experience"
+  #   url: /experience/
 
 
-  - title: "Awards & Honors"
-    url: /awards/
+  # - title: "Awards & Honors"
+  #   url: /awards/
     
