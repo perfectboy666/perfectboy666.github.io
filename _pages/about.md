@@ -21,8 +21,15 @@ Research Interests
 
 Contact
 ======
-* Email Address: **shitongyue@me.com**, **tyshi@perfectboy.site**
+* Email Address: **shitongyue@me.com**
 * Office: **Room 412**, **Science & Engineering Building**, **No.1 Shizi Street**, **Suzhou**, **China**
+
+Experience
+======
+* HUAWEI, Ascend Development Intern
+  * Deep learning model inference and deployment
+* Ximalaya, NLP Research Intern
+  * AIGC: Speech Synthesis and Natural Language Processing
 
 News
 ======
