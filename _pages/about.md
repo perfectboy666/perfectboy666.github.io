@@ -23,8 +23,8 @@ Experience
 ======
 * HUAWEI, Ascend Research Intern
   * Deep Learning Model Inference and Deployment
-* Ximalaya, NLP Research Intern
-  * AIGC: Speech Synthesis and Natural Language Processing
+* XIMALAYA, NLP Research Intern
+  * AIGC: Natural Language Processing
 
 Contact
 ======
