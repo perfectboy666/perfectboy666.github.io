@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* 2019.09-2023.06: B.S., School of Computer Science and Technology, **Soochow University**, Suzhou, China.
-* 2022.01-2022.02: Visit Student, Artificial Intelligence and Big Data, **Harvard University**, Cambridge, USA.
-* 2023.09-2026.06: M.S., National Institute of Health Data Science, **Peking University**, Beijing, China.
+* 2019-2023, B.S., **Soochow University**, Suzhou, China.
+* 2022, Visit Student, **Harvard University**, Cambridge, USA.
+* 2023-2026, M.S., **Peking University**, Beijing, China.
  
- ![avatar](https://www.perfectboy.site/images/3logo5.png)
+x
 
 
 Work experience
