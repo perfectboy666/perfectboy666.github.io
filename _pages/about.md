@@ -15,7 +15,7 @@ I’m now a member of the **Chinese Association of Automation** (CAA), a student
 Research Interests
 ======
 * Big Data Analysis and Data Mining
-* Intelligent Decision-making
+* Intelligent Decision Making
 * Natural Language Processing
 * Application of AI for Science
 
@@ -28,5 +28,5 @@ Experience
 
 Contact
 ======
-* Email Address: **shitongyue@me.com**
-* Office: **Room 412**, **Science & Engineering Building**, **No.1 Shizi Street**, **Suzhou**, **China**
+* Email Address: shitongyue@me.com
+* Office: Room 412, Science & Engineering Building, No.1 Shizi Street, Suzhou, China
