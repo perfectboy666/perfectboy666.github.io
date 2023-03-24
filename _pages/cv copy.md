@@ -15,12 +15,16 @@ Education
 * 2022, Visit Student, **Harvard University**, Cambridge, USA.
 * 2023-2026, M.S., **Peking University**, Beijing, China.
  
+x
+
+
 Work experience
 ======
 * HUAWEI TECHNOLOGIES 
-  * 2021.10 - 2022.01
+  * 2021.10 - 2021.12
   * Ascend All-Wisdom Project
-  * Research direction: Deep Learning Model Inference and Configuration
+  * Supervisor: Prof. Juntao Li
+  * Research direction: Deep Learning
 
 * Natural Language Processing Laboratory, Soochow University
   * 2021.05 - 2022.12
@@ -30,18 +34,23 @@ Work experience
 * Advanced Data Analytics Laboratory, Soochow University
   * 2022.12 - now
   * Supervisor: Prof. Junhua Fang
-  * Research direction: Data Mining
-
-* Zhufeng Intelligent Laboratory, Ximalaya Inc.
-  * 2023.02 - now
-  * Research Intern
-  * Research direction: Natural Language Processing and Multi-round Dialogue
+  * Research direction: Trajectory Data Mining
 
 Academic Position
 ======
 * member of Chinese Association of Automation (CAA)
 * student member of China Computer Federation (CCF)
 * Chinese Association for Artificial Intelligence (CAAI)
+  
+Research projects
+======
+* Research on the Generation of Dialogue Responses Based on Constraint Information 
+  * College Students Extracurricular Academic Research Fund Project at SUDA, Host, 2022
+* Research and implementation of Question Answering System based on Question Generation Data Enhancement
+  * College Student Innovation and Entrepreneurship Program at SUDA, Principal accomplice, 2021-2022
+* Cluster Analysis of Critically Ill Patients based on Time-series Vital Signs Trajectory Big Data
+  * Undergraduate Graduation Design Thesis at SUDA, Host, 2022-2023
+
 
 Scholarships 🏆
 ======
@@ -100,3 +109,45 @@ Honorary titles
 * Advanced Individual of School Summer Social Practice, Soochow University, 2021
 * School Summer Social Practice Outstanding Team (Captain/Team Leader), Soochow University, 2021
 * Outstanding Communist Youth League Cadre, School of Computer Science and Technology, Soochow University, 2021
+
+Social Activities
+======
+
+* Commissary in Charge of Publicity    2020.2 - now
+  * 2019 Artificial Intelligence Class 2
+
+* Class Assistant    2021.9 - now
+  * 2021 Software Engineering Class 2
+
+* Class Assistant    2022.8 - now
+  * 2022 Computer Science Class 1
+
+* Journalist    2021.7 - 2021.9
+  * "School Media Watching Practice" Student Press Team of Soochow University
+
+* Minister    2020.8 - 2021.8
+  * Publicity Center, Student Union of School of Computer Science and Technology
+
+* Minister    2020.7 - 2021.7
+  * Propaganda Department, Soochow University League School
+
+* Key Volunteers    2020.9 - 2020.11
+  * Celebration Organizing Committee, 120th Anniversary of Soochow University
+
+* Propaganda Specialist    2020.7 - 2020.11
+  * School of Computer Science and Technology, Soochow University
+
+* Clerk    2019.9 - 2020.7
+  * Graphic Center, Student Science and Technology Association of Soochow University
+
+* Clerk    2019.9 - 2020.7
+  * New Media Center, Youth Volunteers Association of Soochow University
+
+* Clerk    2019.9 - 2020.7
+  * Propaganda Department, Soochow University League School
+
+* Clerk    2019.9 - 2020.7
+  * Publicity Center, Student Union of School of Computer Science and Technology
+
+* Clerk    2019.9 - 2020.7
+  * Media Department, Youth Media Center of Soochow University Youth League Committee
