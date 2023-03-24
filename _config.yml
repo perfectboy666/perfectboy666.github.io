@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tom Tongyue Shi"
+title                    : "Tongyue Shi"
 title_separator          : "-"
 name                     : &name "Tongyue Shi"
 description              : &description "personal description"
