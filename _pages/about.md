@@ -21,15 +21,12 @@ Research Interests
 
 Experience
 ======
-* HUAWEI, Ascend Research Intern
-  * Deep Learning Model Inference and Deployment
-* XIMALAYA, NLP Research Intern
-  * AIGC: Natural Language Processing
-
-Contact
-======
-* Email Address: shitongyue@me.com
-* Office: Room 412, Science & Engineering Building, No.1 Shizi Street, Suzhou, China
+* HUAWEI Technologies., 2021.10-2022.01
+  * Research Intern of Ascend All-Wisdom Project
+  * Deep Learning Model Inference and Configuration
+* Ximalaya Inc., 2023.02-now
+  * Research Intern of AIGC
+  * Natural Language Processing and Dialogue System
 
 Major Honors & Awards
 ======
@@ -38,14 +35,18 @@ Major Honors & Awards
 * Merit Students of Jiangsu Province, Jiangsu Provincial Education Department, Youth League Committee, 2022
 * Advanced Individual of Summer Social Practice for College Students of Jiangsu Province, Publicity Department of Jiangsu Provincial Party Committee, Department Of Education of Jiangsu Province, Spiritual Civilization Office of Jiangsu Province, Communist Youth League Committee of Jiangsu Province, Provincial Students' Federation, 2021
 * National College Students Mathematical Contest in Modeling, National Second Prize, 2021
-* Blue Bridge Cup National Software and Information Technology Professional Talent Competition Program Design Group, National Third Prize, 2021
-* National Mathematics Competition for College Students (Non-mathematics), National Third Prize, 2020
+* "Blue Bridge Cup" National Software and Information Technology Professional Talent Competition Program Design Group, National Third Prize, 2021
+* National Mathematics Competition for College Students, National Third Prize, 2020
 * MCM/ICM, Honorable Mention, 2022
 * National Tertiary Mathematics Challenge Final, National Excellence Award, 2020
 * National College Students E-commerce “Innovation, Creativity and Entrepreneurship” Challenge Competition, Provincial First Prize, Best Entrepreneurship Award, 2021
 * Provincial First Prize of National English Vocabulary Competition for College Students in Jiangsu Province and Jiangsu College Students Vocabulary Competition, 2021
-* the 12th National Software and Information Technology Professionals Competition Python Programming, Provincial First Prize, 2021
-* the 7th China International “Internet Plus” College Student Innovation and Entrepreneurship Competition Jiangsu Province Selection Contest and the 10th Jiangsu Province College Student Innovation and Entrepreneurship Competition Final, Provincial Third Prize, 2021
-* the 18th Higher Mathematics Competition of Jiangsu Province, Provincial Third Prize, 2021
-* the 8th China International “Internet Plus” Innovation and Entrepreneurship Competition of Jiangsu Province and the 11th Jiangsu Province Innovation and Entrepreneurship Competition Final, Provincial Third Prize, 2022
-* the 12th Knowledge Contest for College Students of Jiangsu Province (Science and Engineering Group), Provincial Excellence Award, 2021
+* National Software and Information Technology Professionals Competition Python Programming, Provincial First Prize, 2021
+* China International “Internet Plus” College Student Innovation and Entrepreneurship Competition Jiangsu Province Selection Contest and the 10th Jiangsu Province College Student Innovation and Entrepreneurship Competition Final, Provincial Third Prize, 2021
+* Higher Mathematics Competition of Jiangsu Province, Provincial Third Prize, 2021
+* China International “Internet Plus” Innovation and Entrepreneurship Competition of Jiangsu Province and the 11th Jiangsu Province Innovation and Entrepreneurship Competition Final, Provincial Third Prize, 2022
+
+Contact
+======
+* Email Address: shitongyue@me.com
+* Office: Room 412, Science & Engineering Building, No.1 Shizi Street, Suzhou, China
