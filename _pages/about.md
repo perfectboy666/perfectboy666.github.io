@@ -26,7 +26,7 @@ Experience
   * Deep Learning Model Inference and Configuration
 * **SUDA NLP Lab**, 2021.05-2022.09
   * Research Intern
-  * Supervisior:  [Prof. Wangzhong Qing](https://wangzqsuda.github.io/)
+  * Supervisior:  [Prof. Zhongqing Wang](https://wangzqsuda.github.io/)
   * Natural Language Processing and Dialogue System
 * **NIHDS at Peking University**, 2022.10-now
   * Research Intern
