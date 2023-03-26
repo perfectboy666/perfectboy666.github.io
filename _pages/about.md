@@ -26,11 +26,9 @@ Experience
   * Deep Learning Model Inference and Configuration
 * **SUDA NLP Lab**, 2021.05-2022.09
   * Research Intern
-  * Supervisior:  [Prof. Zhongqing Wang](https://wangzqsuda.github.io/)
-  * Natural Language Processing and Dialogue System
+  * Dialogue System and Text Generation
 * **NIHDS at Peking University**, 2022.10-now
   * Research Intern
-  * Supervisior: [Prof. Guilan Kong](http://www.ai.pku.edu.cn/info/1140/2154.htm)
   * AI for Healthcare
 * **Ximalaya Inc.**, 2023.02-now
   * Research Intern of AIGC
