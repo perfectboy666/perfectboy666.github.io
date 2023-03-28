@@ -1,11 +1,11 @@
 {% include base_path %}
 
 <meta charset="utf-8">
-
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
 <!-- https://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
