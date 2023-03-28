@@ -15,25 +15,25 @@ Education
 * 2022, Visit Student, **Harvard University**, Cambridge, USA.
 * 2023-2026(est.), M.S., **Peking University**, Beijing, China.
 
-Work experience
+Work Experience
 ======
-* HUAWEI TECHNOLOGIES 
-  * 2021.10 - 2022.01
-  * Ascend All-Wisdom Project
-  * Research direction: Deep Learning Model Inference and Configuration
-
-* Natural Language Processing Laboratory, Soochow University
-  * 2021.05 - 2022.12
-  * Supervisor: Prof. Zhongqing Wang
-  * Research direction: Natural Language Processing
-
-* Zhufeng Intelligent Laboratory, Ximalaya Inc.
-  * 2023.02 - now
+* **HUAWEI Technologies.**
+  * 2021.10-2022.01
+  * Research Intern of Ascend All-Wisdom Project
+  * Deep Learning Model Inference and Configuration
+* **SUDA NLP Lab**
+  * 2021.05-2022.09
   * Research Intern
-  * Research direction: Natural Language Processing and Multi-round Dialogue
+  * Supervisor: Prof. Zhongqing Wang
+  * Dialogue System and Text Generation
+* **ZHUFENG Intelligent Laboratory, Ximalaya Inc.**
+  * 2023.02-now
+  * Research Intern of AIGC
+  * Natural Language Processing and Multi-round Dialogue
+
 
 Academic Position
 ======
-* member of Chinese Association of Automation (CAA)
-* student member of China Computer Federation (CCF)
-* student member of Chinese Association for Artificial Intelligence (CAAI)
+* member of **Chinese Association of Automation** (CAA)
+* student member of **China Computer Federation** (CCF)
+* student member of **Chinese Association for Artificial Intelligence** (CAAI)

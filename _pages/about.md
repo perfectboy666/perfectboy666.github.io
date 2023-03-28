@@ -19,17 +19,6 @@ Research Interests
 * Natural Language Processing
 * Application of AI for Science
 
-Experience
-======
-* **HUAWEI Technologies.**, 2021.10-2022.01
-  * Research Intern of Ascend All-Wisdom Project
-  * Deep Learning Model Inference and Configuration
-* **SUDA NLP Lab**, 2021.05-2022.09
-  * Research Intern
-  * Dialogue System and Text Generation
-* **Ximalaya Inc.**, 2023.02-now
-  * Research Intern of AIGC
-  * Natural Language Processing and Dialogue System
 
 Contact
 ======
