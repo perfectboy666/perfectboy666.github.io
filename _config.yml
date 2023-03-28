@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 plugins:
   - jekyll-remote-theme
-remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 
@@ -136,7 +136,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - assets`
-  
+
   # - "*.sublime-project"
   # - "*.sublime-workspace"
   # - .asset-cache
@@ -284,12 +284,12 @@ timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databas
 
 
 # Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

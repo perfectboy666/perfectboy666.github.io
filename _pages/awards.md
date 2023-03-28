@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /awards/
 title: "Honors & Awards"
 author_profile: true
@@ -6,6 +7,7 @@ redirect_from:
   - /awards/
   - /awards.html
 ---
+{% include base_path %}
 
 Scholarships 🏆
 ======
