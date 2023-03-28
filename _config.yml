@@ -136,32 +136,30 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - assets`
-
-
-
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
+  
+  # - "*.sublime-project"
+  # - "*.sublime-workspace"
+  # - .asset-cache
+  # - .bundle
+  # - .jekyll-assets-cache
+  # - .sass-cache
+  # - CHANGELOG
+  # - Capfile
+  # - Gemfile
+  # - Gruntfile.js
+  # - LICENSE
+  # - README
+  # - Rakefile
+  # - assets/js/_main.js
+  # - assets/js/plugins
+  # - assets/js/vendor
+  # - config
+  # - gulpfile.js
+  # - log
+  # - node_modules
+  # - package.json
+  # - tmp
+  # - vendor
 keep_files:
   - .git
   - .svn
