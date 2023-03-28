@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  # - title: "Introdction"
-  #   url: /cv/
+  - title: "Introdction"
+    url: /cv/
 
   # - title: "Works"
   #   url: /publications/
@@ -29,6 +29,5 @@ main:
   #   url: /experience/
 
 
-  # - title: "Awards & Honors"
-  #   url: /awards/
-    
+  - title: "Awards & Honors"
+    url: /hr/

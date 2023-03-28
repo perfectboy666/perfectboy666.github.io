@@ -51,6 +51,24 @@ Research projects
 * Cluster Analysis of Critically Ill Patients based on Time-series Vital Signs Trajectory Big Data
   * Undergraduate Graduation Design Thesis at SUDA, Host, 2022-2023
 
+Major Honors & Awards
+======
+* National Scholarship, Ministry of Education, People's Republic of China, 2021
+* HUAWEI Scholarship, HUAWEI Technologies, 2022
+* Merit Students of Jiangsu Province, Jiangsu Provincial Education Department, Youth League Committee, 2022
+* Advanced Individual of Summer Social Practice for College Students of Jiangsu Province, Publicity Department of Jiangsu Provincial Party Committee, Department Of Education of Jiangsu Province, Spiritual Civilization Office of Jiangsu Province, Communist Youth League Committee of Jiangsu Province, Provincial Students' Federation, 2021
+* National College Students Mathematical Contest in Modeling, National Second Prize, 2021
+* "Blue Bridge Cup" National Software and Information Technology Professional Talent Competition Program Design Group, National Third Prize, 2021
+* National Mathematics Competition for College Students, National Third Prize, 2020
+* MCM/ICM, Honorable Mention, 2022
+* National Tertiary Mathematics Challenge Final, National Excellence Award, 2020
+* National College Students E-commerce “Innovation, Creativity and Entrepreneurship” Challenge Competition, Provincial First Prize, Best Entrepreneurship Award, 2021
+* Provincial First Prize of National English Vocabulary Competition for College Students in Jiangsu Province and Jiangsu College Students Vocabulary Competition, 2021
+* National Software and Information Technology Professionals Competition Python Programming, Provincial First Prize, 2021
+* China International “Internet Plus” College Student Innovation and Entrepreneurship Competition Jiangsu Province Selection Contest and the 10th Jiangsu Province College Student Innovation and Entrepreneurship Competition Final, Provincial Third Prize, 2021
+* Higher Mathematics Competition of Jiangsu Province, Provincial Third Prize, 2021
+* China International “Internet Plus” Innovation and Entrepreneurship Competition of Jiangsu Province and the 11th Jiangsu Province Innovation and Entrepreneurship Competition Final, Provincial Third Prize, 2022
+
 
 Scholarships 🏆
 ======
