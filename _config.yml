@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Tongyue Shi"
 description              : &description "personal description"
 url                      : "https://perfectboy666.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/pku/TongyueShi-NIHDS.html" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "perfectboy666/perfectboy666.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
