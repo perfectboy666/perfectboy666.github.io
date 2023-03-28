@@ -22,12 +22,11 @@ main:
   # - title: "Chinese"
   #   url: /markdown/
 
-  # - title: "PKU-NIHDS"
-  #   url: 'https://www.perfectboy.site/pku/TongyueShi-NIHDS.html'
-
   # - title: "Experience"
   #   url: /experience/
 
-
   - title: "Awards & Honors"
     url: /awards/
+
+  - title: "PKU-NIHDS"
+    url: 'https://www.perfectboy.site/pku/TongyueShi-NIHDS.html'
