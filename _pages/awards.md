@@ -1,19 +1,18 @@
 ---
 permalink: /awards/
-title: "Awards & Honors"
+title: "Honors & Awards"
 author_profile: true
 redirect_from: 
   - /awards/
   - /awards.html
 ---
 
-
-Awards and Honors
+Scholarships 🏆
 ======
 * National Scholarship, Ministry of Education, People's Republic of China, 2021
 * HUAWEI Scholarship, HUAWEI Technologies, 2022
-* Zhu Jingwen Special Scholarship (Top 1%), Soochow University, 2022
-* YUHAN Scholarship (Top 2%), Soochow University, 2020
+* Zhu Jingwen Special Scholarship (Only 19 in the university), Soochow University, 2022
+* YUHAN Scholarship, Soochow University, 2020
 * Comprehensive Scholarship, Soochow University, 2020, 2021, 2022
 * Special Scholarship for Academic Excellence, Soochow University, 2022
 * First-Class Scholarship for Excellence in Study, Soochow University, 2020, 2021
@@ -21,16 +20,9 @@ Awards and Honors
 * First-Class Scholarship for Innovation and Entrepreneurship, Soochow University, 2022
 * Special Scholarship for Spiritual Civilization, Soochow University, 2021
 * Social Work Special Scholarship, Soochow University, 2020, 2022
-* Merit Students of Jiangsu Province, Jiangsu Provincial Education Department, Youth League Committee, 2022
-* Advanced Individual of Summer Social Practice for College Students of Jiangsu Province, Publicity Department of Jiangsu Provincial Party Committee, Department Of Education of Jiangsu Province, Spiritual Civilization Office of Jiangsu Province, Communist Youth League Committee of Jiangsu Province, Provincial Students' Federation, 2021
-* Top Ten Young Volunteers of the University, Soochow University, 2021
-* University Excellent Youth League Member, Soochow University, 2020
-* University Outstanding Student Leader, Soochow University, 2020, 2021
-* Merit Student, Soochow University, 2022
-* Star of the University's Fight Against COVID-19, Soochow University, 2020
-* Advanced Individual of School Summer Social Practice, Soochow University, 2021
-* School Summer Social Practice Outstanding Team (Captain/Team Leader), Soochow University, 2021
-* Outstanding Communist Youth League Cadre, School of Computer Science and Technology, Soochow University, 2021
+
+Competition awards
+======
 * National College Students Mathematical Contest in Modeling, National Second Prize, 2021
 * Blue Bridge Cup National Software and Information Technology Professional Talent Competition Program Design Group, National Third Prize, 2021
 * National Mathematics Competition for College Students (Non-mathematics), National Third Prize, 2020
@@ -59,3 +51,16 @@ Awards and Honors
 * the 27th National Biology League for Middle School Students, Jiangsu Division, Provincial First Prize, 2018
 * the 26th National Biology League for Middle School Students, Jiangsu Division, Provincial First Prize, 2017
 * National Middle School Mathematics League, Jiangsu Division, Provincial Second Prize, 2018
+
+Honorary titles
+======
+* Merit Students of Jiangsu Province, Jiangsu Provincial Education Department, Youth League Committee, 2022
+* Advanced Individual of Summer Social Practice for College Students of Jiangsu Province (Only 8 in the university), Publicity Department of Jiangsu Provincial Party Committee, Department Of Education of Jiangsu Province, Spiritual Civilization Office of Jiangsu Province, Communist Youth League Committee of Jiangsu Province, Provincial Students' Federation, 2021
+* Top Ten Young Volunteers of the University (Only 10 in the university), Soochow University, 2021
+* University Excellent Youth League Member, Soochow University, 2020
+* University Outstanding Student Leader, Soochow University, 2020, 2021
+* Merit Student, Soochow University, 2022
+* Star of the University's Fight Against COVID-19, Soochow University, 2020
+* Advanced Individual of School Summer Social Practice, Soochow University, 2021
+* School Summer Social Practice Outstanding Team (Captain/Team Leader), Soochow University, 2021
+* Outstanding Communist Youth League Cadre, School of Computer Science and Technology, Soochow University, 2021
