@@ -28,5 +28,5 @@ main:
   - title: "Awards & Honors"
     url: /awards/
 
-  - title: "PKU-NIHDS"
-    url: 'https://www.perfectboy.site/pku/TongyueShi-NIHDS.html'
+  # - title: "PKU-NIHDS"
+  #   url: 'https://www.perfectboy.site/pku/TongyueShi-NIHDS.html'
