@@ -10,8 +10,7 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -30,3 +29,6 @@ main:
 
   # - title: "PKU-NIHDS"
   #   url: 'https://www.perfectboy.site/pku/TongyueShi-NIHDS.html'
+
+  - title: "Learning"
+    url: /teaching/    
