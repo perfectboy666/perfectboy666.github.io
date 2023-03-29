@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Python Basics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/python
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2019-09-01
 location: "City, Country"
 ---
 

@@ -30,5 +30,5 @@ main:
   # - title: "PKU-NIHDS"
   #   url: 'https://www.perfectboy.site/pku/TongyueShi-NIHDS.html'
 
-  - title: "Learning"
-    url: /teaching/    
+  # - title: "Learning"
+  #   url: /teaching/    
