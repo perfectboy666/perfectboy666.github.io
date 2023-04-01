@@ -19,7 +19,6 @@ Research Interests
 * Natural Language Processing
 * Application of AI for Science
 
-
 Contact
 ======
 * Email Address: shitongyue@me.com

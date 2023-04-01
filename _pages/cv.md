@@ -23,7 +23,7 @@ Work Experience
   * Deep Learning Model Inference and Configuration
 * **SUDA NLP Lab**
   * 2021.05-2022.09
-  * Research Intern
+  * Research Intern of Natural Language Processing
   * Supervisor: Prof. Zhongqing Wang
   * Dialogue System and Text Generation
 * **ZHUFENG Intelligent Laboratory, Ximalaya Inc.**
