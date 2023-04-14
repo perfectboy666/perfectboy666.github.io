@@ -14,10 +14,10 @@ I’m now a member of the **Chinese Association of Automation** (CAA), a student
 
 Research Interests
 ======
-* Big Data Analysis and Data Mining
+* Data Analysis & Data Mining
 * Intelligent Decision Making
 * Natural Language Processing
-* Application of AI for Science
+* Application of AI for Healthcare
 
 Contact
 ======
