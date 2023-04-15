@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* 2019-2023(est.), B.E., **Soochow University**, Suzhou, China.
-* 2022, Visit Student, **Harvard University**, Cambridge, USA.
-* 2023-2026(est.), M.S., **Peking University**, Beijing, China.
+* 2019-2023(est.), B.E., Computer Science, **Soochow University**, Suzhou, China.
+* 2022, Visit Student, AI & Big Data, **Harvard University**, Cambridge, USA.
+* 2023-2026(est.), M.S., Data Science, **Peking University**, Beijing, China.
 
 Work Experience
 ======
@@ -30,7 +30,6 @@ Work Experience
   * 2023.02-now
   * Research Intern of AIGC
   * Natural Language Processing and Multi-round Dialogue
-
 
 Academic Position
 ======
