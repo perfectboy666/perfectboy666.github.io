@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Introdction"
-    url: /cv/
+  # - title: "Introdction"
+  #   url: /cv/
 
   # - title: "Works"
   #   url: /publications/
@@ -24,8 +24,8 @@ main:
   # - title: "Experience"
   #   url: /experience/
 
-  - title: "Awards & Honors"
-    url: /awards/
+  # - title: "Awards & Honors"
+  #   url: /awards/
 
   # - title: "PKU-NIHDS"
   #   url: 'https://www.perfectboy.site/pku/TongyueShi-NIHDS.html'
