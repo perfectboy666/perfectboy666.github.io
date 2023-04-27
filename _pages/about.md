@@ -24,15 +24,3 @@ Contact
 ======
 * Email Address: shitongyue@me.com
 * Office: Room 412, Science & Engineering Building, No.1 Shizi Street, Suzhou, China
-
-
-Work Experience
-======
-* **HUAWEI Technologies.**
-  * 2021.10-2022.01
-  * Research Intern of Ascend All-Wisdom
-  * Deep Learning Model Inference and Configuration
-* **Everest Intelligent Lab, Ximalaya Inc.**
-  * 2023.02-now
-  * Research Intern of NLP & AIGC
-  * Natural Language Processing and Large Language Model
