@@ -19,6 +19,23 @@ Research Interests
 * Natural Language Processing
 * Application of AI for Healthcare
 
+Education
+======
+* 2019-2023(est.), B.E., **Soochow University**, Suzhou, China.
+* 2022, Visit Student, **Harvard University**, Cambridge, USA.
+* 2023-2026(est.), M.S., **Peking University**, Beijing, China.
+
+Work Experience
+======
+* **HUAWEI Technologies.**
+  * 2021.10-2022.01
+  * Research Intern of Ascend All-Wisdom Project
+  * Deep Learning Model Inference and Configuration
+* **Everest Intelligent Lab, Ximalaya Inc.**
+  * 2023.02-now
+  * Research Intern of NLP & AIGC
+  * Natural Language Processing and Large Language Model
+
 Contact
 ======
 * Email Address: shitongyue@me.com
