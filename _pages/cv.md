@@ -26,10 +26,10 @@ Work Experience
   * Research Intern of Natural Language Processing
   * Supervisor: Prof. Zhongqing Wang
   * Dialogue System and Text Generation
-* **ZHUFENG Intelligent Laboratory, Ximalaya Inc.**
+* **Everest Intelligent Laboratory, Ximalaya Inc.**
   * 2023.02-now
   * Research Intern of AIGC
-  * Natural Language Processing and Multi-round Dialogue
+  * Fine-Tuning Large Language Models (LLMs)
 
 Academic Position
 ======
