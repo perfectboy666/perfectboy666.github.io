@@ -36,3 +36,9 @@ Academic Position
 * member of **Chinese Association of Automation** (CAA)
 * student member of **China Computer Federation** (CCF)
 * student member of **Chinese Association for Artificial Intelligence** (CAAI)
+
+Academic Position
+======
+* member of **Chinese Association of Automation** (CAA)
+* student member of **China Computer Federation** (CCF)
+* student member of **Chinese Association for Artificial Intelligence** (CAAI)
