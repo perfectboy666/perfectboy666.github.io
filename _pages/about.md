@@ -19,6 +19,16 @@ Research Interests
 * Natural Language Processing
 * Application of AI for Healthcare
 
+Work Experience
+======
+* **HUAWEI Technologies.**
+  * 2021.10-2022.01
+  * Research Intern of Ascend All-Wisdom Project
+  * Deep Learning Model Inference and Configuration
+* **Everest Intelligent Laboratory, Ximalaya Inc.**
+  * 2023.02-2023.05
+  * Research Intern of AIGC
+  * Fine-Tuning Large Language Models (LLMs)
 
 Contact
 ======
