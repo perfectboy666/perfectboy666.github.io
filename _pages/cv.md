@@ -21,15 +21,19 @@ Work Experience
   * 2021.10-2022.01
   * Research Intern of Ascend All-Wisdom Project
   * Deep Learning Model Inference and Configuration
-* **SUDA NLP Lab**
+* **SUDA NLP Laboratory**
   * 2021.05-2022.09
-  * Research Intern of Natural Language Processing
+  * Research Intern
   * Supervisor: Prof. Zhongqing Wang
   * Dialogue System and Text Generation
 * **Everest Intelligent Laboratory, Ximalaya Inc.**
-  * 2023.02-now
-  * Research Intern of AIGC
-  * Fine-Tuning Large Language Models (LLMs)
+  * 2023.02-2023.05
+  * Research Intern
+  * Fine-Tuning Large Language Models
+* **Shanghai Artificial Intelligence Laboratory**
+  * 2023.06-now
+  * Research Intern
+  * Large Language Models
 
 Academic Position
 ======
