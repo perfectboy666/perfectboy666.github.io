@@ -17,23 +17,31 @@ Education
 
 Work Experience
 ======
-* **HUAWEI Technologies.**
-  * 2021.10-2022.01
-  * Research Intern of Ascend All-Wisdom Project
-  * Deep Learning Model Inference and Configuration
-* **SUDA NLP Laboratory**
-  * 2021.05-2022.09
-  * Research Intern
-  * Supervisor: Prof. Zhongqing Wang
-  * Dialogue System and Text Generation
-* **Everest Intelligent Laboratory, Ximalaya Inc.**
-  * 2023.02-2023.05
-  * Research Intern
-  * Fine-Tuning Large Language Models
 * **Shanghai Artificial Intelligence Laboratory**
   * 2023.06-now
   * Research Intern
   * Large Language Models
+* **Everest Intelligent Laboratory, Ximalaya Inc.**
+  * 2023.02-2023.05
+  * Research Intern
+  * Fine-Tuning Large Language Models
+* **HUAWEI Technologies.**
+  * 2021.10-2022.01
+  * Research Intern of Ascend All-Wisdom Project
+  * Deep Learning Model Inference and Configuration
+
+Research Experience
+======
+* **NIHDS, Peking University**
+  * 2022.10-2023.05
+  * Research Intern
+  * Supervisor: Prof. Guilan Kong
+  * Time Series Data Mining
+* **NLP Lab, Soochow University**
+  * 2021.05-2022.09
+  * Research Intern
+  * Supervisor: Prof. Zhongqing Wang
+  * Dialogue System and Text Generation
 
 Academic Position
 ======
