@@ -17,7 +17,7 @@ Education
 
 Work Experience
 ======
-* **Shanghai Artificial Intelligence Laboratory**
+* **Shanghai Artificial Intelligence Laboratory.**
   * 2023.06-now
   * Research Intern
   * Large Language Models
