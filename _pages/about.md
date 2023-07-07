@@ -36,4 +36,4 @@ Work Experience
 
 Contact
 ======
-* Email Address: shitongyue@hsc.pku.edu.cn, tyshi.pku@gmail.com
+* Email Address: tyshi.pku@gmail.com
