@@ -17,7 +17,7 @@ Research Interests
 * Data Analysis & Data Mining
 * Intelligent Decision Making
 * Natural Language Processing
-* Application of AI for Healthcare
+* Application of AI for Health
 
 Work Experience
 ======
@@ -36,4 +36,4 @@ Work Experience
 
 Contact
 ======
-* Email Address: tyshi.pku@gmail.com
+* Email Address: shitongyue@hsc.pku.edu.cn, tyshi.pku@gmail.com
