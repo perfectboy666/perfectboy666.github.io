@@ -36,4 +36,4 @@ Work Experience
 
 Contact
 ======
-* Email Address: shitongyue@hsc.pku.edu.cn
+* Email Address: tongyue.shi@outlook.com
