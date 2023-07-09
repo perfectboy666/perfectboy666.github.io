@@ -24,11 +24,11 @@ main:
   # - title: "Experience"
   #   url: /experience/
 
-  - title: "Awards & Honors"
-    url: /awards/
+  # - title: "Awards & Honors"
+  #   url: /awards/
 
-  - title: "Works"
-    url: /works/
+  # - title: "Works"
+  #   url: /works/
 
   # - title: "PKU-NIHDS"
   #   url: 'https://www.perfectboy.site/pku/TongyueShi-NIHDS.html'

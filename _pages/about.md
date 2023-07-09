@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I’m currently a MSc student at NIHDS, **<font color="#8B0012">Peking University</font>**, advised by [Prof. Guilan Kong](https://www.nihds.pku.edu.cn/en/info/1028/1193.htm). Before that, I graduated from the School of Computer Science and Technology at Soochow University, majoring in Computer Science and Technology & Artificial Intelligence, advised by [Prof. Zhongqing Wang](https://wangzqsuda.github.io/index.html) and [Prof. Junhua Fang](http://ada.suda.edu.cn/_upload/tpl/02/b6/694/template694/JunhuaFang.htm). During my undergraduate period, I had the honor to visit Harvard University and learned the knowledge of artificial intelligence and machine learning advised by [Dr. Peter Vaughan Henstock](https://pll.harvard.edu/instructor/peter-vaughan-henstock), which benefited me a lot.
+Hi~ I’m currently a MSc student at NIHDS, **<font color="#8B0012">Peking University</font>**. Before that, I graduated from the School of Computer Science and Technology at Soochow University, majoring in Computer Science and Technology & Artificial Intelligence, advised by [Prof. Zhongqing Wang](https://wangzqsuda.github.io/index.html) and [Prof. Junhua Fang](http://ada.suda.edu.cn/_upload/tpl/02/b6/694/template694/JunhuaFang.htm). During my undergraduate period, I had the honor to visit Harvard University and learned the knowledge of artificial intelligence and machine learning advised by [Dr. Peter Vaughan Henstock](https://pll.harvard.edu/instructor/peter-vaughan-henstock), which benefited me a lot.
 
 I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Besides, I am happy to make new friends, you may contact me.
 
@@ -31,9 +31,7 @@ News
 * [12/2021] As a contributor, I participated in the HUAWEI Ascend All-Wisdom Project, and completed the inferring work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded. 💪
 * [10/2021] I was awarded the National Scholarship for Undergraduates because of my outstanding academic performance, social practice, innovation ability, and comprehensive quality. I am very happy that the previous efforts have been recognized, and I will continue to cheer in the future! 🎉
 * [05/2021] I joined the Natural Language Processing Lab of Soochow University to conduct undergraduate research! 😋
-* [07/2020] In the spring of 2020, a sudden outbreak of new coronavirus pneumonia swept the world. I performed outstandingly in the great fight against the epidemic and was rated as an Outstanding Member of the Communist Youth League of Soochow University and the Star of Fighting Epidemic of Soochow University. These are the first time I have won school-level honors in university, and they are also a milestone inspiring me to continue to cheer in the future! ✊
-* [09/2019] I was admitted to Soochow University Medical Department with excellent grades. I chose to join the Artificial Intelligence Experimental Class at Soochow University. This is a test product for the curriculum reform of Soochow University, which continues the glory of China’s artificial intelligence by selecting outstanding students. 💪
-
+* [09/2019] I chose to join the Artificial Intelligence Experimental Class at Soochow University. This is a test product for the curriculum reform of Soochow University, which continues the glory of China’s artificial intelligence by selecting outstanding students. 💪
 
 Contact
 ======

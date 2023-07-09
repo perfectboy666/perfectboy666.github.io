@@ -169,3 +169,19 @@ Social Activities
 
 * Clerk    2019.9 - 2020.7
   * Media Department, Youth Media Center of Soochow University Youth League Committee
+
+
+News
+======
+* [06/2023] I will join OpenMMLab at Shanghai AI Lab as a intern.✊
+* [06/2023] I’m very lucky to have graduated as an outstanding graduate, and my graduation thesis was rated as an excellent graduation thesis of the school. 💪
+* [05/2023] One conference paper abstract was accepted by HDSS2023. 🎉
+* [02/2023] I will join Everest Intelligence Lab at Ximalaya Inc. as an algorithm intern, mainly engaged in multi-round dialogue and large language model related work. 😋
+* [09/2022] I’m very lucky to pursue a master’s degree at Peking University.ヾ(◍°∇°◍)ﾉﾞ
+* [06/2022] It is a great honor for me to be awarded the “Merit Student in Jiangsu Province”, which is also the only student who got the honor of our college. I will continue to work hard and learn from outstanding students in the future! ✊
+* [01/2022] I’m very happy to participate in the exchange program at Harvard University. ✊ Professor Peter and Jonathan are very dedicated and responsible. Through the communication, my basic knowledge of artificial intelligence and level of English have been greatly improved. 🎉
+* [12/2021] As a contributor, I participated in the HUAWEI Ascend All-Wisdom Project, and completed the inferring work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded. 💪
+* [10/2021] I was awarded the National Scholarship for Undergraduates because of my outstanding academic performance, social practice, innovation ability, and comprehensive quality. I am very happy that the previous efforts have been recognized, and I will continue to cheer in the future! 🎉
+* [05/2021] I joined the Natural Language Processing Lab of Soochow University to conduct undergraduate research! 😋
+* [07/2020] In the spring of 2020, a sudden outbreak of new coronavirus pneumonia swept the world. I performed outstandingly in the great fight against the epidemic and was rated as an Outstanding Member of the Communist Youth League of Soochow University and the Star of Fighting Epidemic of Soochow University. These are the first time I have won school-level honors in university, and they are also a milestone inspiring me to continue to cheer in the future! ✊
+* [09/2019] I was admitted to Soochow University Medical Department with excellent grades. I chose to join the Artificial Intelligence Experimental Class at Soochow University. This is a test product for the curriculum reform of Soochow University, which continues the glory of China’s artificial intelligence by selecting outstanding students. 💪
