@@ -35,7 +35,6 @@ News
 * [09/2019] I was admitted to Soochow University Medical Department with excellent grades. I chose to join the Artificial Intelligence Experimental Class at Soochow University. This is a test product for the curriculum reform of Soochow University, which continues the glory of China’s artificial intelligence by selecting outstanding students. 💪
 
 
-
 Contact
 ======
 * Email Address: tongyue.shi@outlook.com
