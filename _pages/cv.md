@@ -11,20 +11,21 @@ redirect_from:
 
 Education
 ======
-* 2019-2023(est.), B.E., **Soochow University**, Suzhou, China.
-* 2022, Visit Student, **Harvard University**, Cambridge, USA.
 * 2023-2026(est.), M.S., **Peking University**, Beijing, China.
+* 2022, Visit Student, **Harvard University**, Cambridge, USA.
+* 2019-2023, B.Eng., **Soochow University**, Suzhou, China.
+
 
 Work Experience
 ======
-* **Shanghai Artificial Intelligence Laboratory.**
+* **OpenMMLab, Shanghai AI Laboratory.**
   * 2023.06-now
   * Research Intern
-  * Large Language Models
+  * Fine-tune Large Language Models
 * **Everest Intelligent Laboratory, Ximalaya Inc.**
   * 2023.02-2023.05
-  * Research Intern
-  * Fine-Tuning Large Language Models
+  * Research Intern of AIGC
+  * Dialogue & Large Language Models
 * **HUAWEI Technologies.**
   * 2021.10-2022.01
   * Research Intern of Ascend All-Wisdom Project

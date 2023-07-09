@@ -23,7 +23,7 @@ Scholarships 🏆
 * Special Scholarship for Spiritual Civilization, Soochow University, 2021
 * Social Work Special Scholarship, Soochow University, 2020, 2022
 
-Competition awards
+Awards
 ======
 * National College Students Mathematical Contest in Modeling, National Second Prize, 2021
 * Blue Bridge Cup National Software and Information Technology Professional Talent Competition Program Design Group, National Third Prize, 2021
@@ -58,6 +58,7 @@ Honorary titles
 ======
 * Merit Students of Jiangsu Province, Jiangsu Provincial Education Department, Youth League Committee, 2022
 * Advanced Individual of Summer Social Practice for College Students of Jiangsu Province (Only 8 in the university), Publicity Department of Jiangsu Provincial Party Committee, Department Of Education of Jiangsu Province, Spiritual Civilization Office of Jiangsu Province, Communist Youth League Committee of Jiangsu Province, Provincial Students' Federation, 2021
+* Outstanding graduate, Soochow University, 2023
 * Top Ten Young Volunteers of the University (Only 10 in the university), Soochow University, 2021
 * University Excellent Youth League Member, Soochow University, 2020
 * University Outstanding Student Leader, Soochow University, 2020, 2021
