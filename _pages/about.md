@@ -21,12 +21,12 @@ Research Interests
 
 Contact
 ======
-* Email Address: tyshi@stu.pku.edu.cn, shitongyue@me.com
+* Email Address: tyshi@stu.pku.edu.cn
 
 News
 ======
+* [06/2023] I’m very lucky to have graduated as an outstanding graduate, and my graduation thesis was rated as an excellent graduation thesis. 💪
 * [06/2023] I will join [OpenMMLab](https://openmmlab.com/) at [Shanghai AI Lab](https://www.shlab.org.cn/) as a intern.✊
-* [06/2023] I’m very lucky to have graduated as an outstanding graduate, and my graduation thesis was rated as an excellent graduation thesis of the school. 💪
 * [05/2023] One conference paper abstract was accepted by HDSS2023. 🎉
 * [02/2023] I will join Everest Intelligence Lab at [Ximalaya Inc.](https://www.ximalaya.com/) as an algorithm intern, mainly engaged in multi-round dialogue and large language model related work. 😋
 * [09/2022] I’m very lucky to pursue a master’s degree at [Peking University](https://www.pku.edu.cn/).ヾ(◍°∇°◍)ﾉﾞ
@@ -34,5 +34,5 @@ News
 * [01/2022] I’m very happy to participate in the exchange program at [Harvard University](https://www.harvard.edu/). ✊ Professor Peter and Jonathan are very dedicated and responsible. Through the communication, my basic knowledge of artificial intelligence and level of English have been greatly improved. 🎉
 * [12/2021] As a contributor, I participated in the [HUAWEI Ascend](https://www.hiascend.com/zh/) All-Wisdom Project, and completed the inferring work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded. 💪
 * [10/2021] I was awarded the National Scholarship. 🎉
-* [05/2021] I joined the Natural Language Processing Lab of Soochow University to conduct undergraduate research! 😋
+* [05/2021] I joined the [Natural Language Processing Lab of Soochow University](http://nlp.suda.edu.cn/) to conduct undergraduate research! 😋
 * [09/2019] I chose to join the Artificial Intelligence Experimental Class at Soochow University. 💪
