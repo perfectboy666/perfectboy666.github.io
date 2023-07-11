@@ -19,6 +19,10 @@ Research Interests
 * Natural Language Processing
 * Application of AI for Health
 
+Contact
+======
+* Email Address: tyshi@stu.pku.edu.cn, tongyue.shi@outlook.com
+
 News
 ======
 * [06/2023] I will join OpenMMLab at Shanghai AI Lab as a intern.✊
@@ -29,10 +33,6 @@ News
 * [06/2022] It is a great honor for me to be awarded the “Merit Student in Jiangsu Province”, which is also the only student who got the honor of our college. I will continue to work hard and learn from outstanding students in the future! ✊
 * [01/2022] I’m very happy to participate in the exchange program at Harvard University. ✊ Professor Peter and Jonathan are very dedicated and responsible. Through the communication, my basic knowledge of artificial intelligence and level of English have been greatly improved. 🎉
 * [12/2021] As a contributor, I participated in the HUAWEI Ascend All-Wisdom Project, and completed the inferring work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded. 💪
-* [10/2021] I was awarded the National Scholarship for Undergraduates because of my outstanding academic performance, social practice, innovation ability, and comprehensive quality. I am very happy that the previous efforts have been recognized, and I will continue to cheer in the future! 🎉
+* [10/2021] I was awarded the National Scholarship. 🎉
 * [05/2021] I joined the Natural Language Processing Lab of Soochow University to conduct undergraduate research! 😋
-* [09/2019] I chose to join the Artificial Intelligence Experimental Class at Soochow University. This is a test product for the curriculum reform of Soochow University, which continues the glory of China’s artificial intelligence by selecting outstanding students. 💪
-
-Contact
-======
-* Email Address: tongyue.shi@outlook.com
+* [09/2019] I chose to join the Artificial Intelligence Experimental Class at Soochow University. 💪
