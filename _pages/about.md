@@ -21,7 +21,7 @@ Research Interests
 
 Contact
 ======
-* Email Address: tyshi@stu.pku.edu.cn, tongyue.shi@outlook.com
+* Email Address: tyshi@stu.pku.edu.cn, shitongyue@me.com
 
 News
 ======
