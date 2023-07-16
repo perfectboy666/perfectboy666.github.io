@@ -15,7 +15,7 @@ Education
 * 2022, Visit Student, **Harvard University**, Cambridge, USA.
 * 2023-2026, M.S., **Peking University**, Beijing, China.
  
-x
+
 
 
 Work experience
