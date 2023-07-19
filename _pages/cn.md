@@ -1,12 +1,12 @@
 ---
-# permalink: /markdown/
-# title: "关于我"
-# author_profile: true
-# redirect_from: 
-#   - /md/
-#   - /markdown.html
+permalink: /cn/
+title: "关于我"
+author_profile: true
+redirect_from: 
+  - /cn/
+  - /cn.html
 ---
-我目前是**北京大学**健康医疗大数据国家研究院的硕士研究生，目前感兴趣的研究方向为：**大数据分析与数据挖掘、智能决策、自然语言处理、大数据与人工智能在健康医疗领域的应用**等。
+我目前是**北京大学**健康医疗大数据国家研究院的硕士研究生，目前感兴趣的研究方向为：**数据挖掘、智能决策、自然语言处理、大数据与人工智能在健康医疗领域的应用**等。
 
 ## 联系方式
 邮箱：tyshi@stu.pku.edu.cn

@@ -207,6 +207,9 @@ collections:
   works:
     output: true
     permalink: /:collection/:path/
+  cn:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
