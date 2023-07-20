@@ -16,7 +16,7 @@ Education
 * 2019-2023, B.Eng., **Soochow University**, Suzhou, China.
 
 
-Work Experience
+Experience
 ======
 * **OpenMMLab, Shanghai AI Laboratory.**
   * 2023.06-now
@@ -30,19 +30,6 @@ Work Experience
   * 2021.10-2022.01
   * Research Intern of Ascend All-Wisdom Project
   * Deep Learning Model Inference and Configuration
-
-Research Experience
-======
-* **NIHDS, Peking University**
-  * 2022.10-2023.05
-  * Research Intern
-  * Supervisor: Prof. Guilan Kong
-  * Time Series Data Mining
-* **NLP Lab, Soochow University**
-  * 2021.05-2022.09
-  * Research Intern
-  * Supervisor: Prof. Zhongqing Wang
-  * Dialogue System and Text Generation
 
 Academic Position
 ======
