@@ -17,7 +17,7 @@ Research Interests
 * Data Analysis & Data Mining
 * Intelligent Decision Making
 * Natural Language Processing
-* Application of AI for Health
+* Application of AI for Healthare
 
 Contact
 ======
