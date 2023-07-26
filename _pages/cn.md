@@ -1,10 +1,10 @@
 ---
-permalink: /cn/
-title: "关于我"
-author_profile: true
-redirect_from: 
-  - /cn/
-  - /cn.html
+# permalink: /cn/
+# title: "关于我"
+# author_profile: true
+# redirect_from: 
+#   - /cn/
+#   - /cn.html
 ---
 我目前是**北京大学**健康医疗大数据国家研究院的硕士研究生，感兴趣的研究方向为：**数据挖掘、自然语言处理、大数据与人工智能在健康医疗领域的应用**等。
 
