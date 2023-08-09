@@ -15,7 +15,6 @@ Education
 * 2022, Visit Student, **Harvard University**, Cambridge, USA.
 * 2019-2023, B.Eng., **Soochow University**, Suzhou, China.
 
-
 Experience
 ======
 * **OpenMMLab, Shanghai AI Laboratory.**
@@ -30,6 +29,15 @@ Experience
   * 2021.10-2022.01
   * Research Intern of Ascend All-Wisdom Project
   * Deep Learning Model Inference and Configuration
+
+Selected Awards
+======
+* National Scholarship (top 1%), 2021.
+* Merit Students of Jiangsu Province (top 1%), 2021.
+* Advanced Individual of Summer Social Practice of Jiangsu Province (top 1%), 2021.
+* HUAWEI Scholarship (top 1%), 2022.
+* Zhu Jingwen Special Scholarship (top 1%), 2022.
+* YUHAN Scholarship (top 3%), 2020.
 
 Academic Position
 ======
