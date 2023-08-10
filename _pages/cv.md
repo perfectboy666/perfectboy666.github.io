@@ -32,12 +32,13 @@ Experience
 
 Selected Awards
 ======
-* National Scholarship (top 1%), 2021.
-* Merit Students of Jiangsu Province (top 1%), 2021.
-* Advanced Individual of Summer Social Practice of Jiangsu Province (top 1%), 2021.
-* HUAWEI Scholarship (top 1%), 2022.
-* Zhu Jingwen Special Scholarship (top 1%), 2022.
-* YUHAN Scholarship (top 3%), 2020.
+* National Scholarship (Top <1%), 2021.
+* Merit Students of Jiangsu Province (Top <1%), 2021.
+* Advanced Individual of Summer Social Practice of Jiangsu Province (Top <1%), 2021.
+* Second Prize (Top <1%)  in China Undergraduate Mathematical Contest in Modeling (MCM), 2021.
+* HUAWEI Scholarship (Top 1%), 2022.
+* Zhu Jingwen Special Scholarship (Top 1%), 2022.
+* YUHAN Scholarship (Top 3%), 2020.
 
 Academic Position
 ======
