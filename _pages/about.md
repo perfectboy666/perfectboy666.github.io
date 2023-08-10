@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I’m currently a MSc student at NIHDS, **<font color="#8B0012">Peking University</font>**. Before that, I received my Bachelor’s degree in Computer Science and Technology & Artificial Intelligence from Soochow University. I also had the honor to visit and exchange at Harvard University and learned the knowledge of artificial intelligence and machine learning, which benefited me a lot.
+Hi~ I am currently a master student at NIHDS, **<font color="#8B0012">Peking University</font>**. Before that, I received my Bachelor’s degree in Computer Science and Technology & Artificial Intelligence from Soochow University in June 2023. I also had the honor to visit and exchange at Harvard University and learned the knowledge of artificial intelligence and machine learning, which benefited me a lot.
 
 I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Besides, I am happy to make new friends, you may contact me.
 
