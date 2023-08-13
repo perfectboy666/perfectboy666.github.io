@@ -13,7 +13,7 @@ Education
 ======
 * 2023-2026(est.), M.S., **Peking University**, Beijing, China.
 * 2022, Visit Student, **Harvard University**, Cambridge, USA.
-* 2019-2023, B.Eng., **Soochow University**, Suzhou, China.
+* 2019-2023, B.Eng., **Soochow University**, Suzhou, China. (GPA: 3.9/4.0, Rank: 1/72)
 
 Experience
 ======
