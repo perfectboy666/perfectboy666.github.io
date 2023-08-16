@@ -25,7 +25,7 @@ Contact
 News
 ======
 * [06/2023] I will join [OpenMMLab](https://openmmlab.com/) at [Shanghai AI Lab](https://www.shlab.org.cn/) as a intern.✊
-* [05/2023] One conference paper was accepted by HDSS2023. 🎉
+* [05/2023] One conference paper was accepted by HDSS 2023. 🎉
 * [02/2023] I will join Everest Intelligence Lab at [Ximalaya Inc.](https://www.ximalaya.com/) as an algorithm intern, mainly engaged in multi-round dialogue and large language model related work. 😋
 * [01/2022] I’m very happy to participate in the exchange program at [Harvard University](https://www.harvard.edu/), advised by [Dr. Peter Vaughan Henstock](https://pll.harvard.edu/instructor/peter-vaughan-henstock). Through the communication, my basic knowledge of artificial intelligence and level of English have been greatly improved. 🎉
 * [12/2021] As a contributor, I participated in the [HUAWEI Ascend](https://www.hiascend.com/zh/) All-Wisdom Project, and completed the inferring work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded. 💪
