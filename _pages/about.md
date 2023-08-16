@@ -24,7 +24,6 @@ Contact
 
 News
 ======
-* [06/2023] I’m very lucky to have graduated as an outstanding graduate, and my graduation thesis was rated as an excellent graduation thesis. 💪
 * [06/2023] I will join [OpenMMLab](https://openmmlab.com/) at [Shanghai AI Lab](https://www.shlab.org.cn/) as a intern.✊
 * [05/2023] One conference paper was accepted by HDSS2023. 🎉
 * [02/2023] I will join Everest Intelligence Lab at [Ximalaya Inc.](https://www.ximalaya.com/) as an algorithm intern, mainly engaged in multi-round dialogue and large language model related work. 😋
