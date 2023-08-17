@@ -18,6 +18,23 @@ Research Interests
 * Natural Language Processing
 * Data Science & AI for Healthcare
 
+Experiences
+======
+* OpenMMLab, Shanghai AI Laboratory, 2023/06-2023/08
+* Everest Intelligent Laboratory, Ximalaya, 2023/02-2023/05
+* Harvard University, 2022/01-2022/02
+* HUAWEI Technologies, 2021/10-2022/01
+
+Selected Awards
+======
+* National Scholarship (Top <1%), 2021.
+* Merit Student of Jiangsu Province (Top <1%), 2021.
+* Advanced Individual of Summer Social Practice of Jiangsu Province (Top <1%), 2021.
+* Second Prize (Top <1%)  in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.
+* HUAWEI Scholarship (Top 1%), 2022.
+* Zhu Jingwen Special Scholarship (Top 1%), 2022.
+* YUHAN Scholarship (Top 3%), 2020.
+
 Contact
 ======
 * Email Address: tyshi@stu.pku.edu.cn
