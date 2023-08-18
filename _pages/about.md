@@ -57,7 +57,7 @@ Hi~ I am currently a master student at NIHDS, **<font color="#8B0012">Peking Uni
 
 <span style="color:#6b5d40">News</span>
 ----------
-- [06/2023] I will join [OpenMMLab](https://openmmlab.com/) at [Shanghai AI Lab](https://www.shlab.org.cn/) as a intern.✊
+- [06/2023] I will join [OpenMMLab](https://openmmlab.com/) at [Shanghai AI Lab](https://www.shlab.org.cn/) as a intern and work with [Dr. Wenwei Zhang](http://zhangwenwei.cn/).✊
 - [05/2023] One conference paper was accepted by HDSS 2023. 🎉
 - [02/2023] I will join Everest Intelligence Lab at [Ximalaya Inc.](https://www.ximalaya.com/) as an algorithm intern, mainly engaged in multi-round dialogue and large language model related work. 😋
 - [01/2022] I’m very happy to participate in the exchange program at [Harvard University](https://www.harvard.edu/), advised by [Dr. Peter Vaughan Henstock](https://pll.harvard.edu/instructor/peter-vaughan-henstock). Through the communication, my basic knowledge of artificial intelligence and level of English have been greatly improved. 🎉
