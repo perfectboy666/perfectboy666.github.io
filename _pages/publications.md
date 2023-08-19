@@ -4,8 +4,45 @@ title: "Works: papers, patents and software copyrights"
 permalink: /publications/
 author_profile: true
 ---
+<span style="color:#6b5d40">Publications</span>
+--------
+**Conference**
 
-{% if author.googlescholar %}
+1. **<span style="color:#0b5394">[HDSS'23]</span> Identifying Subgroups of ICU Patients Using End-to-End Multivariate Time-Series Clustering Algorithm Based on Real-World Vital Signs Data <span style="color:#0b5394">(Poster)</span>**   
+    **Tongyue Shi**, Zhilong Zhang, Wentie Liu, Junhua Fang, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong.
+    In: the Beijing Health Data Science Summit 2023 (HDSS 2023),  June 16-18, 2023, Beijing, China.
+
+2. **<span style="color:#0b5394">[MCBK'23]</span> ICU Mortality Prediction Based on Patient Subgroups Identified Using Multivariate Time-Series Clustering <span style="color:#0b5394">(Oral Presentation)</span>**   
+    **Tongyue Shi**, Wentie Liu, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong.
+    In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023, Americans and Europe.
+
+
+**Journal**
+1. **<span style="color:#0b5394">[Journal of China Computer & Communication]</span> Overview of Transformer-based Pre-trained Language Models for Natural Language Processing <span style="color:#0b5394">(中文)</span>**   
+    **Tongyue Shi** and Zhongqing Wang.
+    In: China Computer & Communication, 2022,34(10):52-56.
+   
+  
+**Patent & Software Copyright**
+1. **<span style="color:#0b5394">[Utility Model Patent]</span> A Temperature-Controlled Smart Shoe Containing an Embedded Microcomputer <span style="color:#0b5394">(2022)</span>**   
+    **Tongyue Shi** and Min Cao.
+
+2. **<span style="color:#0b5394">[Utility Model Patent]</span> A Computer Host Chassis Cleaning Device <span style="color:#0b5394">(2022)</span>**   
+    **Tongyue Shi** and Zhongqing Wang.
+
+3. **<span style="color:#0b5394">[Software Copyright]</span> Job-User Matching Recommendation System Based on Artificial Intelligence Algorithm <span style="color:#0b5394">(2022)</span>**   
+    **Tongyue Shi** and Zhangjing Shi.
+
+4. **<span style="color:#0b5394">[Software Copyright]</span> Deep Learning Information Collection Software V1.0 <span style="color:#0b5394">(2022)</span>**   
+    **Tongyue Shi** and Zhongqing Wang.
+
+
+
+
+
+
+
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,4 +50,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->

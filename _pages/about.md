@@ -41,7 +41,7 @@ Hi~ I am currently a master student at NIHDS, **<font color="#8B0012">Peking Uni
 --------
 - Email Address: tyshi@stu.pku.edu.cn
   
-<span style="color:#6b5d40">Publications</span>
+<!-- <span style="color:#6b5d40">Publications</span>
 --------
 **Conference**
 
@@ -71,7 +71,7 @@ Hi~ I am currently a master student at NIHDS, **<font color="#8B0012">Peking Uni
     **Tongyue Shi** and Zhangjing Shi.
 
 4. **<span style="color:#0b5394">[Software Copyright]</span> Deep Learning Information Collection Software V1.0 <span style="color:#0b5394">(2022)</span>**   
-    **Tongyue Shi** and Zhongqing Wang.
+    **Tongyue Shi** and Zhongqing Wang. -->
 
 
 
