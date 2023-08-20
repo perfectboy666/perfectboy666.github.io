@@ -16,9 +16,10 @@ author_profile: true
     **Tongyue Shi**, Wentie Liu, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong.
     In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023, Americans and Europe.
 
-3. **<span style="color:#0b5394">[MCBK'23]</span> Machine Learning-based In-hospital Mortality Prediction for ICU Patients based on Clinical Data in the First 3 Hours of Sepsis <span style="color:#0b5394">(Oral Presentation)</span>**
+3. **<span style="color:#0b5394">[MCBK'23]</span> Machine Learning-based In-hospital Mortality Prediction for ICU Patients based on Clinical Data in the First 3 Hours of Sepsis <span style="color:#0b5394">(Oral Presentation)</span>**   
     Wentie Liu, **Tongyue Shi**, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong.
     In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023, Americans and Europe.
+
 
 **Journal**
 1. **<span style="color:#0b5394">[Journal of China Computer & Communication]</span> Overview of Transformer-based Pre-trained Language Models for Natural Language Processing <span style="color:#0b5394">(中文)</span>**   
