@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2023-2026(est.), M.S., **Peking University**, Beijing, China.
-* 2022, Visit Student, **Harvard University**, Cambridge, USA.
+* 2023-2026(est.), Master of Science, **Peking University**, Beijing, China.
+* 2022, Excange Student, **Harvard University**, Cambridge, USA. (Grade: A/Distinction)
 * 2019-2023, B.Eng., **Soochow University**, Suzhou, China. (GPA: 3.9/4.0, Rank: 1/72)
 
 Experience
