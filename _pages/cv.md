@@ -18,7 +18,7 @@ Education
 Experience
 ======
 * **OpenMMLab, Shanghai AI Laboratory.**
-  * 2023.06-now
+  * 2023.06-2023.09
   * Research Intern
   * Fine-tune Large Language Models
 * **Everest Intelligent Laboratory, Ximalaya Inc.**

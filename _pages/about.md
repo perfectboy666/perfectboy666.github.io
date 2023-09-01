@@ -25,7 +25,7 @@ Hi~ I am currently a master student at NIHDS, **<font color="#8B0012">Peking Uni
 - Everest Intelligent Laboratory, Ximalaya, 2023/02-2023/05
 - Harvard University, 2022/01-2022/02
 - HUAWEI Technologies, 2021/10-2022/01 -->
-- 
+
 <!-- & Artificial Intelligence from Soochow University  -->
 
 <!-- <span style="color:#6b5d40">Selected Awards</span>
