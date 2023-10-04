@@ -19,23 +19,21 @@ Hi~ I am currently a master student at NIHDS, **<font color="#8B0012">Peking Uni
 - Natural Language Processing
 - Data Science & AI for Healthcare
 
-<!-- <span style="color:#6b5d40">Experiences</span>
+<span style="color:#6b5d40">Experiences</span>
 --------
-- OpenMMLab, Shanghai AI Laboratory, 2023/06-now
+- OpenMMLab, Shanghai AI Laboratory, 2023/06-2023/09
 - Everest Intelligent Laboratory, Ximalaya, 2023/02-2023/05
 - Harvard University, 2022/01-2022/02
-- HUAWEI Technologies, 2021/10-2022/01 -->
+- HUAWEI Technologies, 2021/10-2022/01
 
-<!-- & Artificial Intelligence from Soochow University  -->
-
-<!-- <span style="color:#6b5d40">Selected Awards</span>
+<span style="color:#6b5d40">Selected Awards</span>
 --------
 - National Scholarship (Top &lt;1%), 2021.
 - Merit Student of Jiangsu Province (Top &lt;1%), 2021.
 - Advanced Individual of Summer Social Practice of Jiangsu Province (Top &lt;1%), 2021.
 - Second Prize (Top &lt;1%)  in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.
 - HUAWEI Scholarship (Top 1%), 2022.
-- Zhu Jingwen Special Scholarship (Top 1%), 2022. -->
+<!-- - Zhu Jingwen Special Scholarship (Top 1%), 2022. -->
 
 <!-- <span style="color:#6b5d40">Contact</span>
 --------
