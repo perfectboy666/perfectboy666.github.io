@@ -35,9 +35,9 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 - HUAWEI Scholarship (Top &lt;1%), 2022.
 <!-- - Zhu Jingwen Special Scholarship (Top 1%), 2022. -->
 
-<!-- <span style="color:#6b5d40">Contact</span>
+<span style="color:#6b5d40">Contact</span>
 --------
-- Email Address: tyshi@stu.pku.edu.cn -->
+- Email Address: tyshi.pku@gmail.com
 
 <span style="color:#6b5d40">News</span>
 ----------
