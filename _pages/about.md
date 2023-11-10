@@ -23,7 +23,7 @@ Hi~ I am currently a master student at NIHDS, **<font color="#8B0012">Peking Uni
 --------
 - Research Intern, OpenMMLab, Shanghai AI Laboratory, June 2023-Sept. 2023.
 - Research Intern, Everest Intelligent Laboratory, Ximalaya, Feb. 2023-May 2023.
-- Exchange student, Harvard University, Jan. 2022-Feb. 2022.
+- Exchange Student, Harvard University, Jan. 2022-Feb. 2022.
 - Intern, HUAWEI Technologies, Oct. 2021-Jan. 2022.
 
 <span style="color:#6b5d40">Selected Awards</span>
