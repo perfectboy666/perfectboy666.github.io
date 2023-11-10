@@ -13,18 +13,18 @@ Hi~ I am currently a master student at NIHDS, **<font color="#8B0012">Peking Uni
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Besides, I am happy to make new friends, you may contact me.</span>
 
-<span style="color:#6b5d40">Research Interests</span>
+<span style="color:#6b5d40">Research Interest</span>
 ----------
 - Data Analysis & Data Mining
 - Natural Language Processing
 - Data Science & AI for Healthcare
 
-<span style="color:#6b5d40">Experiences</span>
+<span style="color:#6b5d40">Experience</span>
 --------
-- OpenMMLab, Shanghai AI Laboratory, 2023/06-2023/09
-- Everest Intelligent Laboratory, Ximalaya, 2023/02-2023/05
-- Harvard University, 2022/01-2022/02
-- HUAWEI Technologies, 2021/10-2022/01
+- Research Intern, OpenMMLab, Shanghai AI Laboratory, June 2023-Sept. 2023.
+- Research Intern, Everest Intelligent Laboratory, Ximalaya, Feb. 2023-May 2023.
+- Exchange student, Harvard University, Jan. 2022-Feb. 2022.
+- Intern, HUAWEI Technologies, Oct. 2021-Jan. 2022.
 
 <span style="color:#6b5d40">Selected Awards</span>
 --------
