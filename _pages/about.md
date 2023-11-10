@@ -28,7 +28,7 @@ Hi~ I am currently a master student at NIHDS, **<font color="#8B0012">Peking Uni
 
 <span style="color:#6b5d40">Selected Awards</span>
 --------
-- National Scholarship ((Top 0.2% national-wide)), 2021.
+- National Scholarship (Top 0.2% national-wide), 2021.
 - Merit Student of Jiangsu Province (Top &lt;1%), 2022.
 - Advanced Individual of Summer Social Practice of Jiangsu Province (Top &lt;1%), 2021.
 - Second Prize (Top &lt;1%)  in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.
