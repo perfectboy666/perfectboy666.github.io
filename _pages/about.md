@@ -37,7 +37,7 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 
 <span style="color:#6b5d40">Contact</span>
 --------
-- Email Address: tyshi.pku@gmail.com
+- Email Address: tongyue.shi@outlook.com
 
 <span style="color:#6b5d40">News</span>
 ----------
