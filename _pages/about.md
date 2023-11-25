@@ -15,8 +15,9 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 
 <span style="color:#6b5d40">Research Interest</span>
 ----------
-- Data Analysis & Data Mining
-- Natural Language Processing
+- Data Mining
+- NLP and LLMs
+- Medical informatics
 - Data Science & AI for Healthcare
 
 <span style="color:#6b5d40">Experience</span>
