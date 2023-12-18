@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
 Hi~ I am currently a master student at **<font color="#8B0012">Peking University</font>**, and I received my Bachelor’s degree of Computer Science in June 2023. I also had the honor to visit and exchange at Harvard University and learned the knowledge of big data and machine learning, which benefited me a lot.</span><br/>
 
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Besides, I am happy to make new friends, you may contact me.</span>
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Besides, I am happy to make new friends, you may contact me.</span>
 
 <span style="color:#6b5d40">Research Interest</span>
 ----------
@@ -38,7 +38,7 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 --------
 - Email Address: Tongyue.shi@outlook.com
 
-<span style="color:#6b5d40">News</span>
+<span style="text-align:justify; text-justify:inter-ideograph;color:#6b5d40">News</span>
 ----------
 - [09/2023] Two conference papers were accepted by MCBK 2023. 🎉🎉
 - [06/2023] I will join [OpenMMLab](https://openmmlab.com/) at [Shanghai AI Lab](https://www.shlab.org.cn/) as a intern working with [Dr. Wenwei Zhang](http://zhangwenwei.cn/) & [Chengqi Lyu](https://scholar.google.com/citations?user=kV3WvXcAAAAJ&hl=zh-CN&oi=ao). This is our LLM [InternLM](https://internlm.intern-ai.org.cn/). ✊
