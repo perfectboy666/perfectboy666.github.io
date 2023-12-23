@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src='/images/sty_nihds.png'>
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
 Hi~ I am currently a master student at **<font color="#8B0012">Peking University</font>**, and I received my Bachelor’s degree of Computer Science in June 2023. I also had the honor to visit and exchange at Harvard University and learned the knowledge of big data and machine learning, which benefited me a lot.</span><br/>
