@@ -23,10 +23,10 @@ author_profile: true
 
 
 **Journal**
-1. **<span style="color:#0b5394">[Journal of China Computer & Communication]</span> Overview of Transformer-based Pre-trained Language Models for Natural Language Processing <span style="color:#0b5394">(中文)</span>**   
+1. **<span style="color:#0b5394">[Journal of China Computer & Communication|信息与电脑（理论版）]</span> Overview of Transformer-based Pre-trained Language Models for Natural Language Processing <span style="color:#0b5394">(中文)</span>**   
     **Tongyue Shi** and Zhongqing Wang\*.
     In: China Computer & Communication, 2022,34(10):52-56.
-2. **<span style="color:#0b5394">[Journal of Peking University (Health Sciences)]</span> A computable phenotype for identification of type 2 diabetes mellitus subtypes based on electronic medical record data <span style="color:#0b5394">(中文)</span>**   
+2. **<span style="color:#0b5394">[Journal of Peking University (Health Sciences)|北京大学学报（英文版）]</span> A Computable Phenotype for Identification of Type 2 Diabetes Mellitus Subtypes Based on Electronic Medical Record Data <span style="color:#0b5394">(中文)</span>**   
     Jiayu Wang, Weijia Yuan, Yangfan Chai, Yangyang Ma, Jun Ma, **Tongyue Shi**, Wenwen Liu, Guilan Kong\*, Minchao Liu\*.
     Submitted to Journal of Peking University (Health Sciences).
    
