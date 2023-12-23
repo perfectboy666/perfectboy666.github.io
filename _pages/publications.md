@@ -1,32 +1,34 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
---- -->
+---
 
-
-<!-- <span style="color:#6b5d40">Publications</span> -->
-<!-- -------- -->
+<span style="color:#6b5d40">Publications</span>
+--------
 **Conference**
 
 1. **<span style="color:#0b5394">[HDSS'23]</span> Identifying Subgroups of ICU Patients Using End-to-End Multivariate Time-Series Clustering Algorithm Based on Real-World Vital Signs Data <span style="color:#0b5394">(Poster)</span>**   
-    **Tongyue Shi**, Zhilong Zhang, Wentie Liu, Junhua Fang, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong.
+    **Tongyue Shi**, Zhilong Zhang, Wentie Liu, Junhua Fang, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong*.
     In: the Beijing Health Data Science Summit 2023 (HDSS 2023),  June 16-18, 2023, Beijing, China.
 
 2. **<span style="color:#0b5394">[MCBK'23]</span> ICU Mortality Prediction Based on Patient Subgroups Identified Using Multivariate Time-Series Clustering <span style="color:#0b5394">(Oral Presentation)</span>**   
-    **Tongyue Shi**, Wentie Liu, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong.
+    **Tongyue Shi**, Wentie Liu, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong*.
     In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023, Americans and Europe.
 
 3. **<span style="color:#0b5394">[MCBK'23]</span> Machine Learning-based In-hospital Mortality Prediction for ICU Patients based on Clinical Data in the First 3 Hours of Sepsis <span style="color:#0b5394">(Oral Presentation)</span>**   
-    Wentie Liu, **Tongyue Shi**, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong.
+    Wentie Liu, **Tongyue Shi**, Jianguo Hao, Shuai Jin, Huiying Zhao and Guilan Kong*.
     In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023, Americans and Europe.
 
 
 **Journal**
 1. **<span style="color:#0b5394">[Journal of China Computer & Communication]</span> Overview of Transformer-based Pre-trained Language Models for Natural Language Processing <span style="color:#0b5394">(中文)</span>**   
-    **Tongyue Shi** and Zhongqing Wang.
+    **Tongyue Shi** and Zhongqing Wang*.
     In: China Computer & Communication, 2022,34(10):52-56.
+2. **<span style="color:#0b5394">[Journal of Peking University (Health Sciences)]</span> A computable phenotype for identification of type 2 diabetes mellitus subtypes based on electronic medical record data <span style="color:#0b5394">(中文)</span>**   
+    Jiayu Wang, Weijia Yuan, Yangfan Chai, Yangyang Ma, Jun Ma, **Tongyue Shi**, Wenwen Liu, Guilan Kong*, Minchao Liu*.
+    Submitted to Journal of Peking University (Health Sciences).
    
 **Patent & Software Copyright**
 1. **<span style="color:#0b5394">[Utility Model Patent]</span> A Temperature-Controlled Smart Shoe Containing an Embedded Microcomputer <span style="color:#0b5394">(2022)</span>**   
