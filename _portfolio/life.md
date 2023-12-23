@@ -1,6 +1,6 @@
 ---
 title: "WHAT IS LIFE"
-excerpt: "It's good to be happy every day!<br/><img src='/images/stypku.PNG'>"
+excerpt: "<img src='/images/stypku.PNG' height="400">"
 collection: portfolio
 ---
-Life is everything.
+Life is everything what you really like!
