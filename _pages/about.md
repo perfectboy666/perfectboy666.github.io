@@ -15,7 +15,8 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 
 <span style="color:#6b5d40">Research Interest</span>
 ----------
-- Data analysis & Data Mining
+- Time-series Data Mining
+- Graph Neural Network
 - Natural Language Processing & LLMs
 - Data Science & AI for Healthcare
 
