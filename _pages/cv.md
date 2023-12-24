@@ -1,10 +1,10 @@
 ---
-# layout: archive
-# title: "Introduction"
-# permalink: /cv/
-# author_profile: true
-# redirect_from:
-#   - /resume
+layout: archive
+title: "Introduction"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 <img src='/images/sty_nihds.png'>
 
@@ -24,11 +24,11 @@ Experience
   * Fine-tune Large Language Models
 * **Everest Intelligent Laboratory, Ximalaya Inc.**
   * 2023.02-2023.05
-  * Research Intern of AIGC
+  * Algorithm Engineer Intern
   * Dialogue & Large Language Models
 * **HUAWEI Technologies.**
   * 2021.10-2022.01
-  * Research Intern of Ascend All-Wisdom Project
+  * Algorithm Engineer Intern of Ascend All-Wisdom Project
   * Deep Learning Model Inference and Configuration
 
 Selected Awards
