@@ -16,7 +16,7 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 ----------
 - Time-series Data Mining
 - Natural Language Processing
-- Big Data and Artificial Intelligence for Medicine
+- Data Science and AI for Healthcare
 
 <span style="color:#6b5d40">Experience</span>
 --------
