@@ -14,17 +14,25 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 
 <span style="color:#6b5d40">Research Interest</span>
 ----------
-- Healthcare Informatics
+<!-- - Healthcare Informatics -->
 - Time-series Data Mining
 - Natural Language Processing
-- Data Science and AI for Medicine
+- Data Science and AI for Healthcare
+<!-- - Data Science and AI for Medicine -->
 
-<span style="color:#6b5d40">Experience</span>
+<!-- <span style="color:#6b5d40">Experience</span>
 --------
 - Research Intern, OpenMMLab, Shanghai AI Laboratory, June 2023-Sept. 2023.
 - Algorithm Engineer Intern, Everest Intelligent Laboratory, Ximalaya, Feb. 2023-May 2023.
 - Exchange Student, Harvard University, Jan. 2022-Feb. 2022.
-- Algorithm Engineer Intern, HUAWEI Technologies, Oct. 2021-Jan. 2022.
+- Algorithm Engineer Intern, HUAWEI Technologies, Oct. 2021-Jan. 2022. -->
+
+<span style="color:#6b5d40">Experience</span>
+--------
+- Research Intern, OpenMMLab, Shanghai AI Laboratory, 2023.
+- Algorithm Engineer Intern, Everest Intelligent Laboratory, Ximalaya, 2023.
+- Exchange Student, Harvard University, 2022.
+- Algorithm Engineer Intern, HUAWEI Technologies, 2021.
 
 <span style="color:#6b5d40">Selected Awards</span>
 --------
