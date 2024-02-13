@@ -1,6 +1,6 @@
 ---
 title: "WHAT IS LIFE"
-excerpt: ""
+# excerpt: ""
 collection: portfolio
 ---
 Life is everything what you really like!
