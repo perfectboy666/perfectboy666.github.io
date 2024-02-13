@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+# title: "About me"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
 Hi~ I am currently a master student at **<font color="#8B0012">Peking University</font>**, and I received my Bachelor’s degree of Computer Science in June 2023. I also had the honor to visit and exchange at Harvard University and learned the knowledge of big data and machine learning, which benefited me a lot.</span><br/>
 
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Besides, I am happy to make new friends, you may contact me.</span>
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Besides, I am happy to make new friends, you may contact me at tyshipku@gmail.com.</span>
 
 <span style="color:#6b5d40">Research Interest</span>
 ----------
@@ -30,21 +30,21 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 <span style="color:#6b5d40">Experience</span>
 --------
 - Research Intern, OpenMMLab, Shanghai AI Laboratory, 2023.
-- Algorithm Engineer Intern, Everest Intelligent Laboratory, Ximalaya, 2023.
+- Algorithm Intern, Everest Intelligent Laboratory, XIMALAYA, 2023.
 - Exchange Student, Harvard University, 2022.
-- Algorithm Engineer Intern, HUAWEI Technologies, 2021.
+- Engineer Intern, HUAWEI Technologies, 2021.
 
 <span style="color:#6b5d40">Selected Awards</span>
 --------
 - National Scholarship (Top 0.2% national-wide), 2021.
 - Merit Student of Jiangsu Province (Top &lt;1%), 2022.
 - Advanced Individual of Summer Social Practice of Jiangsu Province (Top &lt;1%), 2021.
-- Second Prize (Top &lt;1%)  in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.
+- Second Prize (Top &lt;1%) in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.
 - HUAWEI Scholarship (Top 1%), 2022.
 
-<span style="color:#6b5d40">Contact</span>
+<!-- <span style="color:#6b5d40">Contact</span>
 --------
-- Email Address: tyshipku@gmail.com
+- Email Address: tyshipku@gmail.com -->
 
 <!-- <span style="text-align:justify; text-justify:inter-ideograph;color:#6b5d40">News</span>
 ----------
