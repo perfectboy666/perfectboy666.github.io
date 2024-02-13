@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
-Hi~ I am currently a master student at **<font color="#8B0012">Peking University</font>**, and I received my Bachelor’s degree of Computer Science in June 2023. I’m also a contributor to Zhihu, and I usually pay attention to some cutting-edge technologies and share knowledge on my web page. Besides, I am happy to make new friends, you may contact me at tyshipku@gmail.com.</span>
+Hi~ I am currently a master student at **<font color="#8B0012">Peking University</font>**, and I received my Bachelor’s degree of Computer Science in June 2023. My research interests mainly focus on Healthcare Informatics, Time Series Data Mining, Natural Language Processing and AI for Medicine now. I pay attention to some cutting-edge technologies and share knowledge. Besides, I am happy to make new friends, you may contact me.</span>
 
 <!-- I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI).  -->
 
-<span style="color:#6b5d40">Research Interest</span>
+<!-- <span style="color:#6b5d40">Research Interest</span>
 ----------
-- Healthcare Informatics
+- 
 - Time Series Data Mining
 - Natural Language Processing
-- Data Science and AI for Medicine
+- Data Science and AI for Medicine -->
 
 <!-- <span style="color:#6b5d40">Experience</span>
 --------
@@ -41,9 +41,9 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 - Second Prize (Top &lt;1%) in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.
 - HUAWEI Scholarship (Top 1%), 2022.
 
-<!-- <span style="color:#6b5d40">Contact</span>
+<span style="color:#6b5d40">Contact</span>
 --------
-- Email Address: tyshipku@gmail.com -->
+- Email Address: tyshipku@gmail.com
 
 <!-- <span style="text-align:justify; text-justify:inter-ideograph;color:#6b5d40">News</span>
 ----------
