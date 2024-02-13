@@ -36,13 +36,13 @@ Hi~ I am currently a master student at **<font color="#8B0012">Peking University
 
 <span style="color:#6b5d40">Contact</span>
 --------
-- Email Address: shitongyue@me.com
+- Email Address: tyshipku@gmail.com
 
-<span style="text-align:justify; text-justify:inter-ideograph;color:#6b5d40">News</span>
+<!-- <span style="text-align:justify; text-justify:inter-ideograph;color:#6b5d40">News</span>
 ----------
 - [09/2023] Two conference papers were accepted by MCBK 2023. 🎉🎉
 - [06/2023] I will join [OpenMMLab](https://openmmlab.com/) at [Shanghai AI Lab](https://www.shlab.org.cn/) as a intern working with [Dr. Wenwei Zhang](http://zhangwenwei.cn/) & [Chengqi Lyu](https://scholar.google.com/citations?user=kV3WvXcAAAAJ&hl=zh-CN&oi=ao). This is our LLM [InternLM](https://internlm.intern-ai.org.cn/). ✊
 - [05/2023] One conference paper was accepted by HDSS 2023. 🎉
 - [02/2023] I will join Everest Intelligence Lab at [Ximalaya Inc.](https://www.ximalaya.com/) as an algorithm intern, mainly engaged in multi-round dialogue and large language model related work. 😋
 - [01/2022] I’m very happy to participate in the exchange program at [Harvard University](https://www.harvard.edu/). Through the communication, my basic knowledge of artificial intelligence and level of English have been greatly improved. 🎉
-- [12/2021] As a contributor, I participated in the [HUAWEI Ascend](https://www.hiascend.com/zh/) All-Wisdom Project, and completed the inferring work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded. 💪
+- [12/2021] As a contributor, I participated in the [HUAWEI Ascend](https://www.hiascend.com/zh/) All-Wisdom Project, and completed the inferring work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded. 💪 -->
