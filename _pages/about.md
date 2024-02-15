@@ -26,14 +26,14 @@ Hi~ I am currently a master student at Peking University, and I received my Bach
 - Exchange Student, Harvard University, Jan. 2022-Feb. 2022.
 - Algorithm Engineer Intern, HUAWEI Technologies, Oct. 2021-Jan. 2022. -->
 
-<span style="color:#8B0012">Experience</span>
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#8B0012">Experience</span>
 --------
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Research Intern, OpenMMLab, Shanghai AI Laboratory, 2023.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Algorithm Intern, Everest Intelligent Laboratory, XIMALAYA, 2023.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Visit Student, Harvard University, 2022.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Engineer Intern, HUAWEI Technologies, 2021.</span>
 
-<span style="color:#8B0012">Selected Awards</span>
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#8B0012">Selected Awards</span>
 --------
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">National Scholarship (Top 0.2% national-wide), 2021.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student of Jiangsu Province (Top &lt;1%), 2022.</span>
@@ -41,7 +41,7 @@ Hi~ I am currently a master student at Peking University, and I received my Bach
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Second Prize (Top &lt;1%) in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">HUAWEI Scholarship (Top 1%), 2022.
 
-<span style="color:#8B0012">Contact</span>
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#8B0012">Contact</span>
 --------
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: tyshipku@gmail.com</span>
 
