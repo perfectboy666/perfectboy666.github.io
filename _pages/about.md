@@ -28,22 +28,28 @@ Hi~ I am currently a master student at Peking University, and I received my Bach
 
 <span style="color:#8B0012">Experience</span>
 --------
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
 - Research Intern, OpenMMLab, Shanghai AI Laboratory, 2023.
 - Algorithm Intern, Everest Intelligent Laboratory, XIMALAYA, 2023.
 - Visit Student, Harvard University, 2022.
 - Engineer Intern, HUAWEI Technologies, 2021.
+</span>
 
 <span style="color:#8B0012">Selected Awards</span>
 --------
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
 - National Scholarship (Top 0.2% national-wide), 2021.
 - Merit Student of Jiangsu Province (Top &lt;1%), 2022.
 - Advanced Individual of Summer Social Practice of Jiangsu Province (Top &lt;1%), 2021.
 - Second Prize (Top &lt;1%) in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.
 - HUAWEI Scholarship (Top 1%), 2022.
+</span>
 
 <span style="color:#8B0012">Contact</span>
 --------
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
 - Email Address: tyshipku@gmail.com
+</span>
 
 <!-- <span style="text-align:justify; text-justify:inter-ideograph;color:#6b5d40">News</span>
 ----------
