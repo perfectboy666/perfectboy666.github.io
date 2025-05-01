@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
-Hi~ I am currently a master's student at Peking University, and I received my Bachelor’s degree in Computer Science in June 2023. My research interests mainly focus on Healthcare Informatics, Data Mining and AI for Medicine now. I pay attention to some cutting-edge technologies and share knowledge. Besides, I am happy to make new friends, you may contact me.</span>
+Hi~ I am currently a Master of Science student at Peking University, and I received my Bachelor’s degree in Computer Science and Technology in June 2023. My research interests mainly focus on AI and Data Science for Medicine now. I pay attention to some cutting-edge technologies and share knowledge. Besides, I am happy to make new friends, you may contact me.</span>
 
 <!-- I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). **<font color="#8B0012">Peking University</font>** -->
 
@@ -28,10 +28,10 @@ Hi~ I am currently a master's student at Peking University, and I received my Ba
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Experience</span>
 --------
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Algorithm Intern, AI Industry Division, Baidu Inc..</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Algorithm Intern, AI Industry Division, Baidu Inc.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Research Intern, OpenMMLab, Shanghai AI Laboratory.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Algorithm Intern, Everest Intelligent Laboratory, Ximalaya Inc.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Visit Student, Harvard University, 2022.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Visit Student, Harvard University.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Engineer Intern, HUAWEI Technologies.</span>
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Selected Awards</span>
