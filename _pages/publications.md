@@ -1,8 +1,8 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+# layout: archive
+# title: "Publications"
+# permalink: /publications/
+# author_profile: true
 ---
 
 <span style="color:#6b5d40">Publications</span>
@@ -23,7 +23,6 @@ author_profile: true
 
 4. **<span style="color:#0b5394">[AMIA'24]</span> Association of Intergenerational Structures with 3D Health Trajectories in Chinese Middle-Aged and Old People Based on Multivariate Time Series <span style="color:#0b5394">(Under Review)</span>**
     Jun Ma, **Tongyue Shi**\# and Guilan Kong\*.
-    In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023, Americans and Europe.
 
 5. **<span style="color:#0b5394">[AMIA'24]</span> Inter-Relationship Between Pain and Depressive Symptoms in Chinese Middle-Aged and Old People: A Network Analysis <span style="color:#0b5394">(Under Review)</span>**
     Jun Ma, **Tongyue Shi**\#, Jiayu Wang and Guilan Kong\*.
