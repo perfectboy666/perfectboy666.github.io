@@ -6,8 +6,6 @@
 # redirect_from:
 #   - /resume
 ---
-<img src='/images/sty_nihds.png'>
-
 {% include base_path %}
 
 Education
