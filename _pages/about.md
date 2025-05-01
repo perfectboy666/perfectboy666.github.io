@@ -35,6 +35,13 @@ Hi~ I am currently a Master of Science student at Peking University, and I recei
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Algorithm Intern, AI Industry Division, Baidu Inc.</span>
 
 
+
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Service</span>
+--------
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Program Committee Member: ICIC 2025.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Reviewer: npj Digital Medicine (IF: 12.4), IEEE SMC 2024, ICIC 2025, etc.</span>
+
+
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Selected Awards</span>
 --------
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">National Scholarship (Top 0.2% national-wide), 2024.</span>
