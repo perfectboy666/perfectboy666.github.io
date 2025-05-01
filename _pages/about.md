@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
-Hi~ I am currently a Master of Science student at Peking University, and I received my Bachelor’s degree in Computer Science and Technology from Soochow University in June 2023. My research interests mainly focus on AI and Data Science for Medicine now. I pay attention to some cutting-edge technologies and share knowledge. Besides, I am happy to make new friends, you may contact me.</span>
+Hi~ I am currently a Master of Science student at Peking University, and I received my Bachelor’s degree in Computer Science and Technology in June 2023. My research interests mainly focus on AI and Data Science for Medicine now. I pay attention to some cutting-edge technologies and share knowledge. Besides, I am happy to make new friends, you may contact me.</span>
 
 <!-- I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). **<font color="#8B0012">Peking University</font>** -->
 
@@ -45,9 +45,9 @@ Hi~ I am currently a Master of Science student at Peking University, and I recei
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Second Prize (Top &lt;1%) in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">HUAWEI Scholarship (Top 1%), 2022.
 
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
+<!-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
 --------
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: tyshipku@gmail.com</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: tyshipku@gmail.com</span> -->
 
 <!-- <span style="text-align:justify; text-justify:inter-ideograph;color:#6b5d40">News</span>
 ----------
