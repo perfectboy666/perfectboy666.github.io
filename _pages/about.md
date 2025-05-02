@@ -52,9 +52,9 @@ Hi~ I am currently a Master of Science student at Peking University, and I recei
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Second Prize (Top &lt;1%) in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">HUAWEI Scholarship (Top 1%), 2022.
 
-<!-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
 --------
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: tyshipku@gmail.com</span> -->
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: tongyue.shi@outlook.com</span>
 
 <!-- <span style="text-align:justify; text-justify:inter-ideograph;color:#6b5d40">News</span>
 ----------
