@@ -7,17 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">
-Hi~ I am currently a Master of Science student at Peking University, advised by Prof. Guilan Kong. I received my Bachelor’s degree in Computer Science and Technology in June 2023. My research interests focus on AI for Medicine, particularly predictive modeling in critical care, interpretable medical AI, and LLM-based agents for clinical decision support. I’m passionate about developing human-centered, clinically applicable AI systems, and actively engage in interdisciplinary collaborations across medicine and data science. I also enjoy exploring cutting-edge technologies, sharing knowledge, and making new friends — feel free to contact me!</span> -->
-
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; text-align:justify; text-justify:inter-ideograph;">
 Hi~ I am currently a Master of Science student at 
 <a href="https://english.pku.edu.cn/" target="_blank" style="color:inherit; text-decoration:underline;">Peking University</a>, advised by 
 <a href="https://www.ai.pku.edu.cn/en/info/1417/1897.htm" target="_blank" style="color:inherit; text-decoration:underline;">Prof. Guilan Kong</a>. I received my Bachelor’s degree in Computer Science and Technology in June 2023. My research interests focus on AI for Medicine, particularly predictive modeling in critical care, interpretable medical AI, and LLM-based agents for clinical decision support. I’m passionate about developing patient-centered, clinically applicable and explainable AI systems, and actively engage in interdisciplinary collaborations across medicine and data science. I also enjoy exploring cutting-edge technologies, sharing knowledge, and making new friends — feel free to contact me.
 </span>
 
-
-<!-- I’m now a member of the **Chinese Association of Automation** (CAA), a student member of the **China Computer Federation** (CCF), and the **Chinese Association for Artificial Intelligence** (CAAI). **<font color="#8B0012">Peking University</font>** -->
 
 <!-- <span style="color:#6b5d40">Research Interest</span>
 ----------
@@ -28,10 +23,10 @@ Hi~ I am currently a Master of Science student at
 
 <!-- <span style="color:#6b5d40">Experience</span>
 --------
-- Research Intern, OpenMMLab, Shanghai AI Laboratory, June 2023-Sept. 2023.
-- Algorithm Engineer Intern, Everest Intelligent Laboratory, Ximalaya, Feb. 2023-May 2023.
-- Exchange Student, Harvard University, Jan. 2022-Feb. 2022.
-- Algorithm Engineer Intern, HUAWEI Technologies, Oct. 2021-Jan. 2022. -->
+- Research Intern, OpenMMLab, Shanghai AI Laboratory, 2023.
+- Algorithm Engineer Intern, Everest Intelligent Laboratory, Ximalaya, 2023.
+- Exchange Student, Harvard University, 2022.
+- Algorithm Engineer Intern, HUAWEI Technologies, 2021-2022. -->
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Experience</span>
 --------
@@ -49,9 +44,8 @@ Hi~ I am currently a Master of Science student at
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">National Scholarship (Top 0.2% national-wide), 2021.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student of Jiangsu Province (Top &lt;1%), 2022.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Advanced Individual of Summer Social Practice of Jiangsu Province (Top &lt;1%), 2021.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">HUAWEI Scholarship (Top 1%), 2022.
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">HUAWEI Scholarship (Top &lt;1%), 2022.
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Second Prize (Top &lt;1%) in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.</span>
-
 
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Academic Services</span>
@@ -63,12 +57,3 @@ Hi~ I am currently a Master of Science student at
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
 --------
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: tongyue.shi@outlook.com</span>
-
-<!-- <span style="text-align:justify; text-justify:inter-ideograph;color:#6b5d40">News</span>
-----------
-- [09/2023] Two conference papers were accepted by MCBK 2023. 🎉🎉
-- [06/2023] I will join [OpenMMLab](https://openmmlab.com/) at [Shanghai AI Lab](https://www.shlab.org.cn/) as a intern working with [Dr. Wenwei Zhang](http://zhangwenwei.cn/) & [Chengqi Lyu](https://scholar.google.com/citations?user=kV3WvXcAAAAJ&hl=zh-CN&oi=ao). This is our LLM [InternLM](https://internlm.intern-ai.org.cn/). ✊
-- [05/2023] One conference paper was accepted by HDSS 2023. 🎉
-- [02/2023] I will join Everest Intelligence Lab at [Ximalaya Inc.](https://www.ximalaya.com/) as an algorithm intern, mainly engaged in multi-round dialogue and large language model related work. 😋
-- [01/2022] I’m very happy to participate in the exchange program at [Harvard University](https://www.harvard.edu/). Through the communication, my basic knowledge of artificial intelligence and level of English have been greatly improved. 🎉
-- [12/2021] As a contributor, I participated in the [HUAWEI Ascend](https://www.hiascend.com/zh/) All-Wisdom Project, and completed the inferring work of the Cascade-RCNN-Resnet101-FPN-DCN model, which was successfully concluded. 💪 -->
