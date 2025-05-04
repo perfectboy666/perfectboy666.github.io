@@ -8,6 +8,14 @@
 ---
 {% include base_path %}
 
+
+1. **<span style="color:#0b5394">[JAMIA Open]</span> AI models for predicting acute kidney injury in the ICU: a systematic review of modeling methods, data utilization, and clinical applicability <span style="color:#0b5394">(JCR Q2)</span>**   
+    **Shi T**, Lin Y Zhao H, et al.
+    In: JAMIA Open, 2025.
+2. **<span style="color:#0b5394">[BMC Medical Informatics and Decision Making]</span> A subgrouping model for early risk stratification of trauma surgical intensive care unit patients based on real-world vital sign time series data <span style="color:#0b5394">(JCR Q2)</span>**   
+    **Shi T**, Liu W, Zhao H, et al. 
+    In: BMC Medical Informatics and Decision Making, 2025.
+    
 Education
 ======
 * 2023-2026(est.), Master of Science, **Peking University**, Beijing, China.
