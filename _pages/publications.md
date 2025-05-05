@@ -43,7 +43,7 @@ author_profile: true
     Xu H, Liu W, **Shi T**, et al.
     In: American Medical Informatics Association 2024 Annual Symposium. AMIA 2024.
 
-7. **<span style="color:#0b5394">[SESC'24]</span> Multivariate Time Series-based Subtype Analysis of ICU-Acquired Acute Kidney Injury<span style="color:#0b5394">(Oral)</span>**   
+7. **<span style="color:#0b5394">[SESC'24]</span> Multivariate Time Series-based Subtype Analysis of ICU-Acquired Acute Kidney Injury <span style="color:#0b5394">(Oral)</span>**   
     **Shi T**, Ma J, and Kong G.
     In: 23th Chinese Congress of Systems Science and Systems Engineering. SESC 2024.
 
