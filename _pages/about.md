@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; text-align:justify; text-justify:inter-ideograph;">
-Hi~ I am currently a Master of Science student at 
+Hi~ I am currently a M.Sc. student at 
 <a href="https://english.pku.edu.cn/" target="_blank" style="color:inherit; text-decoration:underline;">Peking University</a>, advised by 
-<a href="https://www.ai.pku.edu.cn/en/info/1417/1897.htm" target="_blank" style="color:inherit; text-decoration:underline;">Prof. Guilan Kong</a>. I received my Bachelor’s degree in Computer Science and Technology in June 2023. My research interests focus on AI for Medicine, particularly predictive modeling in critical care, interpretable medical AI, and LLM-based agents for clinical decision support. I’m passionate about developing patient-centered, clinically applicable and explainable AI systems, and actively engage in interdisciplinary collaborations across medicine and data science. I also enjoy exploring cutting-edge technologies, sharing knowledge, and making new friends — feel free to contact me.
+<a href="https://www.ai.pku.edu.cn/en/info/1417/1897.htm" target="_blank" style="color:inherit; text-decoration:underline;">Prof. Guilan Kong</a>. I received my Bachelor’s degree in Computer Science and Technology in June 2023. My research interests focus on AI for Medicine, particularly interpretable medical AI, and LLM-based agents for clinical decision support. I’m passionate about developing patient-centered, clinically applicable and explainable AI systems, and actively engage in interdisciplinary collaborations across medicine and data science. I also enjoy exploring cutting-edge technologies, sharing knowledge, and making new friends — feel free to contact me.
 </span>
 
 
@@ -51,7 +51,7 @@ Hi~ I am currently a Master of Science student at
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Academic Services</span>
 --------
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Program Committee Member: ICIC 2025.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Reviewer: npj Digital Medicine (IF: 12.4), etc.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Reviewer: npj Digital Medicine (IF: 12.4), ACL 2025, etc.</span>
 
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
