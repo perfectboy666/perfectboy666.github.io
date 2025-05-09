@@ -39,13 +39,12 @@ Hi~ I am currently a M.Sc. student at
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Selected Awards</span>
 --------
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">National Scholarship (Top 0.2% national-wide), 2024.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student Pacesetter of Peking University (Top &lt;1%), 2024.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">National Scholarship (Top 0.2% national-wide), 2021.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student of Jiangsu Province (Top &lt;1%), 2022.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Advanced Individual of Summer Social Practice of Jiangsu Province (Top &lt;1%), 2021.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">HUAWEI Scholarship (Top &lt;1%), 2022.
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Second Prize (Top &lt;1%) in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">National Scholarship, 2021, 2024.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student Pacesetter of Peking University, 2024.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student of Jiangsu Province, 2022.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">HUAWEI Scholarship, 2022.
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Advanced Individual of Summer Social Practice of Jiangsu Province, 2021.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Second Prize in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.</span>
 
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Academic Services</span>
