@@ -87,14 +87,14 @@ analytics:
 # Site Author
 author:
   name             : "Tongyue Shi"
-  avatar           : "mee3.png"
+  avatar           : "mee2.jpg"
   bio              : "MSc student at PKU"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=W91nE1gAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/"
   email            : "tyshipku@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # https://stackoverflow.com/users/123456/username
