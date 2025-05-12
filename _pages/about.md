@@ -14,12 +14,11 @@ Hi~ I am currently a M.Sc. student at
 </span>
 
 
-<!-- <span style="color:#6b5d40">Research Interest</span>
+<span style="color:#6b5d40">Research Interests</span>
 ----------
-- 
 - Time Series Data Mining
-- Natural Language Processing
-- Data Science and AI for Medicine -->
+- Interpretable AI for Medicine
+- LLM-Driven Multi-Agent Systems
 
 <!-- <span style="color:#6b5d40">Experience</span>
 --------
