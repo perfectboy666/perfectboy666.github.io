@@ -17,7 +17,7 @@ author_profile: true
     **Shi T**, Guo L, Shen Z, et al.
     In: Health Data Science, 2024.
 
-2. **<span style="color:#0b5394">[Information & Computer]</span> Overview of Transformer-based Pre-trained Language Models for Natural Language Processing <span style="color:#0b5394">(Chinese Journal)</span>**
+3. **<span style="color:#0b5394">[Information & Computer]</span> Overview of Transformer-based Pre-trained Language Models for Natural Language Processing <span style="color:#0b5394">(Chinese Journal)</span>**   
     **Shi T**, and Wang Z.
     In: Information & Computer, 2022.
 
