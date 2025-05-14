@@ -1,12 +1,19 @@
 ---
 layout: archive
-title: "Publications"
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 <span style="color:#6b5d40">Publications</span>
 --------
+
+**Preprints**
+
+1. **<span style="color:#0b5394">[ArXiv'24]</span> Stochastic Parrots or ICU Experts? Large Language Models in Critical Care Medicine: A Scoping Review <span style="color:#0b5394">(Under Review)</span>**   
+    **Shi T**, Ma J, Yu Z, et al.
+    In: arXiv preprint arXiv:2407.19256.
+
 
 **Journal**
 
@@ -63,11 +70,6 @@ author_profile: true
     **Shi T**, Zhang Z, Fang J, et al.
     In: the Beijing Health Data Science Summit 2023 (HDSS 2023),  June 16-18, 2023.
 
-**Preprints**
-
-1. **<span style="color:#0b5394">[ArXiv'24]</span> Stochastic Parrots or ICU Experts? Large Language Models in Critical Care Medicine: A Scoping Review <span style="color:#0b5394">(Under Review)</span>**   
-    **Shi T**, Ma J, Yu Z, et al.
-    In: arXiv preprint arXiv:2407.19256.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
