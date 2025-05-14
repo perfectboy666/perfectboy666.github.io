@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -16,6 +16,10 @@ author_profile: true
 2. **<span style="color:#0b5394">[Health Data Science]</span> ERTool: A Python Package for Efficient Implementation of the Evidential Reasoning Approach for Multi-Source Evidence Fusion <span style="color:#0b5394">(Science Partner Journal)</span>**   
     **Shi T**, Guo L, Shen Z, et al.
     In: Health Data Science, 2024.
+
+2. **<span style="color:#0b5394">[Information & Computer]</span> Overview of Transformer-based Pre-trained Language Models for Natural Language Processing <span style="color:#0b5394">(Chinese Journal)</span>**
+    **Shi T**, and Wang Z.
+    In: Information & Computer, 2022.
 
 **Conference**
 
@@ -73,4 +77,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} --> -->
+{% endfor %} -->
