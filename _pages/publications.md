@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -15,7 +15,7 @@ author_profile: true
     In: arXiv preprint arXiv:2407.19256.
 
 
-**Journal**
+**Journal Papers**
 
 1. **<span style="color:#0b5394">[Kidney Medicine]</span> Acute Kidney Injury Prognosis Prediction Using Machine Learning Methods: A Systematic Review <span style="color:#0b5394">(JCR Q1)</span>**   
     Lin Y, **Shi T**, and Kong G.
@@ -28,7 +28,7 @@ author_profile: true
     **Shi T**, and Wang Z.
     In: Information & Computer, 2022.
 
-**Conference**
+**Conference Papers**
 
 1. **<span style="color:#0b5394">[ICIC'25]</span> Inter-Relationship Between Pain and Depressive Symptoms in Chinese Middle-Aged and Old People: A Network Analysis <span style="color:#0b5394">(Oral)</span>**   
     **Shi T**, Ma J, and Kong G.
