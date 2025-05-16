@@ -9,9 +9,9 @@ redirect_from:
     
 Education
 ======
-* 2026-present, PhD, Clinical Medicine, Peking University, Beijing, China.
-* 2023-2026, Master of Science, Health Data Science, Peking University, Beijing, China.
-* 2022, Excange Student, Artificial Intelligence and Machine Learning, Harvard University, Cambridge, USA.
+* 2026-incoming, PhD, Clinical Medicine, Peking University, Beijing, China.
+* 2023-2026, M.Sc., Health Data Science, Peking University, Beijing, China.
+* 2022, Excange Student, AI and Machine Learning, Harvard University, Cambridge, USA.
 * 2019-2023, B.Eng., Computer Science and Technology, Soochow University, Suzhou, China.
 
 Experience
