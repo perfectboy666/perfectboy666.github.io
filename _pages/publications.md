@@ -32,7 +32,7 @@ author_profile: true
 
 1. **Association of Intergenerational Structures with 3D Health Trajectories in Chinese Middle-Aged and Older People: Multivariate Time Series Clustering Analysis**   
     **Shi T**, Ma J, and Kong G.
-    In: 5th WPA World Congress of Psychiatry. WCP 2025. 
+    In: 25th WPA World Congress of Psychiatry. WCP 2025. 
     
 2. **Inter-Relationship Between Pain and Depressive Symptoms in Chinese Middle-Aged and Old People: A Network Analysis**   
     **Shi T**, Ma J, and Kong G.
