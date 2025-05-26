@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -30,44 +30,48 @@ author_profile: true
 
 **Conference Papers**
 
-1. **Inter-Relationship Between Pain and Depressive Symptoms in Chinese Middle-Aged and Old People: A Network Analysis**   
+1. **Association of Intergenerational Structures with 3D Health Trajectories in Chinese Middle-Aged and Older People: Multivariate Time Series Clustering Analysis**   
+    **Shi T**, Ma J, and Kong G.
+    In: 5th WPA World Congress of Psychiatry. WCP 2025. 
+    
+2. **Inter-Relationship Between Pain and Depressive Symptoms in Chinese Middle-Aged and Old People: A Network Analysis**   
     **Shi T**, Ma J, and Kong G.
     In: 21st International Conference on Intelligent Computing. ICIC 2025.
 
-2. **ICU-TGNN: A Hybrid Multitask Transformer and Graph Neural Network Model for Predicting Clinical Outcomes of Patients in the ICU**   
+3. **ICU-TGNN: A Hybrid Multitask Transformer and Graph Neural Network Model for Predicting Clinical Outcomes of Patients in the ICU**   
     **Shi T**, Xu H, Ma J, et al.
     In: 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2024.
 
-3. **Identifying Subphenotypes for Sepsis-Associated Acute Kidney Injury via Multimodal Graph State Space Models**   
+4. **Identifying Subphenotypes for Sepsis-Associated Acute Kidney Injury via Multimodal Graph State Space Models**   
     Xu H, **Shi T**, Liu W, et al.
     In: 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop Artificial Intelligence and Data Science for Healthcare. KDD 2024.
 
-4. **Reinforcement Learning-based Decision-making for Renal Replacement Therapy in ICU-acquired AKI Patients**   
+5. **Reinforcement Learning-based Decision-making for Renal Replacement Therapy in ICU-acquired AKI Patients**   
     Zhang H, Xiong M, **Shi T**, et al.
     In: 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop Artificial Intelligence and Data Science for Healthcare. KDD 2024.
 
-5. **Identifying acute kidney injury subtypes based on serum electrolyte data in ICU via K-medoids clustering**   
+6. **Identifying acute kidney injury subtypes based on serum electrolyte data in ICU via K-medoids clustering**   
     Liu W, **Shi T**, Xu H, et al.
     In: American Medical Informatics Association 2024 Annual Symposium. AMIA 2024.
 
-6. **Neural Granger Causal Discovery for Acute Kidney Injury-Associated Derangements**   
+7. **Neural Granger Causal Discovery for Acute Kidney Injury-Associated Derangements**   
     Xu H, Liu W, **Shi T**, et al.
     In: American Medical Informatics Association 2024 Annual Symposium. AMIA 2024.
 
-7. **Multivariate Time Series-based Subtype Analysis of ICU-Acquired Acute Kidney Injury**   
+8. **Multivariate Time Series-based Subtype Analysis of ICU-Acquired Acute Kidney Injury**   
     **Shi T**, Ma J, and Kong G.
     In: 23th Chinese Congress of Systems Science and Systems Engineering. SESC 2024.
 
-8. **ICU Mortality Prediction Based on Patient Subgroups Identified Using Multivariate Time-Series Clustering**   
+9. **ICU Mortality Prediction Based on Patient Subgroups Identified Using Multivariate Time-Series Clustering**   
     **Shi T**, Liu W, Hao J, et al.
     In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023.
 
-9.  **Machine Learning-based In-hospital Mortality Prediction for ICU Patients based on Clinical Data in the First 3 Hours of Sepsis**   
+10. **Machine Learning-based In-hospital Mortality Prediction for ICU Patients based on Clinical Data in the First 3 Hours of Sepsis**   
     Liu W, **Shi T**, Hao J, et al.
     In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023.
 
-10. **Identifying Subgroups of ICU Patients Using End-to-End Multivariate Time-Series Clustering Algorithm Based on Real-World Vital Signs Data**   
+11. **Identifying Subgroups of ICU Patients Using End-to-End Multivariate Time-Series Clustering Algorithm Based on Real-World Vital Signs Data**   
     **Shi T**, Zhang Z, Fang J, et al.
     In: the Beijing Health Data Science Summit 2023 (HDSS 2023),  June 16-18, 2023.
 
--->
+
