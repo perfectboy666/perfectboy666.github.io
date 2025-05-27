@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<span style="color:#6b5d40">Publications</span>
---------
 
 **Preprints**
 
@@ -40,7 +38,7 @@ author_profile: true
 
 3. **ICU-TGNN: A Hybrid Multitask Transformer and Graph Neural Network Model for Predicting Clinical Outcomes of Patients in the ICU**   
     **Shi T**, Xu H, Ma J, et al.
-    In: 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2024.
+    In: 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE SMC 2024.
 
 4. **Identifying Subphenotypes for Sepsis-Associated Acute Kidney Injury via Multimodal Graph State Space Models**   
     Xu H, **Shi T**, Liu W, et al.
