@@ -14,18 +14,12 @@ Hi~ I am currently a M.Sc. student at
 </span>
 
 
-<span style="color:#6b5d40">Research Interests</span>
-----------
-- Interpretable AI for Medicine
-- LLM-Driven Multi-Agent Systems
-- EHR-based Time Series Data Mining
-
-<!-- <span style="color:#6b5d40">Experience</span>
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Research Interests</span>
 --------
-- Research Intern, OpenMMLab, Shanghai AI Laboratory, 2023.
-- Algorithm Engineer Intern, Everest Intelligent Laboratory, Ximalaya, 2023.
-- Exchange Student, Harvard University, 2022.
-- Algorithm Engineer Intern, HUAWEI Technologies, 2021-2022. -->
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Interpretable AI for Medicine</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">LLM-Driven Multi-Agent Systems</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">EHR-based Time Series Data Mining</span>
+
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Experience</span>
 --------
