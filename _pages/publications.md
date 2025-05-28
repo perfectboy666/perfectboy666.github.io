@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -15,14 +15,19 @@ author_profile: true
 
 **Journal Papers**
 
-1. **Acute Kidney Injury Prognosis Prediction Using Machine Learning Methods: A Systematic Review**   
+1. **AI Models for Predicting Acute Kidney Injury in the ICU: A Systematic Review of Modeling Methods, Data Utilization, and Clinical Applicability**   
+    **Shi T**, Lin Y, Zhao H, et al.
+    In: JAMIA Open, 2025.
+
+2. **Acute Kidney Injury Prognosis Prediction Using Machine Learning Methods: A Systematic Review**   
     Lin Y, **Shi T**, and Kong G.
     In: Kidney Medicine, 2024.
-2. **ERTool: A Python Package for Efficient Implementation of the Evidential Reasoning Approach for Multi-Source Evidence Fusion**   
+
+3. **ERTool: A Python Package for Efficient Implementation of the Evidential Reasoning Approach for Multi-Source Evidence Fusion**   
     **Shi T**, Guo L, Shen Z, et al.
     In: Health Data Science, 2024.
 
-3. **Overview of Transformer-based Pre-trained Language Models for Natural Language Processing**   
+4. **Overview of Transformer-based Pre-trained Language Models for Natural Language Processing**   
     **Shi T**, and Wang Z.
     In: Information & Computer, 2022.
 
@@ -72,4 +77,4 @@ author_profile: true
     **Shi T**, Zhang Z, Fang J, et al.
     In: the Beijing Health Data Science Summit 2023 (HDSS 2023),  June 16-18, 2023.
 
- -->
+
