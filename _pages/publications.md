@@ -29,7 +29,7 @@ author_profile: true
 
 4. **Overview of Transformer-based Pre-trained Language Models for Natural Language Processing**   
     **Shi T**, and Wang Z.
-    In: Information & Computer, 2022.
+    In: Information and Computer, 2022.
 
 **Conference Papers**
 
@@ -43,7 +43,7 @@ author_profile: true
 
 3. **ICU-TGNN: A Hybrid Multitask Transformer and Graph Neural Network Model for Predicting Clinical Outcomes of Patients in the ICU**   
     **Shi T**, Xu H, Ma J, et al.
-    In: 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE SMC 2024.
+    In: 2024 IEEE International Conference on Systems, Man, and Cybernetics. IEEE SMC 2024.
 
 4. **Identifying Subphenotypes for Sepsis-Associated Acute Kidney Injury via Multimodal Graph State Space Models**   
     Xu H, **Shi T**, Liu W, et al.
@@ -67,14 +67,14 @@ author_profile: true
 
 9. **ICU Mortality Prediction Based on Patient Subgroups Identified Using Multivariate Time-Series Clustering**   
     **Shi T**, Liu W, Hao J, et al.
-    In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023.
+    In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023. MCBK 2023.
 
 10. **Machine Learning-based In-hospital Mortality Prediction for ICU Patients based on Clinical Data in the First 3 Hours of Sepsis**   
     Liu W, **Shi T**, Hao J, et al.
-    In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023 (MCBK 2023),  October 3-4, 2023.
+    In: the Global Mobilizing Computable Biomedical Knowledge Meeting 2023. MCBK 2023.
 
 11. **Identifying Subgroups of ICU Patients Using End-to-End Multivariate Time-Series Clustering Algorithm Based on Real-World Vital Signs Data**   
     **Shi T**, Zhang Z, Fang J, et al.
-    In: the Beijing Health Data Science Summit 2023 (HDSS 2023),  June 16-18, 2023.
+    In: the Beijing Health Data Science Summit 2023. HDSS 2023.
 
 
