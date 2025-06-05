@@ -1,0 +1,896 @@
+---
+layout: archive
+title: "医学天赋诊断书 - 高考生专属"
+permalink: /MTDB/
+author_profile: false
+---
+
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>医学天赋诊断书 - 高考生专属</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #e0f7fa 0%, #f8f9fa 100%);
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            padding: 30px 0;
+            background: linear-gradient(to right, #1a237e, #4a148c);
+            color: white;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        header::before {
+            content: "";
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 70%);
+            pointer-events: none;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        
+        .content {
+            display: flex;
+            gap: 30px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .questions-section {
+            flex: 3;
+            min-width: 300px;
+        }
+        
+        .stats-section {
+            flex: 1;
+            min-width: 280px;
+        }
+        
+        .question-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .question-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+        }
+        
+        .question-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            color: #1a237e;
+        }
+        
+        .question-number {
+            background: #1a237e;
+            color: white;
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-right: 15px;
+            flex-shrink: 0;
+        }
+        
+        .question-text {
+            font-size: 1.3rem;
+            font-weight: 600;
+        }
+        
+        .options {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 12px;
+        }
+        
+        @media (min-width: 768px) {
+            .options {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+        
+        .option {
+            background: #f8f9fa;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 15px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: flex-start;
+        }
+        
+        .option:hover {
+            background: #e3f2fd;
+            border-color: #90caf9;
+        }
+        
+        .option.selected {
+            background: #e3f2fd;
+            border-color: #1a237e;
+            box-shadow: 0 0 0 3px rgba(26, 35, 126, 0.2);
+        }
+        
+        .option-letter {
+            background: #1a237e;
+            color: white;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin-right: 12px;
+            flex-shrink: 0;
+        }
+        
+        .option-text {
+            font-size: 1rem;
+        }
+        
+        .stats-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            margin-bottom: 25px;
+            position: sticky;
+            top: 20px;
+        }
+        
+        .stats-header {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #1a237e;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        
+        .stats-header i {
+            font-size: 1.5rem;
+        }
+        
+        .stats-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        
+        .user-stats-container {
+            text-align: center;
+            padding: 20px 0;
+        }
+        
+        .user-stats-title {
+            font-size: 1.2rem;
+            color: #4a148c;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+        
+        .most-choice {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #1a237e;
+            margin: 15px 0;
+            height: 80px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .choice-count {
+            font-size: 1.1rem;
+            color: #666;
+            margin-top: 10px;
+        }
+        
+        .choice-explanation {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f0f4ff;
+            border-radius: 10px;
+            text-align: left;
+        }
+        
+        .choice-explanation h3 {
+            color: #1a237e;
+            margin-bottom: 10px;
+        }
+        
+        .result-section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            margin-top: 20px;
+        }
+        
+        .result-header {
+            text-align: center;
+            margin-bottom: 25px;
+            color: #1a237e;
+        }
+        
+        .result-title {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 10px;
+        }
+        
+        .result-container {
+            display: none;
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 25px;
+            margin-top: 20px;
+            border-left: 5px solid #1a237e;
+        }
+        
+        .result-type {
+            font-size: 1.8rem;
+            color: #1a237e;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+        
+        .result-field {
+            font-size: 1.3rem;
+            margin-bottom: 15px;
+            color: #4a148c;
+        }
+        
+        .result-description {
+            margin-bottom: 20px;
+            line-height: 1.8;
+        }
+        
+        .result-link {
+            font-style: italic;
+            color: #7b1fa2;
+            margin-top: 15px;
+            display: block;
+        }
+        
+        .submit-btn {
+            display: block;
+            width: 100%;
+            padding: 16px;
+            background: linear-gradient(to right, #1a237e, #4a148c);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1.2rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+            box-shadow: 0 5px 15px rgba(26, 35, 126, 0.3);
+        }
+        
+        .submit-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(26, 35, 126, 0.4);
+        }
+        
+        .submit-btn:active {
+            transform: translateY(1px);
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 30px 0;
+            color: #666;
+            font-size: 0.9rem;
+            margin-top: 30px;
+        }
+        
+        .highlight {
+            background: linear-gradient(transparent 60%, #ffeb3b 60%);
+            font-weight: 600;
+        }
+        
+        .pulse {
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                flex-direction: column;
+            }
+            
+            .stats-section {
+                order: 1; /* 在移动端将统计部分移到题目之后 */
+            }
+        }
+        
+        /* 新增统计结果部分样式 */
+        .stats-result-section {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            margin: 30px 0;
+            display: none; /* 默认隐藏，提交后显示 */
+        }
+        
+        .stats-result-header {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #1a237e;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        
+        .stats-result-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+        }
+        
+        .stats-result-content {
+            text-align: center;
+            padding: 20px;
+        }
+        
+        .result-choice {
+            font-size: 4rem;
+            font-weight: bold;
+            color: #1a237e;
+            margin: 20px 0;
+            height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #e0f7fa 0%, #f0f4ff 100%);
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        
+        .result-description {
+            font-size: 1.2rem;
+            margin-top: 20px;
+            line-height: 1.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-heartbeat"></i> 医学天赋诊断书</h1>
+            <p class="subtitle">高考生专属「医学天赋」诊断：测测你体内潜伏着哪种医学大咖基因？</p>
+        </header>
+        
+        <div class="content">
+            <div class="questions-section">
+                <!-- 问题1 -->
+                <div class="question-card">
+                    <div class="question-header">
+                        <div class="question-number">1</div>
+                        <div class="question-text">面对复杂问题时，你更倾向于：</div>
+                    </div>
+                    <div class="options">
+                        <div class="option" data-question="1" data-choice="A">
+                            <div class="option-letter">A</div>
+                            <div class="option-text">抽丝剥茧，找出最核心的"病因"(像侦探一样层层推理)</div>
+                        </div>
+                        <div class="option" data-question="1" data-choice="B">
+                            <div class="option-letter">B</div>
+                            <div class="option-text">动手实践，在"实验室"里验证想法(享受亲手创造/改变的过程)</div>
+                        </div>
+                        <div class="option" data-question="1" data-choice="C">
+                            <div class="option-letter">C</div>
+                            <div class="option-text">关注整体影响，思考如何"预防"问题发生(大局观强，未雨绸缪)</div>
+                        </div>
+                        <div class="option" data-question="1" data-choice="D">
+                            <div class="option-letter">D</div>
+                            <div class="option-text">设身处地，感受"患者"的需求并提供支持(共情能力满分，温暖细心)</div>
+                        </div>
+                        <div class="option" data-question="1" data-choice="E">
+                            <div class="option-letter">E</div>
+                            <div class="option-text">架起沟通桥梁，让不同"语言"的人理解彼此(语言/沟通达人，文化敏感度高)</div>
+                        </div>
+                        <div class="option" data-question="1" data-choice="F">
+                            <div class="option-letter">F</div>
+                            <div class="option-text">直接"冲锋陷阵"，在最前线解决问题(行动力强，临危不乱)</div>
+                        </div>
+                        <div class="option" data-question="1" data-choice="G">
+                            <div class="option-letter">G</div>
+                            <div class="option-text">追求细节完美，让"作品"既实用又美观(有工匠精神，审美在线)</div>
+                        </div>
+                        <div class="option" data-question="1" data-choice="H">
+                            <div class="option-letter">H</div>
+                            <div class="option-text">痴迷于"黑科技"，用先进工具洞察微观世界(技术控，对精密仪器着迷)</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 问题2 -->
+                <div class="question-card">
+                    <div class="question-header">
+                        <div class="question-number">2</div>
+                        <div class="question-text">你觉得自己最"强大"的学科超能力是？</div>
+                    </div>
+                    <div class="options">
+                        <div class="option" data-question="2" data-choice="A">
+                            <div class="option-letter">A</div>
+                            <div class="option-text">生物/化学-对生命的"源代码"充满好奇(细胞、分子、反应机制)</div>
+                        </div>
+                        <div class="option" data-question="2" data-choice="B">
+                            <div class="option-letter">B</div>
+                            <div class="option-text">化学/物理-擅长"合成"与"构建"新事物(物质变化、结构设计)</div>
+                        </div>
+                        <div class="option" data-question="2" data-choice="C">
+                            <div class="option-letter">C</div>
+                            <div class="option-text">数学/社会-擅长从"数据海洋"中发现规律(统计、逻辑、社会现象分析)</div>
+                        </div>
+                        <div class="option" data-question="2" data-choice="D">
+                            <div class="option-letter">D</div>
+                            <div class="option-text">语文/心理-善于倾听、理解并抚慰"人心"(人文关怀、沟通表达)</div>
+                        </div>
+                        <div class="option" data-question="2" data-choice="E">
+                            <div class="option-letter">E</div>
+                            <div class="option-text">英语/历史-热爱"跨文化"交流与故事讲述(语言天赋、文化理解)</div>
+                        </div>
+                        <div class="option" data-question="2" data-choice="F">
+                            <div class="option-letter">F</div>
+                            <div class="option-text">综合能力强-尤其擅长"实战"与快速决策(知识应用、临场应变)</div>
+                        </div>
+                        <div class="option" data-question="2" data-choice="G">
+                            <div class="option-letter">G</div>
+                            <div class="option-text">动手实践/美术-拥有稳定精细的"手工"技巧(空间感、精细操作)</div>
+                        </div>
+                        <div class="option" data-question="2" data-choice="H">
+                            <div class="option-letter">H</div>
+                            <div class="option-text">物理/信息技术-对"成像"和"检测"技术着迷(信号、图像、数据分析)</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 问题3 -->
+                <div class="question-card">
+                    <div class="question-header">
+                        <div class="question-number">3</div>
+                        <div class="question-text">你理想中解决世界难题的方式是？</div>
+                    </div>
+                    <div class="options">
+                        <div class="option" data-question="3" data-choice="A">
+                            <div class="option-letter">A</div>
+                            <div class="option-text">在"实验室"里潜心研究，找到根本解决方案(基础突破)</div>
+                        </div>
+                        <div class="option" data-question="3" data-choice="B">
+                            <div class="option-letter">B</div>
+                            <div class="option-text">发明创造一种全新的"武器"（药物/材料）(创新发明)</div>
+                        </div>
+                        <div class="option" data-question="3" data-choice="C">
+                            <div class="option-letter">C</div>
+                            <div class="option-text">构建强大的"防御系统"，让问题不再发生(预防体系)</div>
+                        </div>
+                        <div class="option" data-question="3" data-choice="D">
+                            <div class="option-letter">D</div>
+                            <div class="option-text">给予个体最直接、最温暖的"支持与照护"(人文关怀)</div>
+                        </div>
+                        <div class="option" data-question="3" data-choice="E">
+                            <div class="option-letter">E</div>
+                            <div class="option-text">促进不同领域的专家"无障碍沟通"与合作(桥梁作用)</div>
+                        </div>
+                        <div class="option" data-question="3" data-choice="F">
+                            <div class="option-letter">F</div>
+                            <div class="option-text">在"战场"（临床一线）上直面挑战，精准打击(临床实战)</div>
+                        </div>
+                        <div class="option" data-question="3" data-choice="G">
+                            <div class="option-letter">G</div>
+                            <div class="option-text">用精湛的"技艺"修复和创造美好(精工细作)</div>
+                        </div>
+                        <div class="option" data-question="3" data-choice="H">
+                            <div class="option-letter">H</div>
+                            <div class="option-text">研发更强大的"眼睛"和"工具"来辅助决策(技术支持)</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- 问题4 -->
+                <div class="question-card">
+                    <div class="question-header">
+                        <div class="question-number">4</div>
+                        <div class="question-text">让你最有成就感的事情是？</div>
+                    </div>
+                    <div class="options">
+                        <div class="option" data-question="4" data-choice="A">
+                            <div class="option-letter">A</div>
+                            <div class="option-text">解开一个困扰已久的"生命谜题"(探索未知的兴奋)</div>
+                        </div>
+                        <div class="option" data-question="4" data-choice="B">
+                            <div class="option-letter">B</div>
+                            <div class="option-text">成功"合成"出预期的新物质(创造的喜悦)</div>
+                        </div>
+                        <div class="option" data-question="4" data-choice="C">
+                            <div class="option-letter">C</div>
+                            <div class="option-text">你的方案成功保护了很多人免受伤害(守护群体的价值)</div>
+                        </div>
+                        <div class="option" data-question="4" data-choice="D">
+                            <div class="option-letter">D</div>
+                            <div class="option-text">看到被你帮助的人露出安心的"笑容"(温暖传递的满足)</div>
+                        </div>
+                        <div class="option" data-question="4" data-choice="E">
+                            <div class="option-letter">E</div>
+                            <div class="option-text">让原本无法沟通的双方达成"共识"(消除隔阂的成就)</div>
+                        </div>
+                        <div class="option" data-question="4" data-choice="F">
+                            <div class="option-letter">F</div>
+                            <div class="option-text">在紧急关头成功"救治"生命(力挽狂澜的自豪)</div>
+                        </div>
+                        <div class="option" data-question="4" data-choice="G">
+                            <div class="option-letter">G</div>
+                            <div class="option-text">完成一件精妙绝伦的"作品"并获得认可(技艺精湛的骄傲)</div>
+                        </div>
+                        <div class="option" data-question="4" data-choice="H">
+                            <div class="option-letter">H</div>
+                            <div class="option-text">你调试的"设备"给出了关键精准的数据(技术保障的安心)</div>
+                        </div>
+                    </div>
+                </div>
+                
+                <button id="submitBtn" class="submit-btn pulse">
+                    <i class="fas fa-stethoscope"></i> 提交诊断，查看我的医学天赋
+                </button>
+            </div>
+            
+            <div class="stats-section">
+                <div class="stats-card">
+                    <div class="stats-header">
+                        <i class="fas fa-user-md"></i>
+                        <h2 class="stats-title">您的选择统计</h2>
+                    </div>
+                    
+                    <div class="user-stats-container">
+                        <div class="user-stats-title">您选择最多的选项：</div>
+                        <div class="most-choice" id="user-most-choice">
+                            暂无
+                        </div>
+                        <div class="choice-count" id="choice-count">
+                            完成所有题目后显示统计
+                        </div>
+                        
+                        <div class="choice-explanation">
+                            <h3><i class="fas fa-info-circle"></i> 说明</h3>
+                            <p>系统将实时统计您在四道题目中选择次数最多的选项字母。</p>
+                            <p>当您完成所有题目后，我们将基于此选项为您生成医学天赋诊断结果。</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="stats-card">
+                    <div class="stats-header">
+                        <i class="fas fa-lightbulb"></i>
+                        <h2 class="stats-title">诊断说明</h2>
+                    </div>
+                    
+                    <p style="margin-bottom: 15px;">这份诊断书将根据您的选择，揭示您潜藏的医学天赋类型！</p>
+                    
+                    <ul style="padding-left: 20px; margin-bottom: 15px;">
+                        <li>选择最符合您的选项</li>
+                        <li>右侧实时显示您选择最多的选项</li>
+                        <li>完成所有问题后查看专属诊断结果</li>
+                        <li>结果将揭示您最适合的医学领域</li>
+                    </ul>
+                    
+                    <p style="font-style: italic; color: #7b1fa2;">
+                        "医学的海洋无比广阔，充满挑战与荣光！"
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <!-- 新增统计结果部分 -->
+        <div class="stats-result-section" id="statsResult">
+            <div class="stats-result-header">
+                <i class="fas fa-chart-pie"></i>
+                <h2 class="stats-result-title">您的选择统计结果</h2>
+            </div>
+            
+            <div class="stats-result-content">
+                <div class="user-stats-title">您选择最多的选项是：</div>
+                <div class="result-choice" id="result-most-choice">
+                    A
+                </div>
+                <div class="choice-count" id="result-choice-count">
+                    您在4道题中选择了3次A选项
+                </div>
+                
+                <div class="result-description">
+                    根据您的选择模式，您展现出<strong class="highlight">生命密码破译专家</strong>的特质，
+                    您拥有探索生命本源奥秘的强烈好奇心和严谨逻辑思维！
+                </div>
+            </div>
+        </div>
+        
+        <div class="result-section">
+            <div class="result-header">
+                <h2 class="result-title">您的医学天赋诊断结果</h2>
+                <p>完成所有选择题后，您的专属诊断结果将在这里显示</p>
+            </div>
+            
+            <div class="result-container" id="resultContainer">
+                <!-- 诊断结果将通过JS动态生成 -->
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>北京大学医学部 © 2023 | 高考加油，我们在北大医学等您一起"破译生命密码"！</p>
+        </div>
+    </div>
+
+    <script>
+        // 诊断结果数据
+        const results = {
+            A: {
+                type: "生命密码破译专家",
+                field: "基础医学",
+                description: "您拥有探索生命本源奥秘的强烈好奇心和严谨逻辑！从微观的细胞信号到宏观的疾病机制，您都渴望理解其运行的\"源代码\"。您的天赋在于像科学家一样思考，用实验和推理层层剥开生命的谜团，为医学进步奠定基石。",
+                link: "\"这里是探寻生命和疾病密码的起点！\" - 想象您在生化楼、生理楼里探索的英姿！"
+            },
+            B: {
+                type: "分子建筑师",
+                field: "药学",
+                description: "您是天生的创造者！对化学结构和反应有着敏锐的洞察力，擅长设计和构建具有特定功能的\"分子大厦\"（药物）。您的天赋在于将理论知识转化为解决健康问题的实际\"武器\"，精准合成，追求完美药效。",
+                link: "\"愿您书写的答卷，像酶促反应一样精准高效！\"、\"一起合成属于您的'最佳分子'！\" - 药学院的实验室和药田是您的舞台！"
+            },
+            C: {
+                type: "人群健康守护者",
+                field: "公共卫生",
+                description: "您拥有全局视野和强大的数据分析能力！您关注的不只是个体，更是群体的健康命运。您的天赋在于从海量信息（数据）中洞察健康趋势，制定策略，筑起预防疾病的\"长城\"，守护亿万人的健康防线。",
+                link: "\"公卫人站在人群身后，守护亿万人的健康防线！\"、\"用数据为健康护航\" - 公卫学院是您运筹帷幄的指挥部！"
+            },
+            D: {
+                type: "心灵治愈之手",
+                field: "护理学",
+                description: "您拥有无与伦比的共情力、耐心和关怀精神！您的天赋在于理解患者的身心需求，用专业技术和温暖陪伴传递力量。您是医学中不可或缺的\"温度\"，是患者康复路上最坚定的支持者。",
+                link: "\"护理，是医学中温暖的力量\"、\"未来我们一起成为患者心中的光！\" - 南丁格尔精神在您身上闪耀！"
+            },
+            E: {
+                type: "医学文化桥梁",
+                field: "医学人文/医学英语",
+                description: "您是语言的魔法师和文化的沟通者！您的天赋在于架起医学与人文、不同医学体系之间的桥梁。无论是精准的医学翻译、跨文化交流，还是探讨医学伦理、医患沟通，您都能让医学知识跨越障碍，惠及更广。",
+                link: "\"愿您书写的高考答卷，像同声传译般精准流畅！\"、\"在医学与人文的交汇处...让中国医学之声传遍全球！\" - 逸夫楼见证您连接世界的智慧！"
+            },
+            F: {
+                type: "临床决策指挥官",
+                field: "临床医学",
+                description: "您拥有强大的行动力、快速决策能力和临危不乱的定力！您的天赋在于直面复杂的临床问题，整合信息，做出关键诊断和治疗决策。您是生命战场上的\"指挥官\"，用知识和勇气与疾病直接交锋，守护个体生命。",
+                link: "\"每次诊断都是回答生命的考题\"、\"白衣执甲，笔为刀剑！...在门诊病房为健康而战！\" - 模拟病房是您初试锋芒的战场！"
+            },
+            G: {
+                type: "健康美学雕塑家",
+                field: "口腔医学",
+                description: "您兼具精湛的动手能力和艺术审美！您的天赋在于将医学技术与美学追求完美融合。无论是修复牙齿功能还是重塑迷人微笑，您都追求极致的精准和美感，用\"匠心\"雕琢健康与自信。",
+                link: "\"愿您执笔如牙科探针般稳健，答卷如咬合关系般完美！\"、\"用匠心雕琢健康与美的艺术！\" - 口腔医学院是您施展技艺的工坊！"
+            },
+            H: {
+                type: "医学科技慧眼",
+                field: "医学技术(医学影像、医学检验等)",
+                description: "您是医学界的\"技术大咖\"和\"装备大师\"！对先进仪器和技术充满热情。您的天赋在于操作、维护、甚至创新医学设备，成为医生的\"眼睛\"和\"延伸\"，通过影像、检验数据等精准捕捉疾病信号，为诊疗提供关键依据。",
+                link: "\"用技术透视生命细节\"、\"医学技术就像医生透视疾病的双眼...为医学擦亮科技的慧眼！\" - 医学科技楼是您研发和操作尖端装备的基地！"
+            }
+        };
+        
+        // 用户选择的答案
+        const userAnswers = {
+            question1: null,
+            question2: null,
+            question3: null,
+            question4: null
+        };
+        
+        // 初始化页面
+        document.addEventListener('DOMContentLoaded', function() {
+            // 设置选项点击事件
+            document.querySelectorAll('.option').forEach(option => {
+                option.addEventListener('click', function() {
+                    const question = this.dataset.question;
+                    const choice = this.dataset.choice;
+                    
+                    // 移除同一问题下的其他选中状态
+                    document.querySelectorAll(`.option[data-question="${question}"]`).forEach(opt => {
+                        opt.classList.remove('selected');
+                    });
+                    
+                    // 设置当前选项为选中状态
+                    this.classList.add('selected');
+                    
+                    // 保存用户选择
+                    userAnswers[`question${question}`] = choice;
+                    
+                    // 更新用户选择统计
+                    updateUserStats();
+                });
+            });
+            
+            // 提交按钮事件
+            document.getElementById('submitBtn').addEventListener('click', function() {
+                // 检查是否所有问题都已回答
+                let allAnswered = true;
+                for (let i = 1; i <= 4; i++) {
+                    if (!userAnswers[`question${i}`]) {
+                        allAnswered = false;
+                        break;
+                    }
+                }
+                
+                if (allAnswered) {
+                    // 计算用户结果
+                    const choiceCount = {A:0, B:0, C:0, D:0, E:0, F:0, G:0, H:0};
+                    for (let i = 1; i <= 4; i++) {
+                        choiceCount[userAnswers[`question${i}`]]++;
+                    }
+                    
+                    // 找出最多的选项
+                    let maxCount = 0;
+                    let userResult = 'A';
+                    for (const choice in choiceCount) {
+                        if (choiceCount[choice] > maxCount) {
+                            maxCount = choiceCount[choice];
+                            userResult = choice;
+                        }
+                    }
+                    
+                    // 显示统计结果
+                    showStatsResult(userResult, maxCount);
+                    
+                    // 显示诊断结果
+                    showResult(userResult);
+                } else {
+                    alert('请完成所有题目后再提交！');
+                }
+            });
+        });
+        
+        // 更新用户选择统计
+        function updateUserStats() {
+            // 统计当前用户的选择
+            const choices = [];
+            for (let i = 1; i <= 4; i++) {
+                if (userAnswers[`question${i}`]) {
+                    choices.push(userAnswers[`question${i}`]);
+                }
+            }
+            
+            if (choices.length === 0) {
+                document.getElementById('user-most-choice').textContent = '暂无';
+                document.getElementById('choice-count').textContent = '请开始选择您的答案';
+                return;
+            }
+            
+            // 计算每个选项出现的次数
+            const countMap = {};
+            choices.forEach(choice => {
+                countMap[choice] = (countMap[choice] || 0) + 1;
+            });
+            
+            // 找出出现次数最多的选项
+            let maxCount = 0;
+            let mostChoice = [];
+            for (const choice in countMap) {
+                if (countMap[choice] > maxCount) {
+                    maxCount = countMap[choice];
+                    mostChoice = [choice];
+                } else if (countMap[choice] === maxCount) {
+                    mostChoice.push(choice);
+                }
+            }
+            
+            // 显示结果
+            const displayText = mostChoice.join('、');
+            document.getElementById('user-most-choice').textContent = displayText;
+            
+            // 更新计数文本
+            if (choices.length < 4) {
+                document.getElementById('choice-count').textContent = 
+                    `已选择 ${choices.length}/4 题，当前最多选择：${displayText} (${maxCount}次)`;
+            } else {
+                document.getElementById('choice-count').textContent = 
+                    `已完成所有题目！最多选择：${displayText} (${maxCount}次)`;
+            }
+        }
+        
+        // 显示统计结果
+        function showStatsResult(choice, count) {
+            const result = results[choice];
+            const statsResult = document.getElementById('statsResult');
+            
+            document.getElementById('result-most-choice').textContent = choice;
+            document.getElementById('result-choice-count').textContent = 
+                `您在4道题中选择了${count}次${choice}选项`;
+            
+            statsResult.style.display = 'block';
+            
+            // 滚动到统计结果区域
+            statsResult.scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        // 显示诊断结果
+        function showResult(choice) {
+            const result = results[choice];
+            const resultContainer = document.getElementById('resultContainer');
+            
+            resultContainer.innerHTML = `
+                <div class="result-type">${result.type} 基因显性！</div>
+                <div class="result-field">对应领域：${result.field}</div>
+                <div class="result-description">${result.description}</div>
+                <div class="result-link">${result.link}</div>
+                <div style="margin-top: 30px; text-align: center;">
+                    <button class="submit-btn" onclick="location.reload()">
+                        <i class="fas fa-redo"></i> 重新测试
+                    </button>
+                </div>
+            `;
+            
+            resultContainer.style.display = 'block';
+            
+            // 滚动到诊断结果区域
+            resultContainer.scrollIntoView({ behavior: 'smooth' });
+        }
+    </script>
+</body>
+</html>
