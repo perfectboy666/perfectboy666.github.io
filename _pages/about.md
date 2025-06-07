@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 # title: "About me"
 # excerpt: "About me"
@@ -48,4 +48,4 @@ Hi~ I am currently a M.Sc. student at
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
 --------
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: shitongyue (at) hsc.pku.edu.cn</span> -->
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: shitongyue (at) hsc.pku.edu.cn</span>

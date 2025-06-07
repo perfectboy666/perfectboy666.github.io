@@ -17,6 +17,10 @@
 
 **Journal Papers**
 
+1. **AI Models for Predicting Acute Kidney Injury in the ICU: A Systematic Review of Modeling Methods, Data Utilization, and Clinical Applicability**   
+    **Shi T**, Lin Y, Zhao H, et al.
+    In: JAMIA Open, 2025.
+
 1. **<span style="color:#0b5394">[Kidney Medicine]</span> Acute Kidney Injury Prognosis Prediction Using Machine Learning Methods: A Systematic Review <span style="color:#0b5394">(JCR Q1)</span>**   
     Lin Y, **Shi T**, and Kong G.
     In: Kidney Medicine, 2024.
@@ -71,4 +75,4 @@
     In: the Beijing Health Data Science Summit 2023 (HDSS 2023),  June 16-18, 2023.
 
 
--->
+ -->
