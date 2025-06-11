@@ -61,7 +61,7 @@ author_profile: true
     Zhang H, Xiong M, **Shi T**, et al.
     In: 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Workshop Artificial Intelligence and Data Science for Healthcare. KDD 2024.
 
-8. **Identifying acute kidney injury subtypes based on serum electrolyte data in ICU via K-medoids clustering**   
+8. **Identifying Acute Kidney Injury Subtypes Based on Serum Electrolyte Data in ICU via K-medoids Clustering**   
     Liu W, **Shi T**, Xu H, et al.
     In: American Medical Informatics Association 2024 Annual Symposium. AMIA 2024.
 
