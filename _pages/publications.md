@@ -25,7 +25,7 @@ author_profile: true
 
 4. **ERTool: A Python Package for Efficient Implementation of the Evidential Reasoning Approach for Multi-Source Evidence Fusion**   
     **Shi T**, Guo L, Shen Z, et al.
-    In: Health Data Science, 2024.
+    In: SPJ Health Data Science, 2024.
 
 5. **Overview of Transformer-based Pre-trained Language Models for Natural Language Processing**   
     **Shi T**, and Wang Z.
