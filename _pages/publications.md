@@ -15,19 +15,19 @@ author_profile: true
 
 **Journal Papers**
 
-2. **AI Models for Predicting Acute Kidney Injury in the ICU: A Systematic Review of Modeling Methods, Data Utilization, and Clinical Applicability**   
+1. **Artificial Intelligence Models for Predicting Acute Kidney Injury in the Intensive Care Unit: A Systematic Review of Modeling Methods, Data Utilization, and Clinical Applicability**   
     **Shi T**, Lin Y, Zhao H, et al.
     In: JAMIA Open, 2025.
 
-3. **Acute Kidney Injury Prognosis Prediction Using Machine Learning Methods: A Systematic Review**   
+2. **Acute Kidney Injury Prognosis Prediction Using Machine Learning Methods: A Systematic Review**   
     Lin Y, **Shi T**, and Kong G.
     In: Kidney Medicine, 2024.
 
-4. **ERTool: A Python Package for Efficient Implementation of the Evidential Reasoning Approach for Multi-Source Evidence Fusion**   
+3. **ERTool: A Python Package for Efficient Implementation of the Evidential Reasoning Approach for Multi-Source Evidence Fusion**   
     **Shi T**, Guo L, Shen Z, et al.
     In: SPJ Health Data Science, 2024.
 
-5. **Overview of Transformer-based Pre-trained Language Models for Natural Language Processing**   
+4. **Overview of Transformer-based Pre-trained Language Models for Natural Language Processing**   
     **Shi T**, and Wang Z.
     In: Information and Computer, 2022.
 
