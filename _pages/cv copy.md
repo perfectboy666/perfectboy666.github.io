@@ -8,6 +8,13 @@
 ---
 {% include base_path %}
 
+Experience
+======
+- Algorithm Intern, AI Industry Division, Baidu, 2024.
+- Research Intern, OpenMMLab, Shanghai AI Laboratory, 2023.
+- Algorithm Intern, Everest Intelligent Laboratory, Ximalaya, 2023.
+- Visit Student, Harvard University, 2022.
+- Engineer Intern, HUAWEI, 2021-2022.
 
 1. **<span style="color:#0b5394">[JAMIA Open]</span> AI models for predicting acute kidney injury in the ICU: a systematic review of modeling methods, data utilization, and clinical applicability <span style="color:#0b5394">(JCR Q2)</span>**   
     **Shi T**, Lin Y Zhao H, et al.
