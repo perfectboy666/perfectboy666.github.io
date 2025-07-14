@@ -7,6 +7,7 @@
 #   - /resume
 ---
 {% include base_path %}
+Additionally, I serve as the Associate Managing Editor (Student) for Peking University Office of Publicity, participating in writing, editing, and typesetting articles for the PKU's official WeChat account with 7M+ subscribers.
 
 Experience
 ======
