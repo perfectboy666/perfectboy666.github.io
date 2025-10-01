@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -19,15 +19,19 @@ author_profile: true
     **Shi T**, Lin Y, Zhao H, et al.
     In: JAMIA Open, 2025.
 
-2. **Acute Kidney Injury Prognosis Prediction Using Machine Learning Methods: A Systematic Review**   
+2. **Artificial Intelligence Models for Predicting Acute Kidney Injury in the Intensive Care Unit: A Systematic Review of Modeling Methods, Data Utilization, and Clinical Applicability**   
+    Liu W, **Shi T**, Xu H, et al.
+    In: Journal of Clinical Medicine, 2025.
+
+3. **Acute Kidney Injury Prognosis Prediction Using Machine Learning Methods: A Systematic Review**   
     Lin Y, **Shi T**, and Kong G.
     In: Kidney Medicine, 2024.
 
-3. **ERTool: A Python Package for Efficient Implementation of the Evidential Reasoning Approach for Multi-Source Evidence Fusion**   
+4. **ERTool: A Python Package for Efficient Implementation of the Evidential Reasoning Approach for Multi-Source Evidence Fusion**   
     **Shi T**, Guo L, Shen Z, et al.
     In: SPJ Health Data Science, 2024.
 
-4. **Overview of Transformer-based Pre-trained Language Models for Natural Language Processing**   
+5. **Overview of Transformer-based Pre-trained Language Models for Natural Language Processing**   
     **Shi T**, and Wang Z.
     In: Information and Computer, 2022.
 
@@ -83,4 +87,4 @@ author_profile: true
 
 18. **Identifying Subgroups of ICU Patients Using End-to-End Multivariate Time-Series Clustering Algorithm Based on Real-World Vital Signs Data**   
     **Shi T**, Zhang Z, Fang J, et al.
-    In: the Beijing Health Data Science Summit 2023. HDSS 2023. -->
+    In: the Beijing Health Data Science Summit 2023. HDSS 2023.
