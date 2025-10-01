@@ -34,6 +34,8 @@ Hi~ I am currently a postgraduate student at <a href="https://english.pku.edu.cn
 --------
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">National Scholarship, 2021, 2024.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student Pacesetter of Peking University, 2024.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">WUSI Scholarship of Peking University, 2025.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student of Peking University, 2025.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student of Jiangsu Province, 2022.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">HUAWEI Scholarship, 2022.
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Advanced Individual of Summer Social Practice of Jiangsu Province, 2021.</span>
