@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -83,4 +83,4 @@ author_profile: true
 
 18. **Identifying Subgroups of ICU Patients Using End-to-End Multivariate Time-Series Clustering Algorithm Based on Real-World Vital Signs Data**   
     **Shi T**, Zhang Z, Fang J, et al.
-    In: the Beijing Health Data Science Summit 2023. HDSS 2023. -->
+    In: the Beijing Health Data Science Summit 2023. HDSS 2023.
