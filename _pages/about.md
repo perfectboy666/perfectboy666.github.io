@@ -32,7 +32,7 @@ Hi~ I am currently a master student at <a href="https://english.pku.edu.cn/" tar
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Selected Awards</span>
 --------
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">National Scholarship (国家奖学金), 2021, 2024.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">National Scholarship, 2021, 2024.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">May Fourth Scholarship of Peking University, 2025.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student Pacesetter of Peking University, 2024.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Merit Student of Peking University, 2025.</span>
@@ -45,8 +45,8 @@ Hi~ I am currently a master student at <a href="https://english.pku.edu.cn/" tar
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Academic Services</span>
 --------
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Program Committee Member: ICIC 2025.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Reviewer: NPJ Digital Medicine, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Consumer Electronics, IEEE Transactions on Multimedia, Pattern Recognition, Journal of Medical Internet Research, ACM Transactions on Autonomous and Adaptive Systems, Discover Applied Sciences, Journal of Social Computing, Engineering Reports, Brain and Behavior, NeurIPS, ACL, EMNLP, IEEE SMC, ICIC, ICAI, ACM Multimedia Asia, CAC, etc.</span>
-
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Journal Reviewer: NPJ Digital Medicine, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Consumer Electronics, IEEE Transactions on Multimedia, Pattern Recognition, Journal of Medical Internet Research, ACM Transactions on Autonomous and Adaptive Systems, Discover Applied Sciences, etc.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Conference Reviewer: NeurIPS, ACL, EMNLP, IEEE SMC, ICIC, ICAI, ACM Multimedia Asia, CAC, etc.</span>
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
 --------
