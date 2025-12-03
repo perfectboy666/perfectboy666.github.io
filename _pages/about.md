@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 # title: "About me"
 # excerpt: "About me"
@@ -50,4 +50,4 @@ Hi~ I am currently a master student at <a href="https://english.pku.edu.cn/" tar
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
 --------
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: tyshi.pku@gmail.com</span> -->
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: tyshi.pku@gmail.com</span>
