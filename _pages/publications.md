@@ -15,11 +15,11 @@ author_profile: true
 
 3. **Acute Kidney Injury Subtyping and Prognostic Analysis Based on Serum Electrolyte Features in ICU**   
     Liu W, **Shi T**, Xu H, et al.
-    In: IEEE Journal of Biomedical and Health Informatics. 2025.
+    In: Journal of Clinical Medicine. 2025.
 
 3. **Subphenotype Identification for Sepsis-Associated Acute Kidney Injury using Graph Bidirectional Mamba Networks**   
     Xu H, Liu W, **Shi T**, et al.
-    In: Journal of Clinical Medicine. 2025.
+    In: IEEE Journal of Biomedical and Health Informatics. 2025.
 
 4. **Acute Kidney Injury Prognosis Prediction Using Machine Learning Methods: A Systematic Review**   
     Lin Y, **Shi T**, and Kong G.
