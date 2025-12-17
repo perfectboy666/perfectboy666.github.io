@@ -46,7 +46,7 @@ Hi~ I am currently a master student at <a href="https://english.pku.edu.cn/" tar
 --------
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Program Committee Member: ICIC 2025, ICAI 2025.</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Journal Reviewer: NPJ Digital Medicine, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Consumer Electronics (TCE), IEEE Transactions on Multimedia (TMM), Pattern Recognition, Journal of Medical Internet Research (JMIR), ACM Transactions on Autonomous and Adaptive Systems (TAAS), Engineering Reports, Discover Applied Sciences, etc.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Conference Reviewer: NeurIPS, ACL, EMNLP, IEEE SMC, ICIC, ICAI, ACM Multimedia Asia, CAC, etc.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Conference Reviewer: NeurIPS, ACL, EMNLP, AMIA, IEEE SMC, ICIC, ICAI, ACM Multimedia Asia, CAC, etc.</span>
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
 --------
