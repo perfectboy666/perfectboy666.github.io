@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Introduction"
 permalink: /cv/
@@ -9,6 +9,6 @@ redirect_from:
     
 Education
 ======
-* 2026-incoming, Doctor of Medicine, The Third Clinical Medical College, Peking University, Beijing, China.
-* 2023-2026, Master of Science, National Institute of Health Data Science, Peking University, Beijing, China.
-* 2019-2023, Bachelor of Engineering, School of Computer Science and Technology, Soochow University, Suzhou, China. -->
+* 2026-incoming, Ph.D., Department of Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China.
+* 2023-2026, M.Sc., National Institute of Health Data Science, Peking University, Beijing, China.
+* 2019-2023, B.Eng., School of Computer Science and Technology, Soochow University, Suzhou, China.
