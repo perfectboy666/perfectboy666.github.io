@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; text-align:justify; text-justify:inter-ideograph;">
-Hi~ I am currently a graduate student at <a href="https://english.pku.edu.cn/" target="_blank" style="color:inherit; text-decoration:underline;">Peking University</a>, and I received my Bachelor’s degree in Computer Science and Technology. My research interests focus on AI for Medicine, particularly electronic health record (EHR)-based interpretable AI, and large language model (LLM)-driven clinical decision support. I’m passionate about developing patient-centered, clinically applicable and explainable AI systems, and actively engage in interdisciplinary collaborations across medicine and data science. I also enjoy exploring cutting-edge technologies, and making new friends. Please feel free to contact me at shitongyue@hsc.pku.edu.cn.
+Hi~ I am currently a graduate student at <a href="https://english.pku.edu.cn/" target="_blank" style="color:inherit; text-decoration:underline;">Peking University</a>, and I received my Bachelor’s degree in Computer Science and Technology. My research interests focus on AI for Medicine, particularly electronic health record (EHR)-based interpretable AI, and large language model (LLM)-driven clinical decision support. Please feel free to contact me.
 </span>
 
 
@@ -17,6 +17,11 @@ Hi~ I am currently a graduate student at <a href="https://english.pku.edu.cn/" t
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Interpretable AI for Clinical Medicine</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">LLM-Driven Clinical Decision Support Systems</span>
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">EHR-Based Multivariate Time Series Data Mining</span>
+
+
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
+--------
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: shitongyue@hsc.pku.edu.cn</span>
 
 
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Experience</span>
