@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; text-align:justify; text-justify:inter-ideograph;">
-Hi~ I am currently a master student at <a href="https://english.pku.edu.cn/" target="_blank" style="color:inherit; text-decoration:underline;">Peking University</a>, advised by 
-<a href="https://www.ai.pku.edu.cn/en/info/1417/1897.htm" target="_blank" style="color:inherit; text-decoration:underline;">Prof. Guilan Kong</a>. I received my Bachelor’s degree in Computer Science and Technology (Artificial Intelligence) in June 2023. My research interests focus on AI for Medicine, particularly electronic health record (EHR)-based interpretable AI, and large language model (LLM)-driven clinical decision support. I’m passionate about developing patient-centered, clinically applicable and explainable AI systems, and actively engage in interdisciplinary collaborations across medicine and data science. I also enjoy exploring cutting-edge technologies, and making new friends — feel free to contact me.
+Hi~ I am currently a graduate student at <a href="https://english.pku.edu.cn/" target="_blank" style="color:inherit; text-decoration:underline;">Peking University</a>, and I received my Bachelor’s degree in Computer Science and Technology (Artificial Intelligence) in June 2023. My research interests focus on AI for Medicine, particularly electronic health record (EHR)-based interpretable AI, and large language model (LLM)-driven clinical decision support. I’m passionate about developing patient-centered, clinically applicable and explainable AI systems, and actively engage in interdisciplinary collaborations across medicine and data science. I also enjoy exploring cutting-edge technologies, and making new friends — feel free to contact me at shitongyue@hsc.pku.edu.cn.
 </span>
 
 
@@ -43,12 +42,37 @@ Hi~ I am currently a master student at <a href="https://english.pku.edu.cn/" tar
 - <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Second Prize in China Undergraduate Mathematical Contest in Modelling (CUMCM), 2021.</span>
 
 
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Academic Services</span>
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Journal Reviewer</span>
 --------
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Program Committee Member: ICIC 2025/2026, ICAI 2025.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Journal Reviewer: NPJ Digital Medicine, IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Consumer Electronics (TCE), IEEE Transactions on Multimedia (TMM), Pattern Recognition, Journal of Medical Internet Research (JMIR), ACM Transactions on Autonomous and Adaptive Systems (TAAS), Engineering Reports, Discover Applied Sciences, Brain and Behavior, Journal of Social Computing, Multimedia Systems, etc.</span>
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Conference Reviewer: NeurIPS, ACL, EMNLP, AMIA, IEEE SMC, ICIC, ICAI, ACM Multimedia Asia, CAC, etc.</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">NPJ Digital Medicine</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">IEEE Transactions on Consumer Electronics (TCE)</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">IEEE Transactions on Multimedia (TMM)</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Pattern Recognition</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Journal of Medical Internet Research (JMIR)</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">ACM Transactions on Autonomous and Adaptive Systems (TAAS)</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Engineering Reports</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Discover Applied Sciences</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Brain and Behavior</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Journal of Social Computing</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Multimedia Systems</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">IEEE Transactions on Industrial Cyber-Physical Systems</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Computer Methods in Biomechanics and Biomedical Engineering</span>
 
-<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Contact</span>
+
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Conference Reviewer</span>
 --------
-- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">Email Address: tyshi.pku@gmail.com</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">AMIA 2026</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">NeurIPS 2025</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">ACL 2025</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">EMNLP 2025</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">ICIC 2025</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">ICAI 2025</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">ACM Multimedia Asia 2025</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">CAC 2025</span>
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">IEEE SMC 2024</span>
+
+
+<span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;color:#6b5d40">Program Committee Member</span>
+--------
+- <span style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;text-align:justify; text-justify:inter-ideograph;">ICIC 2025</span>
