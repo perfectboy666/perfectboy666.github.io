@@ -2,8 +2,152 @@ type = "card"
 title = "Services"
 description = "Professional services and community involvement."
 
+# --- Journal Reviewer ---
+
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
+title = "Journal Reviewer"
+subtitle = "npj Digital Medicine"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "IEEE Transactions on Consumer Electronics (TCE)"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "IEEE Transactions on Multimedia (TMM)"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Pattern Recognition"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Journal of Medical Internet Research (JMIR)"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "ACM Transactions on Autonomous and Adaptive Systems (TAAS)"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Engineering Reports"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Discover Applied Sciences"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Brain and Behavior"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Journal of Social Computing"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Multimedia Systems"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "IEEE Transactions on Industrial Cyber-Physical Systems"
+date = "Present"
+content = ""
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Computer Methods in Biomechanics and Biomedical Engineering"
+date = "Present"
+content = ""
+
+# --- Conference Reviewer ---
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "AMIA 2026"
+date = "2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "NeurIPS 2025"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ACL 2025"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "EMNLP 2025"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ICIC 2025"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ICAI 2025"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ACM Multimedia Asia 2025"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "CAC 2025"
+date = "2025"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "IEEE SMC 2024"
 date = "2024"
-content = "Reviewed papers for..."
+content = ""
+
+# --- Program Committee Member ---
+
+[[items]]
+title = "Program Committee Member"
+subtitle = "ICIC 2025"
+date = "2025"
+content = ""

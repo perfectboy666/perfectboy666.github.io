@@ -1,5 +1,5 @@
 [site]
-title = "Tongyue's Homepage ☺'"
+title = "Tongyue's Homepage ☺"
 description = "M.Phil (MS) student at Peking University."
 favicon = "/favicon.ico"
 last_updated = "January 22, 2026"
@@ -17,7 +17,6 @@ email = "tyshi.pku@gmail.com"
 location = "Beijing, China"
 location_url = "https://maps.google.com"
 location_details = [
-  "Medical Science & Technology Building",
   "Peking University, Beijing, China"
 ]
 google_scholar = "https://scholar.google.com/citations?user=W91nE1gAAAAJ&hl=en"
