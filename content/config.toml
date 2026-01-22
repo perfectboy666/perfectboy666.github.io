@@ -1,0 +1,69 @@
+[site]
+title = "Tongyue Shi"
+description = "M.Phil (MS) student at Peking University."
+favicon = "/favicon.svg"
+last_updated = "January 22, 2026"
+
+[author]
+name = "Tongyue Shi"
+title = "M.Phil Student"
+institution = "Peking University"
+avatar = "/bio.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "john.doe@example.com"
+location = "Beijing, China"
+location_url = "https://maps.google.com"
+location_details = [
+  "Room 123, Science Building,",
+  "University Avenue, City, Country"
+]
+google_scholar = "https://scholar.google.com"
+orcid = "https://orcid.org"
+github = "https://github.com"
+linkedin = "https://linkedin.com"
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"
