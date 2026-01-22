@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Interpretable AI for Clinical Medicine",
+  "LLM-Driven Clinical Decision Support Systems",
+  "EHR-Based Multivariate Time Series Data Mining"
 ]
 
 [[sections]]

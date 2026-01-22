@@ -1,7 +1,7 @@
 [site]
 title = "Tongyue's Homepage ☺'"
 description = "M.Phil (MS) student at Peking University."
-favicon = "/favicon.svg"
+favicon = "/favicon.ico"
 last_updated = "January 22, 2026"
 
 [author]
@@ -39,16 +39,16 @@ target = "about"
 href = "/"
 
 [[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"
+
+[[navigation]]
 title = "Publications"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "Teaching"
-type = "page"
-target = "teaching"
-href = "/teaching"
 
 [[navigation]]
 title = "Awards"
@@ -61,9 +61,3 @@ title = "Services"
 type = "page"
 target = "services"
 href = "/services"
-
-[[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"

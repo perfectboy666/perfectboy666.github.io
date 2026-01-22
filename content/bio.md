@@ -1,5 +1,3 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+Hi~ I am currently a master student at [Peking University](https://english.pku.edu.cn/). I received my Bachelor’s degree in Computer Science and Technology (Artificial Intelligence) in June 2023.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research interests focus on AI for Medicine, particularly electronic health record (EHR)-based interpretable AI, and large language model (LLM)-driven clinical decision support. I’m passionate about developing patient-centered, clinically applicable and explainable AI systems, and actively engage in interdisciplinary collaborations across medicine and data science. I also enjoy exploring cutting-edge technologies, and making new friends — feel free to contact me!
