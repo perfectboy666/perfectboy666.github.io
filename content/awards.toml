@@ -2,44 +2,11 @@ type = "card"
 title = "Awards"
 description = "Selected honors and awards I have received."
 
-# 2025 Items
-[[items]]
-title = "May Fourth Scholarship"
-subtitle = "Peking University"
-date = "2025"
-content = "北京大学五四奖学金"
-
-[[items]]
-title = "Merit Student"
-subtitle = "Peking University"
-date = "2025"
-content = "北京大学三好学生"
-
-# 2024 Items
 [[items]]
 title = "National Scholarship"
 subtitle = "Ministry of Education of China"
 date = "2024"
 content = "国家奖学金（研究生）"
-
-[[items]]
-title = "Merit Student Pacesetter"
-subtitle = "Peking University"
-date = "2024"
-content = "北京大学三好学生标兵"
-
-# 2022 Items
-[[items]]
-title = "Merit Student"
-subtitle = "Jiangsu Province"
-date = "2022"
-content = "江苏省三好学生"
-
-[[items]]
-title = "HUAWEI Scholarship"
-subtitle = "Huawei Technologies Co., Ltd."
-date = "2022"
-content = "华为奖学金"
 
 # 2021 Items
 [[items]]
@@ -47,6 +14,37 @@ title = "National Scholarship"
 subtitle = "Ministry of Education of China"
 date = "2021"
 content = "国家奖学金（本科生）"
+
+[[items]]
+title = "May Fourth Scholarship"
+subtitle = "Peking University"
+date = "2025"
+content = "北京大学五四奖学金"
+
+[[items]]
+title = "Merit Student Pacesetter"
+subtitle = "Peking University"
+date = "2024"
+content = "北京大学三好学生标兵"
+
+[[items]]
+title = "Merit Student"
+subtitle = "Peking University"
+date = "2025"
+content = "北京大学三好学生"
+
+[[items]]
+title = "HUAWEI Scholarship"
+subtitle = "Huawei Technologies Co., Ltd."
+date = "2022"
+content = "华为奖学金"
+
+# 2022 Items
+[[items]]
+title = "Merit Student"
+subtitle = "Jiangsu Province"
+date = "2022"
+content = "江苏省三好学生"
 
 [[items]]
 title = "Advanced Individual of Summer Social Practice"
