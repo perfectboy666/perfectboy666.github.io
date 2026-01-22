@@ -1,5 +1,5 @@
 [site]
-title = "Tongyue Shi"
+title = "Tongyue's Homepage ☺'"
 description = "M.Phil (MS) student at Peking University."
 favicon = "/favicon.svg"
 last_updated = "January 22, 2026"
@@ -13,15 +13,15 @@ avatar = "/bio.jpg"
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
+email = "tyshi.pku@gmail.com"
 location = "Beijing, China"
 location_url = "https://maps.google.com"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "Medical Science & Technology Building",
+  "Peking University, Beijing, China"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
+google_scholar = "https://scholar.google.com/citations?user=W91nE1gAAAAJ&hl=en"
+orcid = "https://orcid.org/0009-0005-6335-2702"
 github = "https://github.com"
 linkedin = "https://linkedin.com"
 
