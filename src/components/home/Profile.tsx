@@ -352,8 +352,8 @@ export default function Profile({ author, social, features, researchInterests }:
                 </div>
             )}
         </motion.div>
-        <div> 
-            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y"></script>
-        </div>
+        // <div> 
+        //     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y"></script>
+        // </div>
     );
 }
