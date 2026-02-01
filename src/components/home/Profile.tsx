@@ -66,32 +66,6 @@ export default function Profile({ author, social, features, researchInterests }:
             setShowThanks(false);
         }
     };
-
-
-    // 在组件内部
-    useEffect(() => {
-        // 1. 找到我们在 JSX 里预留的容器
-        const container = document.getElementById('clustrmaps-widget-container');
-        if (!container) return;
-
-        // 2. 暴力重置：先把容器清空，确保没有残留的旧脚本或 DOM 冲突
-        container.innerHTML = '';
-
-        // 3. 创建新的脚本标签
-        const script = document.createElement('script');
-        script.src = '//clustrmaps.com/globe.js?d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y';
-        script.id = 'clstr_globe'; // 必须保留这个 ID，脚本靠它来定位自己
-        script.type = 'text/javascript';
-        
-        // 4. 插入到容器中
-        container.appendChild(script);
-
-        // 可选：组件卸载时再次清空，防止内存泄漏
-        return () => {
-            if (container) container.innerHTML = '';
-        };
-    }, []); // 依赖项保持为空数组，只在组件挂载时执行
-
     
     const socialLinks = [
         ...(social.email ? [{
@@ -383,17 +357,18 @@ export default function Profile({ author, social, features, researchInterests }:
                 <div className="text-xs text-neutral-400 mb-2 font-medium uppercase tracking-wider">
                     Visitors
                 </div>
-                
-                {/* 方案：使用 scale (缩放)
-                    scale-75: 缩小到 75%
-                    origin-center: 从中心缩放
-                */}
-                <div 
-                    id="clustrmaps-widget-container" 
-                    className="flex justify-center items-center scale-75 origin-center"
+                <a 
+                    href="https://clustrmaps.com/site/1c015"  // 点击后跳转查看详细数据的页面
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="block opacity-80 hover:opacity-100 transition-opacity duration-200"
                 >
-                    {/* 脚本注入 */}
-                </div>
+                    <img 
+                        src="//www.clustrmaps.com/map_v2.png?d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y&cl=ffffff" 
+                        alt="Visitor Map" 
+                        className="w-60 h-auto rounded-lg shadow-sm"
+                    />
+                </a>
             </div>
             
         </motion.div>
