@@ -402,7 +402,7 @@ export default function Profile({ author, social, features, researchInterests }:
                 */}
                 <div 
                     id="clustrmaps-widget" 
-                    className="flex justify-center items-center w-full min-h-[160px] overflow-hidden scale-90 origin-top"
+                    className="flex justify-center items-center w-full min-h-[165px] overflow-hidden scale-90 origin-top"
                 >
                     {/* 脚本会自动注入到这里 */}
                 </div>
