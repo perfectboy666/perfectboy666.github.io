@@ -68,29 +68,29 @@ export default function Profile({ author, social, features, researchInterests }:
     };
 
 
+    // 在组件内部
     useEffect(() => {
-        // 防止重复加载，检查是否已存在
-        if (document.getElementById('clstr_globe')) return;
+        // 1. 找到我们在 JSX 里预留的容器
+        const container = document.getElementById('clustrmaps-widget-container');
+        if (!container) return;
 
+        // 2. 暴力重置：先把容器清空，确保没有残留的旧脚本或 DOM 冲突
+        container.innerHTML = '';
+
+        // 3. 创建新的脚本标签
         const script = document.createElement('script');
         script.src = '//clustrmaps.com/globe.js?d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y';
-        script.id = 'clstr_globe';
+        script.id = 'clstr_globe'; // 必须保留这个 ID，脚本靠它来定位自己
         script.type = 'text/javascript';
         
-        // 获取我们将要放置地图的容器
-        const mapContainer = document.getElementById('clustrmaps-widget-container');
-        if (mapContainer) {
-            mapContainer.appendChild(script);
-        }
+        // 4. 插入到容器中
+        container.appendChild(script);
 
-        // 清理函数（可选，但在单页应用路由跳转时有帮助）
+        // 可选：组件卸载时再次清空，防止内存泄漏
         return () => {
-            const existingScript = document.getElementById('clstr_globe');
-            if (existingScript) {
-                existingScript.remove();
-            }
+            if (container) container.innerHTML = '';
         };
-    }, []);
+    }, []); // 依赖项保持为空数组，只在组件挂载时执行
 
     
     const socialLinks = [
@@ -378,22 +378,19 @@ export default function Profile({ author, social, features, researchInterests }:
                 </div>
             )}
 
-            {/* 👇 在这里添加访客地图模块 👇  */}
-
-            <div className="mt-8 flex flex-col items-center justify-center w-full overflow-hidden">
+            {/* 👇 访客地图模块容器 👇 */}
+            <div className="mt-8 flex flex-col items-center justify-center w-full">
                 <div className="text-xs text-neutral-400 mb-2 font-medium uppercase tracking-wider">
                     Visitors
                 </div>
-                {/* 这个 ID 必须和 useEffect 里获取的 ID 一致 */}
+                {/* 给一个最小高度 min-h-[100px] 确保加载时有位置 */}
                 <div 
                     id="clustrmaps-widget-container" 
-                    className="w-[200px] flex justify-center opacity-80 hover:opacity-100 transition-opacity duration-300"
+                    className="flex justify-center min-h-[150px] w-full"
                 >
-                    {/* 脚本会自动注入到这里 */}
+                    {/* 脚本会注入到这里 */}
                 </div>
             </div>
-
-            {/* 👆 添加结束 👆  */}
             
         </motion.div>
     );
