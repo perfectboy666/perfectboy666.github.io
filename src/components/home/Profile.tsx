@@ -67,6 +67,32 @@ export default function Profile({ author, social, features, researchInterests }:
         }
     };
 
+
+    useEffect(() => {
+        // 防止重复加载，检查是否已存在
+        if (document.getElementById('clstr_globe')) return;
+
+        const script = document.createElement('script');
+        script.src = '//clustrmaps.com/globe.js?d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y';
+        script.id = 'clstr_globe';
+        script.type = 'text/javascript';
+        
+        // 获取我们将要放置地图的容器
+        const mapContainer = document.getElementById('clustrmaps-widget-container');
+        if (mapContainer) {
+            mapContainer.appendChild(script);
+        }
+
+        // 清理函数（可选，但在单页应用路由跳转时有帮助）
+        return () => {
+            const existingScript = document.getElementById('clstr_globe');
+            if (existingScript) {
+                existingScript.remove();
+            }
+        };
+    }, []);
+
+    
     const socialLinks = [
         ...(social.email ? [{
             name: 'Email',
@@ -353,16 +379,17 @@ export default function Profile({ author, social, features, researchInterests }:
             )}
 
             {/* 👇 在这里添加访客地图模块 👇  */}
-            
-            <div className="mt-6 flex justify-center w-full">
-                {/* 这里的代码替换为你从地图网站（如 ClustrMaps）获取的代码 */}
-                {/* 示例：如果是图片链接 */}
-                {/* <a href="YOUR_LINK"><img src="YOUR_IMAGE_URL" alt="Visitor Map" /></a> */}
-                
-                {/* 如果是 Script 脚本，如果是 Next.js，可能需要使用 <Script> 组件或直接嵌入 iframe */}
-                <div className="overflow-hidden rounded-lg shadow-md">
-                     {/* 你的地图代码放这里 */}
-                     <p className="text-xs text-neutral-400">Visitor Map</p>
+
+            <div className="mt-8 flex flex-col items-center justify-center w-full overflow-hidden">
+                <div className="text-xs text-neutral-400 mb-2 font-medium uppercase tracking-wider">
+                    Visitors
+                </div>
+                {/* 这个 ID 必须和 useEffect 里获取的 ID 一致 */}
+                <div 
+                    id="clustrmaps-widget-container" 
+                    className="w-[200px] flex justify-center opacity-80 hover:opacity-100 transition-opacity duration-300"
+                >
+                    {/* 脚本会自动注入到这里 */}
                 </div>
             </div>
 
