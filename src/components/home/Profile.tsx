@@ -53,6 +53,33 @@ export default function Profile({ author, social, features, researchInterests }:
         }
     }, [features.enable_likes]);
 
+    // 👇👇👇 新增：这里是第二个 useEffect，专门用来加载地图 👇👇👇
+    useEffect(() => {
+        // 1. 防止重复加载
+        if (document.getElementById('clustrmaps')) return;
+
+        // 2. 找到 JSX 里的容器
+        const container = document.getElementById('clustrmaps-container');
+        if (!container) return;
+
+        // 3. 创建脚本 (使用你刚才提供的最新参数)
+        const script = document.createElement('script');
+        script.src = '//cdn.clustrmaps.com/map_v2.js?cl=fff6ec&w=300&t=tt&d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y&co=5094d5';
+        script.id = 'clustrmaps';
+        script.type = 'text/javascript';
+        
+        // 4. 插入脚本
+        container.appendChild(script);
+
+        // 清理函数
+        return () => {
+            const existingScript = document.getElementById('clustrmaps');
+            if (existingScript) existingScript.remove();
+            if (container) container.innerHTML = '';
+        };
+    }, []); 
+    // 👆👆👆 新增结束 👆👆👆
+
     const handleLike = () => {
         const newLikedState = !hasLiked;
         setHasLiked(newLikedState);
@@ -352,23 +379,22 @@ export default function Profile({ author, social, features, researchInterests }:
                 </div>
             )}
 
-            {/* 👇 访客地图模块容器 👇 */}
+            {/* 👇 访客地图（最新设置的平面版） 👇 */}
             <div className="mt-8 flex flex-col items-center justify-center w-full">
                 <div className="text-xs text-neutral-400 mb-2 font-medium uppercase tracking-wider">
                     Visitors
                 </div>
-                <a 
-                    href="https://clustrmaps.com/site/1c015"  // 点击后跳转查看详细数据的页面
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="block opacity-80 hover:opacity-100 transition-opacity duration-200"
+                
+                {/* 容器设置：
+                    w-full + max-w-[300px]: 限制最大宽度为你设置的 300，但在小屏幕上自适应
+                    overflow-hidden: 确保不撑破侧边栏
+                */}
+                <div 
+                    id="clustrmaps-container" 
+                    className="flex justify-center items-center min-h-[100px] w-full max-w-[300px] overflow-hidden opacity-90 hover:opacity-100 transition-opacity"
                 >
-                    <img 
-                        src="//www.clustrmaps.com/map_v2.png?d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y&cl=ffffff" 
-                        alt="Visitor Map" 
-                        className="w-60 h-auto rounded-lg shadow-sm"
-                    />
-                </a>
+                    {/* 脚本会自动注入到这里 */}
+                </div>
             </div>
             
         </motion.div>
