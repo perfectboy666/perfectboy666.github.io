@@ -53,32 +53,40 @@ export default function Profile({ author, social, features, researchInterests }:
         }
     }, [features.enable_likes]);
 
-// 👇👇👇 新增：3D 地球仪加载逻辑 👇👇👇
-    useEffect(() => {
-        // 1. 检查是否已存在脚本，防止重复
-        if (document.getElementById('clstr_globe')) return;
 
-        // 2. 找到 JSX 里的容器
-        const container = document.getElementById('globe-wrapper');
+    // ... 前面是点赞功能的 useEffect ...
+
+    // 👇👇👇 新增：ClustrMaps 平面地图加载逻辑 👇👇👇
+    useEffect(() => {
+        // 1. 定义脚本 ID，防止重复加载
+        const scriptId = 'clustrmaps';
+        
+        // 2. 如果已经存在，就不再加载
+        if (document.getElementById(scriptId)) return;
+
+        // 3. 找到我们在 JSX 里预留的容器
+        const container = document.getElementById('clustrmaps-widget');
         if (!container) return;
 
-        // 3. 创建脚本标签 (使用你提供的 3D 地球仪链接)
+        // 4. 创建脚本标签
         const script = document.createElement('script');
-        script.src = '//clustrmaps.com/globe.js?d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y';
-        script.id = 'clstr_globe'; // 必须保留这个ID
+        // 使用你提供的完整链接
+        script.src = '//cdn.clustrmaps.com/map_v2.js?cl=fff6ec&w=300&t=tt&d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y&co=5094d5';
+        script.id = scriptId;
         script.type = 'text/javascript';
         
-        // 4. 将脚本放入容器
+        // 5. 将脚本插入容器
         container.appendChild(script);
 
-        // 5. 清理函数
+        // 6. 清理函数：组件卸载时移除脚本
         return () => {
-            const existingScript = document.getElementById('clstr_globe');
+            const existingScript = document.getElementById(scriptId);
             if (existingScript) existingScript.remove();
+            // 清空容器内容，防止残留
             if (container) container.innerHTML = '';
         };
     }, []);
-    // 👆👆👆 新增结束 👆👆👆
+    // 👆👆👆 结束 👆👆👆
 
     const handleLike = () => {
         const newLikedState = !hasLiked;
@@ -378,29 +386,27 @@ export default function Profile({ author, social, features, researchInterests }:
                     </div>
                 </div>
             )}
+            
 
-            {/* 👇 访客地图（最新设置的平面版） 👇 */}
-            <div className="mt-8 flex flex-col items-center justify-center w-full overflow-hidden">
+            {/* 👇 访客地图（平面版）容器 👇 */}
+            <div className="mt-8 flex flex-col items-center justify-center w-full">
                 <div className="text-xs text-neutral-400 mb-2 font-medium uppercase tracking-wider">
                     Visitors
                 </div>
                 
-                {/* 关键修改说明：
-                   1. scale-75 : 整体缩小为原来的 75%。
-                   2. origin-center : 保持在正中心缩放。
-                   3. min-h-[...]: 因为缩放后视觉变小了，但实际占位没变，
-                      为了避免上下留白太多，或者被切掉，我们给一个合适的容器限制。
+                {/* 容器设置：
+                   1. id="clustrmaps-widget": 必须和 useEffect 里的 ID 一致
+                   2. min-h-[150px]: 预留高度，防止加载时页面抖动
+                   3. overflow-hidden: 裁剪超出部分
+                   4. scale-90: 稍微缩小一点点(90%)，让两边留白更舒服
                 */}
-                <div className="flex justify-center items-center w-full h-[200px]">
-                     <div 
-                        id="globe-wrapper" 
-                        className="scale-75 origin-center pointer-events-auto"
-                     >
-                        {/* 脚本会自动在这里生成一个 canvas 地球仪 */}
-                     </div>
+                <div 
+                    id="clustrmaps-widget" 
+                    className="flex justify-center items-center w-full min-h-[150px] overflow-hidden scale-90 origin-top"
+                >
+                    {/* 脚本会自动注入到这里 */}
                 </div>
             </div>
-            
         </motion.div>
     );
 }
