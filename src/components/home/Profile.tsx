@@ -384,16 +384,15 @@ export default function Profile({ author, social, features, researchInterests }:
                     Visitors
                 </div>
                 
-                {/* 修改说明：
-                   1. w-32 h-32 : 设置固定宽高为 128px (你可以改成 w-28 h-28 变得更小)
-                   2. overflow-hidden : 防止地球仪过大撑破布局
-                   3. rounded-full : 如果想要圆形切角可以加这个，不需要则去掉
+                {/* 方案：使用 scale (缩放)
+                    scale-75: 缩小到 75%
+                    origin-center: 从中心缩放
                 */}
                 <div 
                     id="clustrmaps-widget-container" 
-                    className="flex justify-center items-center w-60 h-60 overflow-hidden mx-auto"
+                    className="flex justify-center items-center scale-75 origin-center"
                 >
-                    {/* 脚本会注入到这里，受到外层 w-32 的限制 */}
+                    {/* 脚本注入 */}
                 </div>
             </div>
             
