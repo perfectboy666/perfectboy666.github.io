@@ -351,9 +351,23 @@ export default function Profile({ author, social, features, researchInterests }:
                     </div>
                 </div>
             )}
+
+            {/* 👇 在这里添加访客地图模块 👇  */}
+            
+            <div className="mt-6 flex justify-center w-full">
+                {/* 这里的代码替换为你从地图网站（如 ClustrMaps）获取的代码 */}
+                {/* 示例：如果是图片链接 */}
+                {/* <a href="YOUR_LINK"><img src="YOUR_IMAGE_URL" alt="Visitor Map" /></a> */}
+                
+                {/* 如果是 Script 脚本，如果是 Next.js，可能需要使用 <Script> 组件或直接嵌入 iframe */}
+                <div className="overflow-hidden rounded-lg shadow-md">
+                     {/* 你的地图代码放这里 */}
+                     <p className="text-xs text-neutral-400">Visitor Map</p>
+                </div>
+            </div>
+
+            {/* 👆 添加结束 👆  */}
+            
         </motion.div>
-        // <div> 
-        //     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y"></script>
-        // </div>
     );
 }
