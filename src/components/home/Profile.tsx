@@ -383,12 +383,17 @@ export default function Profile({ author, social, features, researchInterests }:
                 <div className="text-xs text-neutral-400 mb-2 font-medium uppercase tracking-wider">
                     Visitors
                 </div>
-                {/* 给一个最小高度 min-h-[100px] 确保加载时有位置 */}
+                
+                {/* 修改说明：
+                   1. w-32 h-32 : 设置固定宽高为 128px (你可以改成 w-28 h-28 变得更小)
+                   2. overflow-hidden : 防止地球仪过大撑破布局
+                   3. rounded-full : 如果想要圆形切角可以加这个，不需要则去掉
+                */}
                 <div 
                     id="clustrmaps-widget-container" 
-                    className="flex justify-center min-h-[150px] w-full"
+                    className="flex justify-center items-center w-32 h-32 overflow-hidden mx-auto"
                 >
-                    {/* 脚本会注入到这里 */}
+                    {/* 脚本会注入到这里，受到外层 w-32 的限制 */}
                 </div>
             </div>
             
