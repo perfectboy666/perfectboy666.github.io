@@ -391,7 +391,7 @@ export default function Profile({ author, social, features, researchInterests }:
                 */}
                 <div 
                     id="clustrmaps-widget-container" 
-                    className="flex justify-center items-center w-32 h-32 overflow-hidden mx-auto"
+                    className="flex justify-center items-center w-60 h-60 overflow-hidden mx-auto"
                 >
                     {/* 脚本会注入到这里，受到外层 w-32 的限制 */}
                 </div>
