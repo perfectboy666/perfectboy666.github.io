@@ -71,7 +71,7 @@ export default function Profile({ author, social, features, researchInterests }:
         // 4. 创建脚本标签
         const script = document.createElement('script');
         // 使用你提供的完整链接
-        script.src = '//cdn.clustrmaps.com/map_v2.js?cl=fff6ec&w=300&t=tt&d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y&co=5094d5';
+        script.src = '//cdn.clustrmaps.com/map_v2.js?cl=cdae7e&w=a&t=n&d=FWZFisT0_5-j7dpwkppxFYz7ygttuBi3zATDSK_5f3Y&co=ffffff&cmo=9c0000&cmn=094070&ct=3f3f3f';
         script.id = scriptId;
         script.type = 'text/javascript';
         
@@ -402,7 +402,7 @@ export default function Profile({ author, social, features, researchInterests }:
                 */}
                 <div 
                     id="clustrmaps-widget" 
-                    className="flex justify-center items-center w-full min-h-[150px] overflow-hidden scale-90 origin-top"
+                    className="flex justify-center items-center w-full min-h-[160px] overflow-hidden scale-90 origin-top"
                 >
                     {/* 脚本会自动注入到这里 */}
                 </div>
