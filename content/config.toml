@@ -1,23 +1,23 @@
 [site]
 title = "Tongyue's Homepage"
-description = "Master Student at Peking University."
+description = "Ph.D. Student at CUHK."
 favicon = "/favicon.ico"
 last_updated = "January, 2026"
 
 [author]
 name = "Tongyue Shi"
-title = "M.Sc. Student"
-institution = "Peking University"
+title = "Ph.D. Student"
+institution = "The Chinese University of Hong Kong"
 avatar = "/bio.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
 email = "tyshi.pku@gmail.com"
-location = "Beijing, China"
+location = "Hong Kong, China"
 location_url = "https://maps.google.com"
 location_details = [
-  "Peking University, Beijing, China"
+  "Hong Kong S.A.R., China"
 ]
 google_scholar = "https://scholar.google.com/citations?user=W91nE1gAAAAJ&hl=en"
 orcid = "https://orcid.org/0009-0005-6335-2702"
