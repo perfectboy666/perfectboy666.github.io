@@ -104,6 +104,13 @@ content = ""
 
 [[items]]
 title = "Conference Reviewer"
+subtitle = "IEEE ICHI 2026"
+date = "2026"
+content = ""
+
+
+[[items]]
+title = "Conference Reviewer"
 subtitle = "NeurIPS 2025"
 date = "2025"
 content = ""
