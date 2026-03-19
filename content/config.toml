@@ -13,11 +13,11 @@ avatar = "/bio.jpg"
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "tyshi.pku@gmail.com"
-location = "Hong Kong, China"
+email = "shitongyue@gmail.com"
+location = "Hong Kong SAR, China"
 location_url = "https://maps.google.com"
 location_details = [
-  "Hong Kong S.A.R., China"
+  "Hong Kong SAR, China"
 ]
 google_scholar = "https://scholar.google.com/citations?user=W91nE1gAAAAJ&hl=en"
 orcid = "https://orcid.org/0009-0005-6335-2702"
