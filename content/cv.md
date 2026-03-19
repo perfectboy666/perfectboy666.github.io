@@ -6,11 +6,11 @@
 
 ## Experience
 
-- **HUAWEI Technologies**, Engineer Intern, 2021.
-- **Harvard University**, Visit Student, 2022.
-- **Ximalaya Inc.**, Algorithm Intern at Everest Intelligent Laboratory, 2023.
-- **Shanghai AI Laboratory**, Research Intern at OpenMMLab, 2023.
-- **Baidu Inc.**, Algorithm Intern at AI Industry Division, 2024.
+- **Engineer Intern**, HUAWEI Technologies, 2021.
+- **Winter School Student**, Harvard University, 2022.
+- **Algorithm Intern**, Everest Intelligent Laboratory, Ximalaya Inc., 2023.
+- **Research Intern**, OpenMMLab, Shanghai AI Laboratory, 2023.
+- **Algorithm Intern**, AI Industry Division, Baidu Inc., 2024.
 
 
 ## Skills
