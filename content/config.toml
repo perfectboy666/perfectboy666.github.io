@@ -38,12 +38,6 @@ target = "about"
 href = "/"
 
 [[navigation]]
-title = "CV"
-type = "page"
-target = "cv"
-href = "/cv"
-
-[[navigation]]
 title = "Publications"
 type = "page"
 target = "publications"
