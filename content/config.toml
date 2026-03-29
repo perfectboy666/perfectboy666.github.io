@@ -14,10 +14,10 @@ avatar = "/bio.jpg"
 # Contact information (leave blank or delete to hide)
 
 email = "shitongyue@gmail.com"
-location = "Hong Kong SAR, China"
+location = "Hong Kong"
 location_url = "https://maps.google.com"
 location_details = [
-  "Hong Kong SAR, China"
+  "Hong Kong"
 ]
 google_scholar = "https://scholar.google.com/citations?user=W91nE1gAAAAJ&hl=en"
 orcid = "https://orcid.org/0009-0005-6335-2702"
