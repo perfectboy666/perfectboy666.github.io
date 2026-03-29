@@ -107,6 +107,13 @@ date = "Present"
 content = ""
 
 
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Computing Surveys"
+date = "Present"
+content = ""
+
+
 # --- Conference Reviewer ---
 
 [[items]]
