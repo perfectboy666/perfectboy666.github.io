@@ -114,6 +114,17 @@ date = "Present"
 content = ""
 
 
+
+# --- Program Committee Member ---
+
+[[items]]
+title = "Program Committee Member"
+subtitle = "ICIC 2025 & 2026"
+date = "2025, 2026"
+content = ""
+
+
+
 # --- Conference Reviewer ---
 
 [[items]]
@@ -182,11 +193,3 @@ subtitle = "IEEE Cloud Summit 2026"
 date = "2026"
 content = ""
 
-
-# --- Program Committee Member ---
-
-[[items]]
-title = "Program Committee Member"
-subtitle = "ICIC 2025 & 2026"
-date = "2025, 2026"
-content = ""
