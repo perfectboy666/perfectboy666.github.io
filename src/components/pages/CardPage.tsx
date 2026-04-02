@@ -15,6 +15,8 @@ function groupItemsByCategory(items: CardItem[]): Record<string, CardItem[]> {
             category = 'Journal Reviewer';
         } else if (item.title.includes('Conference Reviewer')) {
             category = 'Conference Reviewer';
+        } else if (item.title.includes('Program Committee Member')) {
+            category = 'Program Committee Member';
         } else if (item.title.includes('Kaggle') || item.subtitle?.includes('Kaggle')) {
             category = 'Kaggle Competitions';
         } else if (item.title.includes('Scholarship') || item.subtitle?.includes('Ministry of Education')) {
