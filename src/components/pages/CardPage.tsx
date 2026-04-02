@@ -15,12 +15,10 @@ function groupItemsByCategory(items: CardItem[]): Record<string, CardItem[]> {
             category = 'Journal Reviewer';
         } else if (item.title.includes('Conference Reviewer')) {
             category = 'Conference Reviewer';
-        } else if (item.title.includes('Program Committee Member')) {
-            category = 'Program Committee Member';
         } else if (item.title.includes('Kaggle') || item.subtitle?.includes('Kaggle')) {
             category = 'Kaggle Competitions';
-        } else if (item.title.includes('Scholarship') || item.subtitle?.includes('Ministry of Education')) {
-            category = 'Academic Honors';
+        } else if (item.title.includes('Scholarship') || item.subtitle?.includes('Ministry of Education') || item.subtitle?.includes('Student') || item.subtitle?.includes('Individual')) {
+            category = 'Honors';
         } else if (item.title.includes('Prize') || item.title.includes('Winner')) {
             category = 'Competition Awards';
         }
