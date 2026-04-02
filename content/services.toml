@@ -147,14 +147,32 @@ content = ""
 
 [[items]]
 title = "Conference Reviewer"
-subtitle = "NeurIPS 2025"
-date = "2025"
+subtitle = "ACL 2025 & 2026"
+date = "2025, 2026"
 content = ""
 
 [[items]]
 title = "Conference Reviewer"
-subtitle = "ACL 2025 & 2026"
+subtitle = "ICML 2026"
+date = "2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ICIC 2025 & 2026"
 date = "2025, 2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "IEEE Cloud Summit 2026"
+date = "2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "NeurIPS 2025"
+date = "2025"
 content = ""
 
 [[items]]
@@ -163,11 +181,6 @@ subtitle = "EMNLP 2025"
 date = "2025"
 content = ""
 
-[[items]]
-title = "Conference Reviewer"
-subtitle = "ICIC 2025 & 2026"
-date = "2025, 2026"
-content = ""
 
 [[items]]
 title = "Conference Reviewer"
@@ -193,9 +206,5 @@ subtitle = "IEEE SMC 2024"
 date = "2024"
 content = ""
 
-[[items]]
-title = "Conference Reviewer"
-subtitle = "IEEE Cloud Summit 2026"
-date = "2026"
-content = ""
+
 
