@@ -124,6 +124,11 @@ subtitle = "Expert Systems"
 date = "Present"
 content = "JCR Q2, IF 2.3"
 
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Artificial Intelligence in Emergency Medicine"
+date = "Present"
+content = "New journal"
 
 
 # --- Program Committee Member ---
