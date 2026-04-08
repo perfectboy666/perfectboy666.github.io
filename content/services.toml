@@ -131,6 +131,14 @@ date = "Present"
 content = "New journal"
 
 
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Considerations in Medicine"
+date = "Present"
+content = "New journal"
+
+
+
 # --- Program Committee Member ---
 
 [[items]]
