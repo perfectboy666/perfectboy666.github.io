@@ -5,6 +5,18 @@ description = "Selected honors and awards I have received."
 [[items]]
 title = "National Scholarship"
 subtitle = "Ministry of Education of China"
+date = "2026"
+content = "北京市优秀毕业生"
+
+[[items]]
+title = "National Scholarship"
+subtitle = "Ministry of Education of China"
+date = "2026"
+content = "北京大学优秀毕业生"
+
+[[items]]
+title = "National Scholarship"
+subtitle = "Ministry of Education of China"
 date = "2024"
 content = "国家奖学金（研究生）"
 
