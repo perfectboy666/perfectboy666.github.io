@@ -19,7 +19,9 @@ function groupItemsByCategory(items: CardItem[]): Record<string, CardItem[]> {
             category = 'Program Committee Member';
         } else if (item.title.includes('Kaggle') || item.subtitle?.includes('Kaggle')) {
             category = 'Kaggle Competitions';
-        } else if (item.title.includes('Scholarship') || item.title?.includes('Ministry of Education') || item.title?.includes('Student') || item.title?.includes('Individual')) {
+        } else if (item.title.includes('Scholarship') ) {
+            category = 'Scholarship';
+        } else if (item.title.includes('Outstanding') || item.title?.includes('Ministry of Education') || item.title?.includes('Student') || item.title?.includes('Individual') || item.title?.includes('Graduate')) {
             category = 'Honors';
         } else if (item.title.includes('Prize') || item.title.includes('Winner')) {
             category = 'Competition Awards';
