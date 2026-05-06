@@ -69,3 +69,9 @@ title = "National Level Second Prize"
 subtitle = "China Undergraduate Mathematical Contest in Modelling (CUMCM)"
 date = "2021"
 content = "全国大学生数学建模竞赛国家级二等奖"
+
+[[items]]
+title = "National Level Third Prize"
+subtitle = "National Software and Information Technology Professional Talent Competition"
+date = "2022"
+content = "蓝桥杯全国软件和信息技术专业人才大赛Python程序设计组国家级三等奖"
