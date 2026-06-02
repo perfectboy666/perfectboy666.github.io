@@ -27,4 +27,3 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-
