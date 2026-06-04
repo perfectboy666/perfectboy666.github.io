@@ -42,6 +42,12 @@ content = "JCR Q1, IF 9.7"
 
 [[items]]
 title = "Journal Reviewer"
+subtitle = "ACM Transactions on Computing for Healthcare"
+date = "Present"
+content = "JCR Q1, IF 8.0"
+
+[[items]]
+title = "Journal Reviewer"
 subtitle = "IEEE Transactions on Industrial Cyber-Physical Systems"
 date = "Present"
 content = "New journal"
