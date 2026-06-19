@@ -8,61 +8,61 @@ description = "Professional services and community involvement."
 title = "Journal Reviewer"
 subtitle = "ACM Computing Surveys"
 date = "Present"
-content = "JCR Q1, IF 28.0"
+content = "JCR Q1, IF 30.4"
 
 [[items]]
 title = "Journal Reviewer"
 subtitle = "npj Digital Medicine"
 date = "Present"
-content = "JCR Q1, IF 15.1"
-
-[[items]]
-title = "Journal Reviewer"
-subtitle = "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
-date = "Present"
-content = "JCR Q1, IF 8.9"
+content = "JCR Q1, IF 18.0"
 
 [[items]]
 title = "Journal Reviewer"
 subtitle = "IEEE Transactions on Cybernetics"
 date = "Present"
-content = "JCR Q1, IF 10.5"
+content = "JCR Q1, IF 11.3"
 
 [[items]]
 title = "Journal Reviewer"
 subtitle = "IEEE Transactions on Consumer Electronics (TCE)"
 date = "Present"
-content = "JCR Q1, IF 10.9"
+content = "JCR Q1, IF 9.9"
 
 [[items]]
 title = "Journal Reviewer"
 subtitle = "IEEE Transactions on Multimedia (TMM)"
 date = "Present"
+content = "JCR Q1, IF 9.9"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
+date = "Present"
 content = "JCR Q1, IF 9.7"
-
-[[items]]
-title = "Journal Reviewer"
-subtitle = "ACM Transactions on Computing for Healthcare"
-date = "Present"
-content = "JCR Q1, IF 8.0"
-
-[[items]]
-title = "Journal Reviewer"
-subtitle = "IEEE Transactions on Industrial Cyber-Physical Systems"
-date = "Present"
-content = "New journal"
 
 [[items]]
 title = "Journal Reviewer"
 subtitle = "Pattern Recognition"
 date = "Present"
-content = "JCR Q1, IF 7.6"
+content = "JCR Q1, IF 9.1"
 
 [[items]]
 title = "Journal Reviewer"
 subtitle = "Journal of Medical Internet Research (JMIR)"
 date = "Present"
-content = "JCR Q1, IF 6.0"
+content = "JCR Q1, IF 8.2"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "IEEE Transactions on Industrial Cyber-Physical Systems"
+date = "Present"
+content = "JCR Q1, IF 7.4"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "ACM Transactions on Autonomous and Adaptive Systems (TAAS)"
+date = "Present"
+content = "JCR Q1, IF 5.2"
 
 [[items]]
 title = "Journal Reviewer"
@@ -72,27 +72,51 @@ content = "JCR Q2, IF 4.7"
 
 [[items]]
 title = "Journal Reviewer"
-subtitle = "ACM Transactions on Autonomous and Adaptive Systems (TAAS)"
+subtitle = "Kidney Medicine"
 date = "Present"
-content = "JCR Q2, IF 2.1"
+content = "JCR Q1, IF 4.1"
 
 [[items]]
 title = "Journal Reviewer"
-subtitle = "Engineering Reports"
+subtitle = "ACM Transactions on Computing for Healthcare"
 date = "Present"
-content = "JCR Q2, IF 2.0"
+content = "JCR Q2, IF 4.0"
 
 [[items]]
 title = "Journal Reviewer"
 subtitle = "Discover Applied Sciences"
 date = "Present"
-content = "New journal"
+content = "JCR Q1, IF 3.8"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Expert Systems"
+date = "Present"
+content = "JCR Q2, IF 3.4"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Engineering Reports"
+date = "Present"
+content = "JCR Q2, IF 2.9"
 
 [[items]]
 title = "Journal Reviewer"
 subtitle = "Brain and Behavior"
 date = "Present"
-content = "JCR Q2, IF 2.7"
+content = "JCR Q2, IF 2.8"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Multimedia Systems"
+date = "Present"
+content = "JCR Q2, IF 2.8"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Computer Methods in Biomechanics and Biomedical Engineering"
+date = "Present"
+content = "JCR Q3, IF 1.9"
 
 [[items]]
 title = "Journal Reviewer"
@@ -102,27 +126,9 @@ content = "New journal"
 
 [[items]]
 title = "Journal Reviewer"
-subtitle = "Multimedia Systems"
-date = "Present"
-content = "JCR Q2, IF 3.1"
-
-[[items]]
-title = "Journal Reviewer"
-subtitle = "Computer Methods in Biomechanics and Biomedical Engineering"
-date = "Present"
-content = "JCR Q3, IF 1.6"
-
-[[items]]
-title = "Journal Reviewer"
 subtitle = "Journal of Information and Intelligence"
 date = "Present"
 content = "New journal"
-
-[[items]]
-title = "Journal Reviewer"
-subtitle = "Kidney Medicine"
-date = "Present"
-content = "JCR Q1, IF 3.4"
 
 [[items]]
 title = "Journal Reviewer"
@@ -132,117 +138,12 @@ content = "New journal"
 
 [[items]]
 title = "Journal Reviewer"
-subtitle = "Expert Systems"
-date = "Present"
-content = "JCR Q2, IF 2.3"
-
-[[items]]
-title = "Journal Reviewer"
 subtitle = "Artificial Intelligence in Emergency Medicine"
 date = "Present"
 content = "New journal"
-
 
 [[items]]
 title = "Journal Reviewer"
 subtitle = "Considerations in Medicine"
 date = "Present"
 content = "New journal"
-
-
-
-# --- Program Committee Member ---
-
-[[items]]
-title = "Program Committee Member"
-subtitle = "ICIC 2025 & 2026"
-date = "2025, 2026"
-content = ""
-
-
-
-# --- Conference Reviewer ---
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "AMIA 2026"
-date = "2026"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "IEEE ICHI 2026"
-date = "2026"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "ACL 2025 & 2026"
-date = "2025, 2026"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "ICML 2026"
-date = "2026"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "ICIC 2025 & 2026"
-date = "2025, 2026"
-content = ""
-
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "ICANN 2026"
-date = "2026"
-content = ""
-
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "IEEE Cloud Summit 2026"
-date = "2026"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "NeurIPS 2025"
-date = "2025"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "EMNLP 2025"
-date = "2025"
-content = ""
-
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "ICAI 2025"
-date = "2025"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "ACM Multimedia Asia 2025"
-date = "2025"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "CAC 2025"
-date = "2025"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "IEEE SMC 2024"
-date = "2024"
-content = ""
-
-
-

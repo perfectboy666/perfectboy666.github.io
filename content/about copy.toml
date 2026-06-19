@@ -15,6 +15,13 @@ source = "bio.md"
 title = "About"
 
 [[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Selected Publications"
+filter = "selected"
+limit = 5
+
+[[sections]]
 id = "news"
 type = "list"
 title = "News"
