@@ -101,9 +101,9 @@
   --color-glass-shadow: var(--glass-shadow);
   
   /* Typography */
-  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-sans: 'Harding Text Web', Georgia, serif;
   --font-serif: 'Harding Text Web', Georgia, serif;
-  --font-mono: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+  --font-mono: 'Harding Text Web', Georgia, serif;
   
   /* Font sizes */
   --font-size-xs: 0.75rem;
