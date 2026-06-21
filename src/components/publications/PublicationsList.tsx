@@ -63,7 +63,7 @@ export default function PublicationsList({ config, publications, embedded = fals
             transition={{ duration: 0.6, delay: 0.4 }}
         >
             <div className="mb-8">
-                <h1 className={`${embedded ? "text-2xl" : "text-4xl"} font-serif font-bold text-primary mb-4`}>{config.title}</h1>
+                <h1 className="text-2xl font-serif font-bold text-primary mb-4">{config.title}</h1>
                 {config.description && (
                     <p className={`${embedded ? "text-base" : "text-lg"} text-neutral-600 dark:text-neutral-500 max-w-2xl`}>
                         {config.description}
