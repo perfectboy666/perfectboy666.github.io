@@ -147,3 +147,47 @@ title = "Journal Reviewer"
 subtitle = "Considerations in Medicine"
 date = "Present"
 content = "New journal"
+
+
+
+# --- Program Committee Member ---
+
+[[items]]
+title = "Program Committee Member"
+subtitle = "ICIC 2025 & 2026"
+date = "2025, 2026"
+content = ""
+
+
+
+# --- Conference Reviewer ---
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "AMIA 2026"
+date = "2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "IEEE ICHI 2026"
+date = "2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ACL 2025 & 2026"
+date = "2025, 2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ICML 2026"
+date = "2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ICIC 2025 & 2026"
+date = "2025, 2026"
+content = ""
