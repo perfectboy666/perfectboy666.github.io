@@ -93,7 +93,7 @@ export default function Navigation({ items, siteTitle, enableOnePageMode }: Navi
                 : 'bg-transparent'
             )}
           >
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="flex justify-between items-center h-16 lg:h-20">
                 {/* Logo/Name */}
                 <motion.div
@@ -131,7 +131,7 @@ export default function Navigation({ items, siteTitle, enableOnePageMode }: Navi
                             prefetch={true}
                             onClick={() => enableOnePageMode && setActiveHash(`#${item.target}`)}
                             className={cn(
-                              'relative px-3 py-2 text-sm font-medium transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm',
+                              'relative px-3 py-2 text-sm font-bold transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm',
                               isActive
                                 ? 'text-primary'
                                 : 'text-neutral-600 hover:text-primary'
@@ -215,7 +215,7 @@ export default function Navigation({ items, siteTitle, enableOnePageMode }: Navi
                             prefetch={true}
                             onClick={() => enableOnePageMode && setActiveHash(item.href === '/' ? '' : `#${item.target}`)}
                             className={cn(
-                              'block px-3 py-2 rounded-md text-base font-medium transition-all duration-200',
+                              'block px-3 py-2 rounded-md text-base font-bold transition-all duration-200',
                               isActive
                                 ? 'text-primary bg-accent/10 border-l-4 border-accent'
                                 : 'text-neutral-600 hover:text-primary hover:bg-neutral-50'
