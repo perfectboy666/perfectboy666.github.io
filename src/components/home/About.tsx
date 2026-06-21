@@ -16,7 +16,7 @@ export default function About({ content, title = 'About' }: AboutProps) {
             transition={{ duration: 0.6, delay: 0.2 }}
         >
             <h2 className="text-2xl font-serif font-bold text-primary mb-4">{title}</h2>
-            <div className="text-neutral-700 dark:text-neutral-600 leading-relaxed">
+            <div className="text-[1.0625rem] text-neutral-700 dark:text-neutral-600 leading-relaxed">
                 <ReactMarkdown
                     components={{
                         h1: ({ children }) => <h1 className="text-3xl font-serif font-bold text-primary mt-8 mb-4">{children}</h1>,

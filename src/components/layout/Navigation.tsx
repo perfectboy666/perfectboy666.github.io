@@ -103,7 +103,7 @@ export default function Navigation({ items, siteTitle, enableOnePageMode }: Navi
                 >
                   <Link
                     href="/"
-                    className="text-xl lg:text-2xl font-serif font-semibold text-primary hover:text-accent transition-colors duration-200"
+                    className="text-lg lg:text-xl font-serif font-semibold text-primary hover:text-accent transition-colors duration-200"
                   >
                     {siteTitle}
                   </Link>
@@ -131,7 +131,7 @@ export default function Navigation({ items, siteTitle, enableOnePageMode }: Navi
                             prefetch={true}
                             onClick={() => enableOnePageMode && setActiveHash(`#${item.target}`)}
                             className={cn(
-                              'relative px-3 py-2 text-sm font-bold transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm',
+                              'relative px-3 py-2 text-base font-bold transition-all duration-200 rounded hover:bg-accent/10 hover:shadow-sm',
                               isActive
                                 ? 'text-primary'
                                 : 'text-neutral-600 hover:text-primary'
