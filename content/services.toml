@@ -114,6 +114,12 @@ content = "JCR Q2, IF 2.8"
 
 [[items]]
 title = "Journal Reviewer"
+subtitle = "IET Image Processing"
+date = "Present"
+content = "JCR Q3, IF 2.4"
+
+[[items]]
+title = "Journal Reviewer"
 subtitle = "Computer Methods in Biomechanics and Biomedical Engineering"
 date = "Present"
 content = "JCR Q3, IF 1.9"
@@ -148,6 +154,11 @@ subtitle = "Considerations in Medicine"
 date = "Present"
 content = "New journal"
 
+[[items]]
+title = "Journal Reviewer"
+subtitle = "AI Med"
+date = "Present"
+content = "New journal"
 
 
 # --- Program Committee Member ---
