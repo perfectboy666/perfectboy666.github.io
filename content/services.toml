@@ -24,13 +24,19 @@ content = "JCR Q1, IF 11.3"
 
 [[items]]
 title = "Journal Reviewer"
-subtitle = "IEEE Transactions on Consumer Electronics (TCE)"
+subtitle = "IEEE Transactions on Circuits and Systems for Video Technology"
+date = "Present"
+content = "JCR Q1, IF 10.8"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = "IEEE Transactions on Multimedia (TMM)"
 date = "Present"
 content = "JCR Q1, IF 9.9"
 
 [[items]]
 title = "Journal Reviewer"
-subtitle = "IEEE Transactions on Multimedia (TMM)"
+subtitle = "IEEE Transactions on Consumer Electronics (TCE)"
 date = "Present"
 content = "JCR Q1, IF 9.9"
 
@@ -170,19 +176,12 @@ date = "2025, 2026"
 content = ""
 
 
-
 # --- Conference Reviewer ---
 
 [[items]]
 title = "Conference Reviewer"
-subtitle = "AMIA 2026"
-date = "2026"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "IEEE ICHI 2026"
-date = "2026"
+subtitle = "NeurIPS 2025 & 2026"
+date = "2025, 2026"
 content = ""
 
 [[items]]
@@ -199,10 +198,27 @@ content = ""
 
 [[items]]
 title = "Conference Reviewer"
-subtitle = "ICIC 2025 & 2026"
+subtitle = "EMNLP 2025 & 2026"
 date = "2025, 2026"
 content = ""
 
+[[items]]
+title = "Conference Reviewer"
+subtitle = "AMIA 2026"
+date = "2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "IEEE ICHI 2026"
+date = "2026"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ICIC 2025 & 2026"
+date = "2025, 2026"
+content = ""
 
 [[items]]
 title = "Conference Reviewer"
@@ -210,25 +226,11 @@ subtitle = "ICANN 2026"
 date = "2026"
 content = ""
 
-
 [[items]]
 title = "Conference Reviewer"
 subtitle = "IEEE Cloud Summit 2026"
 date = "2026"
 content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "NeurIPS 2025"
-date = "2025"
-content = ""
-
-[[items]]
-title = "Conference Reviewer"
-subtitle = "EMNLP 2025"
-date = "2025"
-content = ""
-
 
 [[items]]
 title = "Conference Reviewer"
