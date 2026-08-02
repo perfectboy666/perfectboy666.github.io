@@ -20,8 +20,8 @@ location_details = [
   "Hong Kong SAR, China"
 ]
 google_scholar = "https://scholar.google.com/citations?user=W91nE1gAAAAJ&hl=en"
+# github = "https://github.com"
 orcid = "https://orcid.org/0009-0005-6335-2702"
-github = "https://github.com"
 # linkedin = "https://linkedin.com"
 
 [features]
