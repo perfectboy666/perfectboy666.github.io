@@ -188,7 +188,7 @@ content = "New journal"
 # --- Program Committee Member ---
 
 [[items]]
-title = "Conference Reviewer"
+title = "Program Committee Member"
 subtitle = "WSDM 2027"
 date = "2027"
 content = ""
