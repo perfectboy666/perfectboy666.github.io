@@ -149,8 +149,8 @@ export default function Profile({ author, social, features, researchInterests }:
                 <Image
                     src={author.avatar}
                     alt={author.name}
-                    width={192}
-                    height={192}
+                    width={176}
+                    height={224}
                     className="w-full h-full object-cover object-[32%_center]"
                     priority
                 />
