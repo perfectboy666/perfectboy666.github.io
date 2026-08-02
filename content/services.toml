@@ -72,6 +72,12 @@ content = "JCR Q1, IF 7.4"
 
 [[items]]
 title = "Journal Reviewer"
+subtitle = "Neurocomputing"
+date = "Present"
+content = "JCR Q1, IF 6.5"
+
+[[items]]
+title = "Journal Reviewer"
 subtitle = "ACM Transactions on Autonomous and Adaptive Systems (TAAS)"
 date = "Present"
 content = "JCR Q1, IF 5.2"
@@ -182,6 +188,13 @@ content = "New journal"
 # --- Program Committee Member ---
 
 [[items]]
+title = "Conference Reviewer"
+subtitle = "WSDM 2027"
+date = "2027"
+content = ""
+
+
+[[items]]
 title = "Program Committee Member"
 subtitle = "ICIC 2025 & 2026"
 date = "2025, 2026"
@@ -189,6 +202,12 @@ content = ""
 
 
 # --- Conference Reviewer ---
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "WSDM 2027"
+date = "2027"
+content = ""
 
 [[items]]
 title = "Conference Reviewer"
