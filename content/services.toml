@@ -193,10 +193,15 @@ subtitle = "WSDM 2027"
 date = "2027"
 content = ""
 
-
 [[items]]
 title = "Program Committee Member"
 subtitle = "ICIC 2025 & 2026"
+date = "2025, 2026"
+content = ""
+
+[[items]]
+title = "Program Committee Member"
+subtitle = "ICAI 2025 & 2026"
 date = "2025, 2026"
 content = ""
 
@@ -271,8 +276,8 @@ content = ""
 
 [[items]]
 title = "Conference Reviewer"
-subtitle = "ICAI 2025"
-date = "2025"
+subtitle = "ICAI 2025 & 2026"
+date = "2025, 2026"
 content = ""
 
 [[items]]
