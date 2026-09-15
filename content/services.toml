@@ -211,6 +211,12 @@ subtitle = "ICAI 2025 & 2026"
 date = "2025, 2026"
 content = ""
 
+[[items]]
+title = "Program Committee Member"
+subtitle = "ICDM Workshop TML4DM"
+date = "2026"
+content = ""
+
 
 # --- Conference Reviewer ---
 
