@@ -1,16 +1,15 @@
 ## Education
 
 - **Ph.D.**, Department of Electronic Engineering, The Chinese University of Hong Kong, 2026-present.
-- **M.Sc.**, National Institute of Health Data Science, Peking University, 2023-2026.
-- **B.Eng.**, School of Computer Science and Technology, Soochow University, 2019-2023.
+
 
 ## Experience
 
-- **Engineer Intern**, HUAWEI Technologies, 2021.
-- **Winter School Student**, Harvard University, 2022.
-- **Algorithm Intern**, Everest Intelligent Laboratory, Ximalaya Inc., 2023.
-- **Research Intern**, OpenMMLab, Shanghai AI Laboratory, 2023.
-- **Algorithm Intern**, AI Industry Division, Baidu Inc., 2024.
+- **Engineer Intern**, HUAWEI Technologies, 20.
+- **Winter School Student**, Harvard University, 20.
+- **Algorithm Intern**, Everest Intelligent Laboratory, Ximalaya Inc., 20.
+- **Research Intern**, OpenMMLab, Shanghai AI Laboratory, 20.
+- **Algorithm Intern**, AI Industry Division, Baidu Inc., 20.
 
 
 ## Skills

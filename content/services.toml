@@ -66,6 +66,12 @@ content = "JCR Q1, IF 7.7"
 
 [[items]]
 title = "Journal Reviewer"
+subtitle = "PLOS Digital Health"
+date = "Present"
+content = "JCR Q1, IF 7.7"
+
+[[items]]
+title = "Journal Reviewer"
 subtitle = "IEEE Transactions on Industrial Cyber-Physical Systems"
 date = "Present"
 content = "JCR Q1, IF 7.4"
@@ -190,6 +196,13 @@ subtitle = "AI Med"
 date = "Present"
 content = "New journal"
 
+[[items]]
+title = "Journal Reviewer"
+subtitle = "Journal of Data-centric Machine Learning Research"
+date = "Present"
+content = "New journal"
+
+
 
 # --- Program Committee Member ---
 
@@ -219,6 +232,14 @@ content = ""
 
 
 # --- Conference Reviewer ---
+
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "ICASSP 2027"
+date = "2027"
+content = ""
+
 
 [[items]]
 title = "Conference Reviewer"

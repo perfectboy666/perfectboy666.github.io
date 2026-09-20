@@ -2,7 +2,7 @@
 title = "Tongyue's Homepage"
 description = "Ph.D. Student"
 favicon = "/favicon.ico"
-last_updated = "August, 2026"
+last_updated = "September, 2026"
 
 [author]
 name = "Tongyue Shi"
@@ -54,4 +54,3 @@ title = "Services"
 type = "page"
 target = "services"
 href = "/services"
-
