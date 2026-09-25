@@ -2,14 +2,6 @@ type = "card"
 title = "Services"
 description = "Professional services and community involvement."
 
-# --- Editorial Board Member ---
-
-[[items]]
-title = "Editorial Board Member"
-subtitle = "Artificial Intelligence in Emergency Medicine"
-date = "Present"
-content = "New journal"
-
 # --- Journal Reviewer ---
 
 [[items]]
