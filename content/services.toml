@@ -2,6 +2,14 @@ type = "card"
 title = "Services"
 description = "Professional services and community involvement."
 
+# --- Editorial Board Member ---
+
+[[items]]
+title = "Editorial Board Member"
+subtitle = "Artificial Intelligence in Emergency Medicine"
+date = "Present"
+content = ""
+
 # --- Journal Reviewer ---
 
 [[items]]
@@ -132,6 +140,12 @@ content = "JCR Q1, IF 2.9"
 
 [[items]]
 title = "Journal Reviewer"
+subtitle = "SAGE Open Nursing"
+date = "Present"
+content = "JCR Q1, IF 2.9"
+
+[[items]]
+title = "Journal Reviewer"
 subtitle = "Engineering Reports"
 date = "Present"
 content = "JCR Q2, IF 2.9"
@@ -162,7 +176,7 @@ content = "JCR Q3, IF 1.9"
 
 [[items]]
 title = "Journal Reviewer"
-subtitle = "Jove-Journal of Visualized Experiments"
+subtitle = "JoVE (Journal of Visualized Experiments)"
 date = "Present"
 content = "JCR Q3, IF 1.2"
 
@@ -255,7 +269,7 @@ content = ""
 
 [[items]]
 title = "Conference Reviewer"
-subtitle = "IEE EMBS BHI 2026"
+subtitle = "IEEE EMBS BHI 2026"
 date = "2026"
 content = ""
 

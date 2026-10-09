@@ -11,7 +11,9 @@ function groupItemsByCategory(items: CardItem[]): Record<string, CardItem[]> {
         let category = 'Other';
 
         // Detect category based on title
-        if (item.title.includes('Journal Reviewer')) {
+        if (item.title.includes('Editorial Board Member')) {
+            category = 'Editorial Board Member';
+        } else if (item.title.includes('Journal Reviewer')) {
             category = 'Journal Reviewer';
         } else if (item.title.includes('Conference Reviewer')) {
             category = 'Conference Reviewer';
@@ -39,6 +41,12 @@ function groupItemsByCategory(items: CardItem[]): Record<string, CardItem[]> {
 export default function CardPage({ config, embedded = false }: { config: CardPageConfig; embedded?: boolean }) {
     const groupedItems = groupItemsByCategory(config.items);
     const categories = Object.keys(groupedItems);
+    const isAwardsPage = config.title.includes('Honors') || config.title.includes('Awards');
+    const selectedAwardCategoryTitles: Record<string, string> = {
+        Honors: 'Selected Honors',
+        Scholarship: 'Selected Scholarships',
+        'Competition Awards': 'Selected Competition Awards',
+    };
     
     // Check if this is Professional Activities page - don't show dates and item titles
     const hideDate = config.title.includes('Professional Activities') || config.title.includes('Services');
@@ -69,7 +77,7 @@ export default function CardPage({ config, embedded = false }: { config: CardPag
                         className={`bg-white dark:bg-neutral-900 ${embedded ? "p-4" : "p-6"} rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800 hover:shadow-md transition-all duration-200`}
                     >
                         <h2 className={`${embedded ? "text-base" : "text-lg"} font-semibold text-primary mb-4 pb-3 border-b border-neutral-200 dark:border-neutral-800`}>
-                            {category}
+                            {isAwardsPage ? selectedAwardCategoryTitles[category] ?? `Selected ${category}` : category}
                         </h2>
                         <div className="space-y-4">
                             {groupedItems[category].map((item, itemIndex) => (
